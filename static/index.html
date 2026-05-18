@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>KidVocab Vision 📷</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<!-- ════════════════ SPLASH ════════════════ -->
+<div id="splash" class="screen active">
+  <div class="splash-content">
+    <div class="splash-logo">🍎</div>
+    <h1>KidVocab Vision</h1>
+    <p>Học tiếng Anh qua đồ vật hằng ngày</p>
+    <div class="splash-loader"></div>
+  </div>
+</div>
+
+<!-- ════════════════ HOME ════════════════ -->
+<div id="home" class="screen">
+  <div class="scroll-wrap">
+    <header class="home-header">
+      <div class="greeting">
+        <span class="wave">👋</span>
+        <div>
+          <p class="greeting-sub">Xin chào bạn nhỏ!</p>
+          <h2 class="greeting-title">Học cùng KidVocab</h2>
+        </div>
+      </div>
+    </header>
+
+    <div class="hero-banner">
+      <div class="hero-text">
+        <h3>Quét đồ vật<br>Học tiếng Anh!</h3>
+        <button class="btn-hero" onclick="showScreen('scan')">📷 Quét ngay!</button>
+      </div>
+      <div class="hero-fruits">🎒<br>🍎<br>🚲</div>
+    </div>
+
+    <h3 class="section-title">Hoạt động</h3>
+    <div class="feature-grid">
+      <div class="feature-tile" style="--c:#FF7043" onclick="showScreen('scan')">
+        <div class="tile-icon-wrap" style="background:rgba(255,112,67,.15)">🔍</div>
+        <h4>Quét & Học</h4>
+        <p>Nhận diện đồ vật hằng ngày</p>
+      </div>
+      <div class="feature-tile" style="--c:#9B5DE5" onclick="showScreen('quiz')">
+        <div class="tile-icon-wrap" style="background:rgba(155,93,229,.15)">🧩</div>
+        <h4>Trắc nghiệm</h4>
+        <p>Kiểm tra kiến thức</p>
+      </div>
+      <div class="feature-tile" style="--c:#4CAF82" onclick="showScreen('dict')">
+        <div class="tile-icon-wrap" style="background:rgba(76,175,130,.15)">📖</div>
+        <h4>Từ điển</h4>
+        <p>Xem từ vựng theo chủ đề</p>
+      </div>
+      <div class="feature-tile" style="--c:#FF6B9D" onclick="showScreen('pronunciation')">
+        <div class="tile-icon-wrap" style="background:rgba(255,107,157,.15)">🎤</div>
+        <h4>Luyện nói</h4>
+        <p>Tập phát âm tiếng Anh</p>
+      </div>
+    </div>
+
+    <div class="stats-bar">
+      <div class="stat-item"><span class="stat-emoji">📚</span><span class="stat-label"><span id="stat-total-objects">1000+</span><br>từ vựng</span></div>
+      <div class="stat-divider"></div>
+      <div class="stat-item"><span class="stat-emoji">🎯</span><span class="stat-label">4 hoạt<br>động</span></div>
+      <div class="stat-divider"></div>
+      <div class="stat-item"><span class="stat-emoji">🌈</span><span class="stat-label"><span id="stat-total-categories">6</span> nhóm<br>chủ đề</span></div>
+    </div>
+  </div>
+</div>
+
+<!-- ════════════════ SCAN ════════════════ -->
+<div id="scan" class="screen scan-fullscreen">
+
+  <!-- Camera feed (full screen) -->
+  <video id="camera-video" autoplay playsinline muted></video>
+  <canvas id="camera-canvas" style="display:none"></canvas>
+
+  <!-- Top bar -->
+  <div class="scan-topbar">
+    <button class="btn-back btn-back-dark" onclick="showScreen('home')">←</button>
+    <span class="scan-title">Hướng camera vào vật thể</span>
+    <button class="btn-back btn-back-dark" onclick="switchCamera()" title="Đổi camera">🔄</button>
+  </div>
+
+  <!-- Scanning frame -->
+  <div class="scan-frame-wrap">
+    <div class="scan-frame" id="scan-frame">
+      <span class="corner tl"></span>
+      <span class="corner tr"></span>
+      <span class="corner bl"></span>
+      <span class="corner br"></span>
+      <div class="scan-line" id="scan-line"></div>
+    </div>
+    <p class="scan-hint" id="scan-hint">Đặt vật thể vào khung rồi bấm quét</p>
+  </div>
+
+  <!-- No camera placeholder -->
+  <div id="scan-placeholder" class="scan-placeholder hidden">
+    <span>📷</span>
+    <p>Không có camera</p>
+    <button class="btn-hero" onclick="openGallery()">📁 Chọn ảnh</button>
+  </div>
+
+  <!-- Bottom controls -->
+  <div class="scan-bottom">
+    <button class="btn-gallery" onclick="openGallery()">🖼️</button>
+    <button class="btn-capture-main" id="btn-capture" onclick="capturePhoto()">
+      <span class="capture-ring"></span>
+    </button>
+    <div style="width:52px"></div>
+  </div>
+  <input type="file" id="gallery-input" accept="image/*" style="display:none" onchange="handleGallery(event)" />
+
+  <!-- Result overlay (slides up over camera) -->
+  <div id="scan-result" class="result-overlay hidden" onclick="hideResult()">
+    <div class="result-card" onclick="event.stopPropagation()">
+      <div class="result-drag-bar"></div>
+      <button class="result-close-btn" onclick="hideResult()">✕ Quét lại</button>
+      <div id="result-emoji" class="result-emoji"></div>
+      <div id="result-name-en" class="result-name-en"></div>
+      <div id="result-name-vn" class="result-name-vn"></div>
+      <div id="result-phonetic" class="result-phonetic"></div>
+      <div id="result-confidence" class="result-confidence"></div>
+      <div class="result-actions">
+        <button class="btn-outline" onclick="speakResult()">🔊 Nghe lại</button>
+        <button class="btn-primary" id="btn-detail" onclick="openDetail()">📖 Học thêm</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Scanning animation overlay -->
+  <div id="scan-loading" class="scan-loading-overlay hidden">
+    <div class="scan-loading-text">
+      <div class="spinner-small"></div>
+      <span>Đang nhận diện...</span>
+    </div>
+  </div>
+</div>
+
+<!-- ════════════════ QUIZ ════════════════ -->
+<div id="quiz" class="screen">
+  <div id="quiz-playing">
+    <div class="screen-header">
+      <button class="btn-back" onclick="showScreen('home')">←</button>
+      <h2 id="quiz-counter">Câu 1 / 10</h2>
+      <div style="display:flex;gap:8px;align-items:center">
+        <div id="streak-badge" class="streak-badge-el" style="display:none"></div>
+        <div class="quiz-score-badge">⭐ <span id="quiz-score">0</span></div>
+      </div>
+    </div>
+
+    <div class="quiz-body">
+      <div class="progress-bar-wrap">
+        <div class="progress-bar" id="quiz-progress"></div>
+      </div>
+
+      <p class="quiz-question-label">Đây là gì?</p>
+      <div id="quiz-emoji" class="quiz-emoji"></div>
+
+      <div id="quiz-options" class="quiz-options"></div>
+
+      <button id="btn-next" class="btn-primary btn-full hidden" onclick="nextQuestion()">
+        Tiếp theo →
+      </button>
+    </div>
+  </div>
+
+  <div id="quiz-result" class="quiz-result-screen hidden">
+    <div id="quiz-result-emoji" class="result-big-emoji"></div>
+    <h2 id="quiz-result-msg"></h2>
+    <div class="result-score-card">
+      <div id="quiz-final-score" class="final-score"></div>
+      <p>câu đúng</p>
+      <div class="progress-bar-wrap" style="margin-top:12px">
+        <div class="progress-bar" id="quiz-final-bar"></div>
+      </div>
+      <p id="quiz-final-pct" class="final-pct"></p>
+    </div>
+    <div class="result-actions" style="margin-top:24px">
+      <button class="btn-outline purple" onclick="showScreen('home')">🏠 Về nhà</button>
+      <button class="btn-primary purple" onclick="startQuiz()">🔄 Chơi lại</button>
+    </div>
+  </div>
+</div>
+
+<!-- ════════════════ DICTIONARY ════════════════ -->
+<div id="dict" class="screen">
+  <div class="screen-header">
+    <button class="btn-back" onclick="showScreen('home')">←</button>
+    <h2>Từ điển 📖</h2>
+    <div style="width:40px"></div>
+  </div>
+
+  <div class="scroll-wrap">
+    <div class="search-wrap">
+      <input type="text" id="dict-search" placeholder="🔍 Tìm kiếm..." oninput="filterDict()" />
+      <div class="filter-row" id="filter-row">
+        <button class="filter-btn active" onclick="setFilter('all',this)">🌐 Tất cả</button>
+        <button class="filter-btn" onclick="setFilter('fruit',this)">🍎 Trái cây</button>
+        <button class="filter-btn" onclick="setFilter('animal',this)">🐾 Động vật</button>
+        <button class="filter-btn" onclick="setFilter('food',this)">🍕 Đồ ăn</button>
+        <button class="filter-btn" onclick="setFilter('vehicle',this)">🚗 Phương tiện</button>
+        <button class="filter-btn" onclick="setFilter('object',this)">📦 Đồ vật</button>
+        <button class="filter-btn" onclick="setFilter('nature',this)">🌿 Thiên nhiên</button>
+      </div>
+    </div>
+    <div id="dict-grid" class="dict-grid"></div>
+  </div>
+</div>
+
+<!-- ════════════════ DETAIL MODAL ════════════════ -->
+<div id="detail-modal" class="modal-overlay hidden" onclick="closeDetail(event)">
+  <div class="modal-card">
+    <button class="modal-close" onclick="closeDetail()">✕</button>
+    <div id="detail-emoji" class="modal-emoji"></div>
+    <div id="detail-name-en" class="modal-name-en"></div>
+    <div id="detail-name-vn" class="modal-name-vn"></div>
+    <div id="detail-phonetic" class="modal-phonetic"></div>
+    <div class="modal-info-row">
+      <div class="info-card">
+        <span>😋</span>
+        <p class="info-label">Vị</p>
+        <p id="detail-taste" class="info-value"></p>
+      </div>
+      <div class="info-card">
+        <span>💊</span>
+        <p class="info-label">Dinh dưỡng</p>
+        <p id="detail-nutrition" class="info-value"></p>
+      </div>
+    </div>
+    <div class="fun-fact-card">
+      <p class="fun-fact-title">💡 Bạn có biết không?</p>
+      <p id="detail-funfact"></p>
+    </div>
+    <div class="modal-actions">
+      <button class="btn-outline" id="detail-listen-btn">🔊 Nghe phát âm</button>
+      <button class="btn-primary pink" onclick="goToPronunciation()">🎤 Luyện nói</button>
+    </div>
+  </div>
+</div>
+
+<!-- ════════════════ PRONUNCIATION ════════════════ -->
+<div id="pronunciation" class="screen">
+  <div class="screen-header">
+    <button class="btn-back" onclick="showScreen('home')">←</button>
+    <h2>Luyện phát âm 🎤</h2>
+    <div style="width:40px"></div>
+  </div>
+
+  <div class="scroll-wrap pron-body">
+    <div id="pron-dots" class="pron-dots"></div>
+
+    <div class="pron-fruit-circle" id="pron-circle">
+      <span id="pron-emoji" class="pron-big-emoji"></span>
+    </div>
+
+    <h2 id="pron-name-en" class="pron-name-en"></h2>
+    <p id="pron-phonetic" class="pron-phonetic"></p>
+    <p id="pron-name-vn" class="pron-name-vn"></p>
+
+    <button class="btn-outline pink pron-listen-btn" onclick="pronounciationSpeak()">
+      🔊 Nghe mẫu
+    </button>
+
+    <button id="btn-mic" class="btn-mic" onclick="toggleListening()">🎤</button>
+    <p id="mic-label" class="mic-label">Bấm để nói</p>
+
+    <div id="spoken-bubble" class="spoken-bubble hidden"></div>
+
+    <div id="pron-stars" class="pron-stars hidden">
+      <div id="star-row" class="star-row"></div>
+      <p id="pron-feedback" class="pron-feedback"></p>
+    </div>
+
+    <button id="btn-pron-next" class="btn-primary pink btn-full hidden" onclick="nextPronunciation()">
+      Từ tiếp theo →
+    </button>
+  </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

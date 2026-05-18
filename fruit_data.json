@@ -1,0 +1,52 @@
+{
+  "apple": {
+    "nameEn": "Apple",
+    "nameVn": "Táo",
+    "emoji": "🍎",
+    "phonetic": "/ˈæpəl/",
+    "color": "#FF5252",
+    "taste": "Sweet & Crunchy",
+    "nutrition": "Rich in fiber & Vitamin C",
+    "funFact": "Apples float in water because 25% of their volume is air!"
+  },
+  "banana": {
+    "nameEn": "Banana",
+    "nameVn": "Chuối",
+    "emoji": "🍌",
+    "phonetic": "/bəˈnɑːnə/",
+    "color": "#FFAB00",
+    "taste": "Sweet & Soft",
+    "nutrition": "Rich in Potassium & Vitamin B6",
+    "funFact": "Bananas are technically berries, but strawberries are not!"
+  },
+  "grape": {
+    "nameEn": "Grape",
+    "nameVn": "Nho",
+    "emoji": "🍇",
+    "phonetic": "/ɡreɪp/",
+    "color": "#9B5DE5",
+    "taste": "Sweet & Juicy",
+    "nutrition": "Rich in antioxidants & Vitamin K",
+    "funFact": "It takes about 2.5 pounds of grapes to make one bottle of wine."
+  },
+  "orange": {
+    "nameEn": "Orange",
+    "nameVn": "Cam",
+    "emoji": "🍊",
+    "phonetic": "/ˈɒrɪndʒ/",
+    "color": "#FF7043",
+    "taste": "Sweet & Tangy",
+    "nutrition": "Very rich in Vitamin C",
+    "funFact": "Oranges were originally green! They turn orange only in cold weather."
+  },
+  "pomegranate": {
+    "nameEn": "Pomegranate",
+    "nameVn": "Lựu",
+    "emoji": "🍈",
+    "phonetic": "/ˈpɒmɪɡrænɪt/",
+    "color": "#E91E63",
+    "taste": "Sweet & Tart",
+    "nutrition": "Rich in antioxidants & fiber",
+    "funFact": "A pomegranate can have up to 1,400 seeds inside!"
+  }
+}
