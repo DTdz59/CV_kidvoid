@@ -152,6 +152,22 @@ body {
   backdrop-filter: blur(8px);
 }
 
+.scan-mode-switch {
+  position: absolute; top: 108px; left: 50%; transform: translateX(-50%);
+  z-index: 11; display: flex; gap: 4px; padding: 4px;
+  background: rgba(0,0,0,.45); border-radius: 18px;
+  backdrop-filter: blur(8px);
+}
+.mode-btn {
+  border: none; border-radius: 14px; padding: 8px 12px;
+  background: transparent; color: rgba(255,255,255,.82);
+  font-family: inherit; font-size: 12px; font-weight: 900;
+  cursor: pointer; white-space: nowrap;
+}
+.mode-btn.active {
+  background: white; color: var(--primary);
+}
+
 /* Scanning frame */
 .scan-frame-wrap {
   position: absolute; inset: 0; z-index: 5;
@@ -275,6 +291,10 @@ body {
 .result-meta-line {
   display: flex; align-items: center; justify-content: center;
   gap: 8px; flex-wrap: wrap; margin-bottom: 8px;
+}
+.mode-pill {
+  display: inline-block; padding: 4px 10px; border-radius: 20px;
+  background: #f3f3f8; color: #555; font-size: 12px; font-weight: 800;
 }
 .scan-warning {
   background: #fff6d7; color: #7a5200;

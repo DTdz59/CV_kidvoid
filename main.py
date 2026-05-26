@@ -1,6 +1,6 @@
 import json, re
 from pathlib import Path
-from fastapi import FastAPI, File, UploadFile, HTTPException
+from fastapi import FastAPI, File, Form, UploadFile, HTTPException
 from fastapi.staticfiles import StaticFiles
 from PIL import UnidentifiedImageError
 from model_handler import handler
@@ -34,6 +34,10 @@ def health():
         "fruit_ready":    handler.fruit_ready,
         "imagenet_ready": handler.imagenet_ready,
         "total_objects":  len(ALL_OBJECTS),
+        "modes": [
+            {"id": "fruit", "label": "Fruit model", "ready": handler.fruit_ready},
+            {"id": "imagenet", "label": "Everyday objects", "ready": handler.imagenet_ready},
+        ],
     }
 
 @app.get("/api/all-objects")
@@ -45,19 +49,22 @@ def get_object(label: str):
     return ALL_OBJECTS.get(label) or _fallback_info(label)
 
 @app.post("/api/predict")
-async def predict(file: UploadFile = File(...)):
+async def predict(file: UploadFile = File(...), mode: str = Form("imagenet")):
     contents = await file.read()
     if not contents:
         raise HTTPException(400, "Empty file")
 
-    if not handler.imagenet_ready:
+    mode = mode if mode in {"fruit", "imagenet"} else "imagenet"
+    if mode == "imagenet" and not handler.imagenet_ready:
         import random
         label = random.choice(list(ALL_OBJECTS.keys()))
         return {"source": "demo", "demo_mode": True,
                 "results": [{"label": label, "confidence": round(random.uniform(.7, .99), 3)}]}
+    if mode == "fruit" and not handler.fruit_ready:
+        raise HTTPException(503, "Fruit model is not ready")
 
     try:
-        result = handler.predict(contents)
+        result = handler.predict(contents, mode=mode)
     except UnidentifiedImageError:
         raise HTTPException(400, "Uploaded file is not a valid image")
     except OSError:

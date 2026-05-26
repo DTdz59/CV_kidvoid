@@ -114,22 +114,34 @@ Dự án hiện hỗ trợ 2 nhánh model:
 - Nhận diện khoảng 1000 lớp đối tượng phổ biến.
 - Đây là nhánh chính để app có thể học nhiều đồ vật hằng ngày, không bị giới hạn ở 5 loại trái cây.
 
-### 2. Fruit Model ResNet18 + SVM
+### 2. Fruit Model ResNet18 + HOG + ELM
 
-- Dự kiến dùng ResNet18 để trích đặc trưng.
-- Dùng SVM để phân loại 5 loại trái cây:
+- Đây là nhánh model đã train riêng cho đề tài phân loại trái cây ban đầu.
+- Dùng ResNet18 fine-tuned để trích đặc trưng ảnh.
+- Trích thêm đặc trưng HOG ở kích thước 128x128.
+- Chuẩn hóa hai nhóm đặc trưng bằng `sc_resnet.joblib` và `sc_hog.joblib`.
+- Ghép đặc trưng ResNet + HOG rồi phân loại bằng ensemble 3 ELM model.
+- Áp dụng temperature scaling từ `temperature.joblib`.
+- Phân loại 5 loại trái cây:
   - Apple.
   - Banana.
   - Grape.
   - Orange.
   - Pomegranate.
-- File model cần đặt tại:
+
+Các artifact model cần có trong thư mục `model/`:
 
 ```text
-model/svm_resnet.pkl
+model/resnet_finetuned.pth
+model/elm_0_relu.joblib
+model/elm_1_tanh.joblib
+model/elm_2_sigmoid.joblib
+model/sc_resnet.joblib
+model/sc_hog.joblib
+model/temperature.joblib
 ```
 
-Hiện tại có thể chạy app mà chưa cần file này. Nếu thiếu `svm_resnet.pkl`, backend tự động tắt nhánh fruit model và dùng ResNet50 ImageNet.
+Nếu thiếu các file này, backend sẽ tắt nhánh fruit model. Người dùng vẫn có thể dùng nhánh ImageNet để nhận diện vật dụng hằng ngày.
 
 ## Công Nghệ Sử Dụng
 
@@ -146,14 +158,20 @@ Hiện tại có thể chạy app mà chưa cần file này. Nếu thiếu `svm_
 fruit_web_app/
 ├── main.py                    # FastAPI app, API routes, static serving
 ├── model_handler.py           # Load model, preprocessing, quality check, inference
-├── save_model_kaggle.py       # Script train SVM trái cây trên Kaggle
 ├── generate_imagenet_dict.py  # Sinh dictionary từ ImageNet classes
+├── update_vietnamese_names.py # Bổ sung tên tiếng Việt cho dictionary ImageNet
+├── fix_specific_vn_names.py   # Sửa tay các nhãn ImageNet dịch máy chưa tốt
 ├── fruit_data.json            # Dữ liệu chi tiết cho 5 loại trái cây
 ├── imagenet_vn.json           # Dictionary mở rộng cho ImageNet objects
 ├── imagenet_full.json         # Dictionary ImageNet gốc/sinh tự động
 ├── requirements.txt           # Python dependencies
 ├── model/
-│   └── svm_resnet.pkl         # Optional, model trái cây tự train
+│   ├── final_model.ipynb      # Notebook train fruit model
+│   ├── resnet_finetuned.pth   # ResNet18 fine-tuned
+│   ├── elm_*.joblib           # ELM ensemble
+│   ├── sc_resnet.joblib       # Scaler đặc trưng ResNet
+│   ├── sc_hog.joblib          # Scaler đặc trưng HOG
+│   └── temperature.joblib     # Temperature scaling
 └── static/
     ├── index.html             # Giao diện chính
     ├── app.js                 # Logic frontend
@@ -227,11 +245,15 @@ Lấy thông tin chi tiết của một object theo label.
 
 ### `POST /api/predict`
 
-Nhận file ảnh và trả về kết quả nhận diện.
+Nhận file ảnh và trả về kết quả nhận diện. Request dùng `multipart/form-data`:
+
+- `file`: ảnh cần nhận diện.
+- `mode`: nhánh model, gồm `fruit` hoặc `imagenet`.
 
 Response gồm:
 
 - `source`: nhánh model được dùng.
+- `mode`: chế độ nhận diện được chọn.
 - `results`: top prediction.
 - `quality`: đánh giá chất lượng ảnh.
 - `preprocessing`: các bước tiền xử lý đã áp dụng.
@@ -268,22 +290,29 @@ Ví dụ:
 
 ## Train Fruit Model Trên Kaggle
 
-File [save_model_kaggle.py](save_model_kaggle.py) dùng để train model trái cây:
+Notebook [model/final_model.ipynb](model/final_model.ipynb) dùng để train nhánh phân loại trái cây:
 
 1. Load dataset 5 class.
-2. Resize ảnh.
-3. Dùng ResNet18 pretrained để trích đặc trưng.
-4. Train SVM kernel RBF.
-5. In accuracy.
-6. Lưu model thành `svm_resnet.pkl`.
+2. Trích đặc trưng HOG từ ảnh resize 128x128.
+3. Fine-tune ResNet18 trên 5 class trái cây.
+4. Dùng ResNet18 fine-tuned làm backbone trích đặc trưng 512 chiều.
+5. Chuẩn hóa đặc trưng ResNet và HOG.
+6. Ghép đặc trưng rồi train ensemble 3 ELM model.
+7. Tìm temperature tốt nhất và lưu toàn bộ artifact vào thư mục `model/`.
 
-Sau khi train xong, tải file về và đặt vào:
+Các file runtime quan trọng là:
 
 ```text
-model/svm_resnet.pkl
+model/resnet_finetuned.pth
+model/elm_0_relu.joblib
+model/elm_1_tanh.joblib
+model/elm_2_sigmoid.joblib
+model/sc_resnet.joblib
+model/sc_hog.joblib
+model/temperature.joblib
 ```
 
-Lưu ý: phần này là optional nếu mục tiêu hiện tại là app học nhiều đồ vật bằng ImageNet.
+Trong app, người dùng có thể bấm nút chuyển giữa nhánh `Fruit model` và `ImageNet`.
 
 ## Hạn Chế Hiện Tại
 
@@ -318,4 +347,3 @@ Dự án kết hợp Computer Vision và giáo dục:
 ## Tác Giả
 
 Dự án đồ án cuối kỳ môn Thị giác máy tính.
-

@@ -13,9 +13,11 @@ env/
 Thumbs.db
 
 model/*.pkl
+model/*.joblib
+model/*.npy
 model/*.pt
 model/*.pth
 model/*.onnx
+model/*.zip
 
 *.log
-

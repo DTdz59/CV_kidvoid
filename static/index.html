@@ -89,6 +89,11 @@
     <button class="btn-back btn-back-dark" onclick="switchCamera()" title="Đổi camera">🔄</button>
   </div>
 
+  <div class="scan-mode-switch">
+    <button class="mode-btn" data-mode="fruit" onclick="setScanMode('fruit')">Fruit model</button>
+    <button class="mode-btn active" data-mode="imagenet" onclick="setScanMode('imagenet')">ImageNet</button>
+  </div>
+
   <!-- Scanning frame -->
   <div class="scan-frame-wrap">
     <div class="scan-frame" id="scan-frame">

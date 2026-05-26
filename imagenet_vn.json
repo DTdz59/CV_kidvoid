@@ -1,7 +1,7 @@
 {
   "tench": {
     "nameEn": "Tench",
-    "nameVn": "Tench",
+    "nameVn": "Cá Tench",
     "emoji": "🐟",
     "phonetic": "",
     "color": "#26C6DA",
@@ -13,7 +13,7 @@
   },
   "goldfish": {
     "nameEn": "Goldfish",
-    "nameVn": "Goldfish",
+    "nameVn": "Cá vàng",
     "emoji": "🐟",
     "phonetic": "",
     "color": "#26C6DA",
@@ -25,7 +25,7 @@
   },
   "great_white_shark": {
     "nameEn": "Great White Shark",
-    "nameVn": "Great White Shark",
+    "nameVn": "Cá Great White Shark",
     "emoji": "🦈",
     "phonetic": "",
     "color": "#546E7A",
@@ -37,7 +37,7 @@
   },
   "tiger_shark": {
     "nameEn": "Tiger Shark",
-    "nameVn": "Tiger Shark",
+    "nameVn": "Cá mập hổ",
     "emoji": "🦈",
     "phonetic": "",
     "color": "#546E7A",
@@ -49,7 +49,7 @@
   },
   "hammerhead": {
     "nameEn": "Hammerhead",
-    "nameVn": "Hammerhead",
+    "nameVn": "Cá mập đầu búa",
     "emoji": "🔨",
     "phonetic": "",
     "color": "#78909C",
@@ -61,7 +61,7 @@
   },
   "electric_ray": {
     "nameEn": "Electric Ray",
-    "nameVn": "Electric Ray",
+    "nameVn": "Cá Electric Ray",
     "emoji": "🐟",
     "phonetic": "",
     "color": "#26C6DA",
@@ -73,7 +73,7 @@
   },
   "stingray": {
     "nameEn": "Stingray",
-    "nameVn": "Stingray",
+    "nameVn": "Cá đuối",
     "emoji": "🐟",
     "phonetic": "",
     "color": "#26C6DA",
@@ -85,7 +85,7 @@
   },
   "cock": {
     "nameEn": "Cock",
-    "nameVn": "Cock",
+    "nameVn": "Gà trống",
     "emoji": "🐔",
     "phonetic": "",
     "color": "#FFF176",
@@ -97,7 +97,7 @@
   },
   "hen": {
     "nameEn": "Hen",
-    "nameVn": "Hen",
+    "nameVn": "Gà mái",
     "emoji": "🐔",
     "phonetic": "",
     "color": "#FFF176",
@@ -109,7 +109,7 @@
   },
   "ostrich": {
     "nameEn": "Ostrich",
-    "nameVn": "Ostrich",
+    "nameVn": "Đà điểu",
     "emoji": "🐦",
     "phonetic": "",
     "color": "#29B6F6",
@@ -121,7 +121,7 @@
   },
   "brambling": {
     "nameEn": "Brambling",
-    "nameVn": "Brambling",
+    "nameVn": "Chim Brambling",
     "emoji": "🐦",
     "phonetic": "",
     "color": "#29B6F6",
@@ -133,7 +133,7 @@
   },
   "goldfinch": {
     "nameEn": "Goldfinch",
-    "nameVn": "Goldfinch",
+    "nameVn": "Chim Goldfinch",
     "emoji": "🐦",
     "phonetic": "",
     "color": "#29B6F6",
@@ -145,7 +145,7 @@
   },
   "house_finch": {
     "nameEn": "House Finch",
-    "nameVn": "House Finch",
+    "nameVn": "Chim House Finch",
     "emoji": "🐦",
     "phonetic": "",
     "color": "#29B6F6",
@@ -157,7 +157,7 @@
   },
   "junco": {
     "nameEn": "Junco",
-    "nameVn": "Junco",
+    "nameVn": "Chim Junco",
     "emoji": "🐦",
     "phonetic": "",
     "color": "#29B6F6",
@@ -169,7 +169,7 @@
   },
   "indigo_bunting": {
     "nameEn": "Indigo Bunting",
-    "nameVn": "Indigo Bunting",
+    "nameVn": "Chim Indigo Bunting",
     "emoji": "🐦",
     "phonetic": "",
     "color": "#29B6F6",
@@ -181,7 +181,7 @@
   },
   "robin": {
     "nameEn": "Robin",
-    "nameVn": "Robin",
+    "nameVn": "Chim cổ đỏ",
     "emoji": "🐦",
     "phonetic": "",
     "color": "#29B6F6",
@@ -193,7 +193,7 @@
   },
   "bulbul": {
     "nameEn": "Bulbul",
-    "nameVn": "Bulbul",
+    "nameVn": "Chim Bulbul",
     "emoji": "🐦",
     "phonetic": "",
     "color": "#29B6F6",
@@ -205,7 +205,7 @@
   },
   "jay": {
     "nameEn": "Jay",
-    "nameVn": "Jay",
+    "nameVn": "Chim Jay",
     "emoji": "🐦",
     "phonetic": "",
     "color": "#29B6F6",
@@ -217,7 +217,7 @@
   },
   "magpie": {
     "nameEn": "Magpie",
-    "nameVn": "Magpie",
+    "nameVn": "Chim Magpie",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -229,7 +229,7 @@
   },
   "chickadee": {
     "nameEn": "Chickadee",
-    "nameVn": "Chickadee",
+    "nameVn": "Chim Chickadee",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -241,7 +241,7 @@
   },
   "water_ouzel": {
     "nameEn": "Water Ouzel",
-    "nameVn": "Water Ouzel",
+    "nameVn": "Chim Water Ouzel",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -253,7 +253,7 @@
   },
   "kite": {
     "nameEn": "Kite",
-    "nameVn": "Diều",
+    "nameVn": "Chim Kite",
     "emoji": "🪁",
     "phonetic": "/kaɪt/",
     "color": "#FF7043",
@@ -265,7 +265,7 @@
   },
   "bald_eagle": {
     "nameEn": "Bald Eagle",
-    "nameVn": "Bald Eagle",
+    "nameVn": "Chim Bald Eagle",
     "emoji": "🐦",
     "phonetic": "",
     "color": "#29B6F6",
@@ -277,7 +277,7 @@
   },
   "vulture": {
     "nameEn": "Vulture",
-    "nameVn": "Vulture",
+    "nameVn": "Chim Vulture",
     "emoji": "🐦",
     "phonetic": "",
     "color": "#29B6F6",
@@ -289,7 +289,7 @@
   },
   "great_grey_owl": {
     "nameEn": "Great Grey Owl",
-    "nameVn": "Great Grey Owl",
+    "nameVn": "Chim Great Grey Owl",
     "emoji": "🐦",
     "phonetic": "",
     "color": "#29B6F6",
@@ -301,7 +301,7 @@
   },
   "european_fire_salamander": {
     "nameEn": "European Fire Salamander",
-    "nameVn": "European Fire Salamander",
+    "nameVn": "Kỳ giông European Fire Salamander",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -313,7 +313,7 @@
   },
   "common_newt": {
     "nameEn": "Common Newt",
-    "nameVn": "Common Newt",
+    "nameVn": "Kỳ giông Common Newt",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -325,7 +325,7 @@
   },
   "eft": {
     "nameEn": "Eft",
-    "nameVn": "Eft",
+    "nameVn": "Kỳ giông Eft",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -337,7 +337,7 @@
   },
   "spotted_salamander": {
     "nameEn": "Spotted Salamander",
-    "nameVn": "Spotted Salamander",
+    "nameVn": "Kỳ giông Spotted Salamander",
     "emoji": "🏺",
     "phonetic": "",
     "color": "#FF8F00",
@@ -349,7 +349,7 @@
   },
   "axolotl": {
     "nameEn": "Axolotl",
-    "nameVn": "Axolotl",
+    "nameVn": "Kỳ giông Axolotl",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -361,7 +361,7 @@
   },
   "bullfrog": {
     "nameEn": "Bullfrog",
-    "nameVn": "Bullfrog",
+    "nameVn": "Ếch Bullfrog",
     "emoji": "🐸",
     "phonetic": "",
     "color": "#4CAF50",
@@ -373,7 +373,7 @@
   },
   "tree_frog": {
     "nameEn": "Tree Frog",
-    "nameVn": "Tree Frog",
+    "nameVn": "Ếch Tree Frog",
     "emoji": "🐸",
     "phonetic": "",
     "color": "#4CAF50",
@@ -385,7 +385,7 @@
   },
   "tailed_frog": {
     "nameEn": "Tailed Frog",
-    "nameVn": "Tailed Frog",
+    "nameVn": "Ếch Tailed Frog",
     "emoji": "🐸",
     "phonetic": "",
     "color": "#4CAF50",
@@ -397,7 +397,7 @@
   },
   "loggerhead": {
     "nameEn": "Loggerhead",
-    "nameVn": "Loggerhead",
+    "nameVn": "Rùa Loggerhead",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -409,7 +409,7 @@
   },
   "leatherback_turtle": {
     "nameEn": "Leatherback Turtle",
-    "nameVn": "Leatherback Turtle",
+    "nameVn": "Rùa Leatherback Turtle",
     "emoji": "🐢",
     "phonetic": "",
     "color": "#66BB6A",
@@ -421,7 +421,7 @@
   },
   "mud_turtle": {
     "nameEn": "Mud Turtle",
-    "nameVn": "Mud Turtle",
+    "nameVn": "Rùa Mud Turtle",
     "emoji": "🐢",
     "phonetic": "",
     "color": "#66BB6A",
@@ -433,7 +433,7 @@
   },
   "terrapin": {
     "nameEn": "Terrapin",
-    "nameVn": "Terrapin",
+    "nameVn": "Rùa Terrapin",
     "emoji": "🐢",
     "phonetic": "",
     "color": "#66BB6A",
@@ -445,7 +445,7 @@
   },
   "box_turtle": {
     "nameEn": "Box Turtle",
-    "nameVn": "Box Turtle",
+    "nameVn": "Rùa Box Turtle",
     "emoji": "🐢",
     "phonetic": "",
     "color": "#66BB6A",
@@ -457,7 +457,7 @@
   },
   "banded_gecko": {
     "nameEn": "Banded Gecko",
-    "nameVn": "Banded Gecko",
+    "nameVn": "Thằn lằn Banded Gecko",
     "emoji": "🦎",
     "phonetic": "",
     "color": "#66BB6A",
@@ -469,7 +469,7 @@
   },
   "common_iguana": {
     "nameEn": "Common Iguana",
-    "nameVn": "Common Iguana",
+    "nameVn": "Thằn lằn Common Iguana",
     "emoji": "🦎",
     "phonetic": "",
     "color": "#66BB6A",
@@ -481,7 +481,7 @@
   },
   "american_chameleon": {
     "nameEn": "American Chameleon",
-    "nameVn": "American Chameleon",
+    "nameVn": "Thằn lằn American Chameleon",
     "emoji": "🦎",
     "phonetic": "",
     "color": "#66BB6A",
@@ -493,7 +493,7 @@
   },
   "whiptail": {
     "nameEn": "Whiptail",
-    "nameVn": "Whiptail",
+    "nameVn": "Đuôi roi",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -505,7 +505,7 @@
   },
   "agama": {
     "nameEn": "Agama",
-    "nameVn": "Agama",
+    "nameVn": "Thằn lằn Agama",
     "emoji": "🦎",
     "phonetic": "",
     "color": "#66BB6A",
@@ -517,7 +517,7 @@
   },
   "frilled_lizard": {
     "nameEn": "Frilled Lizard",
-    "nameVn": "Frilled Lizard",
+    "nameVn": "Thằn lằn Frilled Lizard",
     "emoji": "🦎",
     "phonetic": "",
     "color": "#66BB6A",
@@ -529,7 +529,7 @@
   },
   "alligator_lizard": {
     "nameEn": "Alligator Lizard",
-    "nameVn": "Alligator Lizard",
+    "nameVn": "Thằn lằn Alligator Lizard",
     "emoji": "🦎",
     "phonetic": "",
     "color": "#66BB6A",
@@ -541,7 +541,7 @@
   },
   "gila_monster": {
     "nameEn": "Gila Monster",
-    "nameVn": "Gila Monster",
+    "nameVn": "Thằn lằn Gila Monster",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -553,7 +553,7 @@
   },
   "green_lizard": {
     "nameEn": "Green Lizard",
-    "nameVn": "Green Lizard",
+    "nameVn": "Thằn lằn Green Lizard",
     "emoji": "🦎",
     "phonetic": "",
     "color": "#66BB6A",
@@ -565,7 +565,7 @@
   },
   "african_chameleon": {
     "nameEn": "African Chameleon",
-    "nameVn": "African Chameleon",
+    "nameVn": "Thằn lằn African Chameleon",
     "emoji": "🦎",
     "phonetic": "",
     "color": "#66BB6A",
@@ -577,7 +577,7 @@
   },
   "komodo_dragon": {
     "nameEn": "Komodo Dragon",
-    "nameVn": "Komodo Dragon",
+    "nameVn": "Thằn lằn Komodo Dragon",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -589,7 +589,7 @@
   },
   "african_crocodile": {
     "nameEn": "African Crocodile",
-    "nameVn": "African Crocodile",
+    "nameVn": "Cá sấu African Crocodile",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -601,7 +601,7 @@
   },
   "american_alligator": {
     "nameEn": "American Alligator",
-    "nameVn": "American Alligator",
+    "nameVn": "Cá sấu American Alligator",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -613,7 +613,7 @@
   },
   "triceratops": {
     "nameEn": "Triceratops",
-    "nameVn": "Triceratops",
+    "nameVn": "Khủng long ba sừng",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -625,7 +625,7 @@
   },
   "thunder_snake": {
     "nameEn": "Thunder Snake",
-    "nameVn": "Thunder Snake",
+    "nameVn": "Rắn Thunder Snake",
     "emoji": "🐍",
     "phonetic": "",
     "color": "#388E3C",
@@ -637,7 +637,7 @@
   },
   "ringneck_snake": {
     "nameEn": "Ringneck Snake",
-    "nameVn": "Ringneck Snake",
+    "nameVn": "Rắn Ringneck Snake",
     "emoji": "🐍",
     "phonetic": "",
     "color": "#388E3C",
@@ -649,7 +649,7 @@
   },
   "hognose_snake": {
     "nameEn": "Hognose Snake",
-    "nameVn": "Hognose Snake",
+    "nameVn": "Rắn Hognose Snake",
     "emoji": "🐍",
     "phonetic": "",
     "color": "#388E3C",
@@ -661,7 +661,7 @@
   },
   "green_snake": {
     "nameEn": "Green Snake",
-    "nameVn": "Green Snake",
+    "nameVn": "Rắn Green Snake",
     "emoji": "🐍",
     "phonetic": "",
     "color": "#388E3C",
@@ -673,7 +673,7 @@
   },
   "king_snake": {
     "nameEn": "King Snake",
-    "nameVn": "King Snake",
+    "nameVn": "Rắn King Snake",
     "emoji": "🐍",
     "phonetic": "",
     "color": "#388E3C",
@@ -685,7 +685,7 @@
   },
   "garter_snake": {
     "nameEn": "Garter Snake",
-    "nameVn": "Garter Snake",
+    "nameVn": "Cá Garter Snake",
     "emoji": "🐟",
     "phonetic": "",
     "color": "#26C6DA",
@@ -697,7 +697,7 @@
   },
   "water_snake": {
     "nameEn": "Water Snake",
-    "nameVn": "Water Snake",
+    "nameVn": "Rắn Water Snake",
     "emoji": "🐍",
     "phonetic": "",
     "color": "#388E3C",
@@ -709,7 +709,7 @@
   },
   "vine_snake": {
     "nameEn": "Vine Snake",
-    "nameVn": "Vine Snake",
+    "nameVn": "Rắn Vine Snake",
     "emoji": "🐍",
     "phonetic": "",
     "color": "#388E3C",
@@ -721,7 +721,7 @@
   },
   "night_snake": {
     "nameEn": "Night Snake",
-    "nameVn": "Night Snake",
+    "nameVn": "Rắn Night Snake",
     "emoji": "🐍",
     "phonetic": "",
     "color": "#388E3C",
@@ -733,7 +733,7 @@
   },
   "boa_constrictor": {
     "nameEn": "Boa Constrictor",
-    "nameVn": "Boa Constrictor",
+    "nameVn": "Rắn Boa Constrictor",
     "emoji": "🐍",
     "phonetic": "",
     "color": "#388E3C",
@@ -745,7 +745,7 @@
   },
   "rock_python": {
     "nameEn": "Rock Python",
-    "nameVn": "Rock Python",
+    "nameVn": "Rắn Rock Python",
     "emoji": "🐍",
     "phonetic": "",
     "color": "#388E3C",
@@ -757,7 +757,7 @@
   },
   "indian_cobra": {
     "nameEn": "Indian Cobra",
-    "nameVn": "Indian Cobra",
+    "nameVn": "Rắn Indian Cobra",
     "emoji": "🐍",
     "phonetic": "",
     "color": "#388E3C",
@@ -769,7 +769,7 @@
   },
   "green_mamba": {
     "nameEn": "Green Mamba",
-    "nameVn": "Green Mamba",
+    "nameVn": "Rắn Green Mamba",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -781,7 +781,7 @@
   },
   "sea_snake": {
     "nameEn": "Sea Snake",
-    "nameVn": "Sea Snake",
+    "nameVn": "Rắn Sea Snake",
     "emoji": "🐍",
     "phonetic": "",
     "color": "#388E3C",
@@ -793,7 +793,7 @@
   },
   "horned_viper": {
     "nameEn": "Horned Viper",
-    "nameVn": "Horned Viper",
+    "nameVn": "Rắn Horned Viper",
     "emoji": "🐍",
     "phonetic": "",
     "color": "#388E3C",
@@ -805,7 +805,7 @@
   },
   "diamondback": {
     "nameEn": "Diamondback",
-    "nameVn": "Diamondback",
+    "nameVn": "Rắn Diamondback",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -817,7 +817,7 @@
   },
   "sidewinder": {
     "nameEn": "Sidewinder",
-    "nameVn": "Sidewinder",
+    "nameVn": "Rắn Sidewinder",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -829,7 +829,7 @@
   },
   "trilobite": {
     "nameEn": "Trilobite",
-    "nameVn": "Trilobite",
+    "nameVn": "Bọ ba thùy",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -841,7 +841,7 @@
   },
   "harvestman": {
     "nameEn": "Harvestman",
-    "nameVn": "Harvestman",
+    "nameVn": "Người thu hoạch",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -853,7 +853,7 @@
   },
   "scorpion": {
     "nameEn": "Scorpion",
-    "nameVn": "Scorpion",
+    "nameVn": "Bọ cạp",
     "emoji": "🕷️",
     "phonetic": "",
     "color": "#5D4037",
@@ -865,7 +865,7 @@
   },
   "black_and_gold_garden_spider": {
     "nameEn": "Black And Gold Garden Spider",
-    "nameVn": "Black And Gold Garden Spider",
+    "nameVn": "Cá Black and Gold Garden Spider",
     "emoji": "🐟",
     "phonetic": "",
     "color": "#26C6DA",
@@ -877,7 +877,7 @@
   },
   "barn_spider": {
     "nameEn": "Barn Spider",
-    "nameVn": "Barn Spider",
+    "nameVn": "Nhện Barn Spider",
     "emoji": "🕷️",
     "phonetic": "",
     "color": "#5D4037",
@@ -889,7 +889,7 @@
   },
   "garden_spider": {
     "nameEn": "Garden Spider",
-    "nameVn": "Garden Spider",
+    "nameVn": "Cá Garden Spider",
     "emoji": "🐟",
     "phonetic": "",
     "color": "#26C6DA",
@@ -901,7 +901,7 @@
   },
   "black_widow": {
     "nameEn": "Black Widow",
-    "nameVn": "Black Widow",
+    "nameVn": "Nhện Black Widow",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -913,7 +913,7 @@
   },
   "tarantula": {
     "nameEn": "Tarantula",
-    "nameVn": "Tarantula",
+    "nameVn": "Nhện lớn",
     "emoji": "🕷️",
     "phonetic": "",
     "color": "#5D4037",
@@ -925,7 +925,7 @@
   },
   "wolf_spider": {
     "nameEn": "Wolf Spider",
-    "nameVn": "Wolf Spider",
+    "nameVn": "Nhện Wolf Spider",
     "emoji": "🕷️",
     "phonetic": "",
     "color": "#5D4037",
@@ -937,7 +937,7 @@
   },
   "tick": {
     "nameEn": "Tick",
-    "nameVn": "Tick",
+    "nameVn": "Côn trùng Tick",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -949,7 +949,7 @@
   },
   "centipede": {
     "nameEn": "Centipede",
-    "nameVn": "Centipede",
+    "nameVn": "Côn trùng Centipede",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -961,7 +961,7 @@
   },
   "black_grouse": {
     "nameEn": "Black Grouse",
-    "nameVn": "Black Grouse",
+    "nameVn": "Chim Black Grouse",
     "emoji": "🐔",
     "phonetic": "",
     "color": "#FFF176",
@@ -973,7 +973,7 @@
   },
   "ptarmigan": {
     "nameEn": "Ptarmigan",
-    "nameVn": "Ptarmigan",
+    "nameVn": "Chim Ptarmigan",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -985,7 +985,7 @@
   },
   "ruffed_grouse": {
     "nameEn": "Ruffed Grouse",
-    "nameVn": "Ruffed Grouse",
+    "nameVn": "Chim Ruffed Grouse",
     "emoji": "🐔",
     "phonetic": "",
     "color": "#FFF176",
@@ -997,7 +997,7 @@
   },
   "prairie_chicken": {
     "nameEn": "Prairie Chicken",
-    "nameVn": "Prairie Chicken",
+    "nameVn": "Chim Prairie Chicken",
     "emoji": "🐔",
     "phonetic": "",
     "color": "#FFF176",
@@ -1009,7 +1009,7 @@
   },
   "peacock": {
     "nameEn": "Peacock",
-    "nameVn": "Peacock",
+    "nameVn": "Công",
     "emoji": "🐦",
     "phonetic": "",
     "color": "#29B6F6",
@@ -1021,7 +1021,7 @@
   },
   "quail": {
     "nameEn": "Quail",
-    "nameVn": "Quail",
+    "nameVn": "Chim Quail",
     "emoji": "🐔",
     "phonetic": "",
     "color": "#FFF176",
@@ -1033,7 +1033,7 @@
   },
   "partridge": {
     "nameEn": "Partridge",
-    "nameVn": "Partridge",
+    "nameVn": "Chim Partridge",
     "emoji": "🐔",
     "phonetic": "",
     "color": "#FFF176",
@@ -1045,7 +1045,7 @@
   },
   "african_grey": {
     "nameEn": "African Grey",
-    "nameVn": "African Grey",
+    "nameVn": "Xám Châu Phi",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -1057,7 +1057,7 @@
   },
   "macaw": {
     "nameEn": "Macaw",
-    "nameVn": "Macaw",
+    "nameVn": "Vẹt Macaw",
     "emoji": "🐦",
     "phonetic": "",
     "color": "#29B6F6",
@@ -1069,7 +1069,7 @@
   },
   "sulphur-crested_cockatoo": {
     "nameEn": "Sulphur-crested Cockatoo",
-    "nameVn": "Sulphur-crested Cockatoo",
+    "nameVn": "Chim Sulphur-crested Cockatoo",
     "emoji": "🐦",
     "phonetic": "",
     "color": "#29B6F6",
@@ -1081,7 +1081,7 @@
   },
   "lorikeet": {
     "nameEn": "Lorikeet",
-    "nameVn": "Lorikeet",
+    "nameVn": "Chim Lorikeet",
     "emoji": "🐦",
     "phonetic": "",
     "color": "#29B6F6",
@@ -1093,7 +1093,7 @@
   },
   "coucal": {
     "nameEn": "Coucal",
-    "nameVn": "Coucal",
+    "nameVn": "Chim Coucal",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -1105,7 +1105,7 @@
   },
   "bee_eater": {
     "nameEn": "Bee Eater",
-    "nameVn": "Bee Eater",
+    "nameVn": "Chim Bee Eater",
     "emoji": "🐦",
     "phonetic": "",
     "color": "#29B6F6",
@@ -1117,7 +1117,7 @@
   },
   "hornbill": {
     "nameEn": "Hornbill",
-    "nameVn": "Hornbill",
+    "nameVn": "Chim Hornbill",
     "emoji": "🐦",
     "phonetic": "",
     "color": "#29B6F6",
@@ -1129,7 +1129,7 @@
   },
   "hummingbird": {
     "nameEn": "Hummingbird",
-    "nameVn": "Hummingbird",
+    "nameVn": "Chim Hummingbird",
     "emoji": "🐦",
     "phonetic": "",
     "color": "#29B6F6",
@@ -1141,7 +1141,7 @@
   },
   "jacamar": {
     "nameEn": "Jacamar",
-    "nameVn": "Jacamar",
+    "nameVn": "Chim Jacamar",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -1153,7 +1153,7 @@
   },
   "toucan": {
     "nameEn": "Toucan",
-    "nameVn": "Toucan",
+    "nameVn": "Chim Toucan",
     "emoji": "🐦",
     "phonetic": "",
     "color": "#29B6F6",
@@ -1165,7 +1165,7 @@
   },
   "drake": {
     "nameEn": "Drake",
-    "nameVn": "Drake",
+    "nameVn": "Chim Drake",
     "emoji": "🦆",
     "phonetic": "",
     "color": "#80DEEA",
@@ -1177,7 +1177,7 @@
   },
   "red-breasted_merganser": {
     "nameEn": "Red-breasted Merganser",
-    "nameVn": "Red-breasted Merganser",
+    "nameVn": "Chim Red-breasted Merganser",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -1189,7 +1189,7 @@
   },
   "goose": {
     "nameEn": "Goose",
-    "nameVn": "Goose",
+    "nameVn": "Ngỗng Goose",
     "emoji": "🦆",
     "phonetic": "",
     "color": "#80DEEA",
@@ -1201,7 +1201,7 @@
   },
   "black_swan": {
     "nameEn": "Black Swan",
-    "nameVn": "Black Swan",
+    "nameVn": "Chim Black Swan",
     "emoji": "🦆",
     "phonetic": "",
     "color": "#80DEEA",
@@ -1213,7 +1213,7 @@
   },
   "tusker": {
     "nameEn": "Tusker",
-    "nameVn": "Tusker",
+    "nameVn": "Ngà",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -1225,7 +1225,7 @@
   },
   "echidna": {
     "nameEn": "Echidna",
-    "nameVn": "Echidna",
+    "nameVn": "Thú lông nhím",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -1237,7 +1237,7 @@
   },
   "platypus": {
     "nameEn": "Platypus",
-    "nameVn": "Platypus",
+    "nameVn": "Thú mỏ vịt",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -1249,7 +1249,7 @@
   },
   "wallaby": {
     "nameEn": "Wallaby",
-    "nameVn": "Wallaby",
+    "nameVn": "Chuột túi Wallaby",
     "emoji": "🦘",
     "phonetic": "",
     "color": "#A1887F",
@@ -1261,7 +1261,7 @@
   },
   "koala": {
     "nameEn": "Koala",
-    "nameVn": "Koala",
+    "nameVn": "Gấu túi",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -1273,7 +1273,7 @@
   },
   "wombat": {
     "nameEn": "Wombat",
-    "nameVn": "Wombat",
+    "nameVn": "Tử cung",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -1285,7 +1285,7 @@
   },
   "jellyfish": {
     "nameEn": "Jellyfish",
-    "nameVn": "Jellyfish",
+    "nameVn": "Sứa",
     "emoji": "🐟",
     "phonetic": "",
     "color": "#26C6DA",
@@ -1297,7 +1297,7 @@
   },
   "sea_anemone": {
     "nameEn": "Sea Anemone",
-    "nameVn": "Sea Anemone",
+    "nameVn": "Sinh vật biển Sea Anemone",
     "emoji": "🪼",
     "phonetic": "",
     "color": "#CE93D8",
@@ -1309,7 +1309,7 @@
   },
   "brain_coral": {
     "nameEn": "Brain Coral",
-    "nameVn": "Brain Coral",
+    "nameVn": "Sinh vật biển Brain Coral",
     "emoji": "🪸",
     "phonetic": "",
     "color": "#FF7043",
@@ -1321,7 +1321,7 @@
   },
   "flatworm": {
     "nameEn": "Flatworm",
-    "nameVn": "Flatworm",
+    "nameVn": "Giun dẹp",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -1333,7 +1333,7 @@
   },
   "nematode": {
     "nameEn": "Nematode",
-    "nameVn": "Nematode",
+    "nameVn": "Tuyến trùng",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -1345,7 +1345,7 @@
   },
   "conch": {
     "nameEn": "Conch",
-    "nameVn": "Conch",
+    "nameVn": "Sinh vật biển Conch",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -1357,7 +1357,7 @@
   },
   "snail": {
     "nameEn": "Snail",
-    "nameVn": "Snail",
+    "nameVn": "Sinh vật biển Snail",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -1369,7 +1369,7 @@
   },
   "slug": {
     "nameEn": "Slug",
-    "nameVn": "Slug",
+    "nameVn": "Sinh vật biển Slug",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -1381,7 +1381,7 @@
   },
   "sea_slug": {
     "nameEn": "Sea Slug",
-    "nameVn": "Sea Slug",
+    "nameVn": "Sinh vật biển Sea Slug",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -1393,7 +1393,7 @@
   },
   "chiton": {
     "nameEn": "Chiton",
-    "nameVn": "Chiton",
+    "nameVn": "Sinh vật biển Chiton",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -1405,7 +1405,7 @@
   },
   "chambered_nautilus": {
     "nameEn": "Chambered Nautilus",
-    "nameVn": "Chambered Nautilus",
+    "nameVn": "Sinh vật biển Chambered Nautilus",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -1417,7 +1417,7 @@
   },
   "dungeness_crab": {
     "nameEn": "Dungeness Crab",
-    "nameVn": "Dungeness Crab",
+    "nameVn": "Cua/tôm Dungeness Crab",
     "emoji": "🦀",
     "phonetic": "",
     "color": "#EF5350",
@@ -1429,7 +1429,7 @@
   },
   "rock_crab": {
     "nameEn": "Rock Crab",
-    "nameVn": "Rock Crab",
+    "nameVn": "Cua/tôm Rock Crab",
     "emoji": "🦀",
     "phonetic": "",
     "color": "#EF5350",
@@ -1441,7 +1441,7 @@
   },
   "fiddler_crab": {
     "nameEn": "Fiddler Crab",
-    "nameVn": "Fiddler Crab",
+    "nameVn": "Cua/tôm Fiddler Crab",
     "emoji": "🦀",
     "phonetic": "",
     "color": "#EF5350",
@@ -1453,7 +1453,7 @@
   },
   "king_crab": {
     "nameEn": "King Crab",
-    "nameVn": "King Crab",
+    "nameVn": "Cua/tôm King Crab",
     "emoji": "🦀",
     "phonetic": "",
     "color": "#EF5350",
@@ -1465,7 +1465,7 @@
   },
   "american_lobster": {
     "nameEn": "American Lobster",
-    "nameVn": "American Lobster",
+    "nameVn": "Cua/tôm American Lobster",
     "emoji": "🦀",
     "phonetic": "",
     "color": "#EF5350",
@@ -1477,7 +1477,7 @@
   },
   "spiny_lobster": {
     "nameEn": "Spiny Lobster",
-    "nameVn": "Spiny Lobster",
+    "nameVn": "Cua/tôm Spiny Lobster",
     "emoji": "🦀",
     "phonetic": "",
     "color": "#EF5350",
@@ -1489,7 +1489,7 @@
   },
   "crayfish": {
     "nameEn": "Crayfish",
-    "nameVn": "Crayfish",
+    "nameVn": "Cá Crayfish",
     "emoji": "🐟",
     "phonetic": "",
     "color": "#26C6DA",
@@ -1501,7 +1501,7 @@
   },
   "hermit_crab": {
     "nameEn": "Hermit Crab",
-    "nameVn": "Hermit Crab",
+    "nameVn": "Cua/tôm Hermit Crab",
     "emoji": "🦀",
     "phonetic": "",
     "color": "#EF5350",
@@ -1513,7 +1513,7 @@
   },
   "isopod": {
     "nameEn": "Isopod",
-    "nameVn": "Isopod",
+    "nameVn": "Đồng vị",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -1525,7 +1525,7 @@
   },
   "white_stork": {
     "nameEn": "White Stork",
-    "nameVn": "White Stork",
+    "nameVn": "Cò trắng",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -1537,7 +1537,7 @@
   },
   "black_stork": {
     "nameEn": "Black Stork",
-    "nameVn": "Black Stork",
+    "nameVn": "Cò đen",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -1549,7 +1549,7 @@
   },
   "spoonbill": {
     "nameEn": "Spoonbill",
-    "nameVn": "Spoonbill",
+    "nameVn": "Thìa thìa",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -1561,7 +1561,7 @@
   },
   "flamingo": {
     "nameEn": "Flamingo",
-    "nameVn": "Flamingo",
+    "nameVn": "Chim hồng hạc",
     "emoji": "🐦",
     "phonetic": "",
     "color": "#29B6F6",
@@ -1573,7 +1573,7 @@
   },
   "little_blue_heron": {
     "nameEn": "Little Blue Heron",
-    "nameVn": "Little Blue Heron",
+    "nameVn": "Diệc xanh nhỏ",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -1585,7 +1585,7 @@
   },
   "american_egret": {
     "nameEn": "American Egret",
-    "nameVn": "American Egret",
+    "nameVn": "Cò Mỹ",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -1597,7 +1597,7 @@
   },
   "bittern": {
     "nameEn": "Bittern",
-    "nameVn": "Bittern",
+    "nameVn": "Đắng",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -1609,7 +1609,7 @@
   },
   "crane_bird": {
     "nameEn": "Crane Bird",
-    "nameVn": "Crane Bird",
+    "nameVn": "Chim sếu",
     "emoji": "🐦",
     "phonetic": "",
     "color": "#29B6F6",
@@ -1621,7 +1621,7 @@
   },
   "limpkin": {
     "nameEn": "Limpkin",
-    "nameVn": "Limpkin",
+    "nameVn": "Người khập khiễng",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -1633,7 +1633,7 @@
   },
   "european_gallinule": {
     "nameEn": "European Gallinule",
-    "nameVn": "European Gallinule",
+    "nameVn": "Mật châu Âu",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -1645,7 +1645,7 @@
   },
   "american_coot": {
     "nameEn": "American Coot",
-    "nameVn": "American Coot",
+    "nameVn": "Củ cải Mỹ",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -1657,7 +1657,7 @@
   },
   "bustard": {
     "nameEn": "Bustard",
-    "nameVn": "Bustard",
+    "nameVn": "Bán thân",
     "emoji": "🚌",
     "phonetic": "",
     "color": "#FFB300",
@@ -1669,7 +1669,7 @@
   },
   "ruddy_turnstone": {
     "nameEn": "Ruddy Turnstone",
-    "nameVn": "Ruddy Turnstone",
+    "nameVn": "Đá quay hồng hào",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -1681,7 +1681,7 @@
   },
   "red-backed_sandpiper": {
     "nameEn": "Red-backed Sandpiper",
-    "nameVn": "Red-backed Sandpiper",
+    "nameVn": "Sandpiper lưng đỏ",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -1693,7 +1693,7 @@
   },
   "redshank": {
     "nameEn": "Redshank",
-    "nameVn": "Redshank",
+    "nameVn": "Chim Redshank",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -1705,7 +1705,7 @@
   },
   "dowitcher": {
     "nameEn": "Dowitcher",
-    "nameVn": "Dowitcher",
+    "nameVn": "Chim Dowitcher",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -1717,7 +1717,7 @@
   },
   "oystercatcher": {
     "nameEn": "Oystercatcher",
-    "nameVn": "Oystercatcher",
+    "nameVn": "Mèo Oystercatcher",
     "emoji": "🐆",
     "phonetic": "",
     "color": "#FF8F00",
@@ -1729,7 +1729,7 @@
   },
   "pelican": {
     "nameEn": "Pelican",
-    "nameVn": "Pelican",
+    "nameVn": "Bồ nông",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -1741,7 +1741,7 @@
   },
   "king_penguin": {
     "nameEn": "King Penguin",
-    "nameVn": "King Penguin",
+    "nameVn": "Vua chim cánh cụt",
     "emoji": "🐧",
     "phonetic": "",
     "color": "#455A64",
@@ -1753,7 +1753,7 @@
   },
   "albatross": {
     "nameEn": "Albatross",
-    "nameVn": "Albatross",
+    "nameVn": "Hải âu",
     "emoji": "🐦",
     "phonetic": "",
     "color": "#29B6F6",
@@ -1765,7 +1765,7 @@
   },
   "grey_whale": {
     "nameEn": "Grey Whale",
-    "nameVn": "Grey Whale",
+    "nameVn": "Cá voi xám",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -1777,7 +1777,7 @@
   },
   "killer_whale": {
     "nameEn": "Killer Whale",
-    "nameVn": "Killer Whale",
+    "nameVn": "Cá voi sát thủ",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -1789,7 +1789,7 @@
   },
   "dugong": {
     "nameEn": "Dugong",
-    "nameVn": "Dugong",
+    "nameVn": "Bò biển",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -1801,7 +1801,7 @@
   },
   "sea_lion": {
     "nameEn": "Sea Lion",
-    "nameVn": "Sea Lion",
+    "nameVn": "Sư tử biển",
     "emoji": "🦁",
     "phonetic": "",
     "color": "#FFB300",
@@ -1813,7 +1813,7 @@
   },
   "chihuahua": {
     "nameEn": "Chihuahua",
-    "nameVn": "Chihuahua",
+    "nameVn": "Chó Chihuahua",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -1825,7 +1825,7 @@
   },
   "japanese_spaniel": {
     "nameEn": "Japanese Spaniel",
-    "nameVn": "Japanese Spaniel",
+    "nameVn": "Chó Japanese Spaniel",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -1837,7 +1837,7 @@
   },
   "maltese_dog": {
     "nameEn": "Maltese Dog",
-    "nameVn": "Maltese Dog",
+    "nameVn": "Chó Maltese Dog",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -1849,7 +1849,7 @@
   },
   "pekinese": {
     "nameEn": "Pekinese",
-    "nameVn": "Pekinese",
+    "nameVn": "Chó Pekinese",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -1861,7 +1861,7 @@
   },
   "shih-tzu": {
     "nameEn": "Shih-tzu",
-    "nameVn": "Shih-tzu",
+    "nameVn": "Chó Shih-tzu",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -1873,7 +1873,7 @@
   },
   "blenheim_spaniel": {
     "nameEn": "Blenheim Spaniel",
-    "nameVn": "Blenheim Spaniel",
+    "nameVn": "Chó Blenheim Spaniel",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -1885,7 +1885,7 @@
   },
   "papillon": {
     "nameEn": "Papillon",
-    "nameVn": "Papillon",
+    "nameVn": "Chó Papillon",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -1897,7 +1897,7 @@
   },
   "toy_terrier": {
     "nameEn": "Toy Terrier",
-    "nameVn": "Toy Terrier",
+    "nameVn": "Chó Toy Terrier",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -1909,7 +1909,7 @@
   },
   "rhodesian_ridgeback": {
     "nameEn": "Rhodesian Ridgeback",
-    "nameVn": "Rhodesian Ridgeback",
+    "nameVn": "Chó xoáy Rhodesian",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -1921,7 +1921,7 @@
   },
   "afghan_hound": {
     "nameEn": "Afghan Hound",
-    "nameVn": "Afghan Hound",
+    "nameVn": "Chó Afghan Hound",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -1933,7 +1933,7 @@
   },
   "basset": {
     "nameEn": "Basset",
-    "nameVn": "Basset",
+    "nameVn": "Chó Basset",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -1945,7 +1945,7 @@
   },
   "beagle": {
     "nameEn": "Beagle",
-    "nameVn": "Beagle",
+    "nameVn": "Chó Beagle",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -1957,7 +1957,7 @@
   },
   "bloodhound": {
     "nameEn": "Bloodhound",
-    "nameVn": "Bloodhound",
+    "nameVn": "Chó Bloodhound",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -1969,7 +1969,7 @@
   },
   "bluetick": {
     "nameEn": "Bluetick",
-    "nameVn": "Bluetick",
+    "nameVn": "Côn trùng Bluetick",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -1981,7 +1981,7 @@
   },
   "black-and-tan_coonhound": {
     "nameEn": "Black-and-tan Coonhound",
-    "nameVn": "Black-and-tan Coonhound",
+    "nameVn": "Chó săn đen và rám nắng",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -1993,7 +1993,7 @@
   },
   "walker_hound": {
     "nameEn": "Walker Hound",
-    "nameVn": "Walker Hound",
+    "nameVn": "Chó săn Walker",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -2005,7 +2005,7 @@
   },
   "english_foxhound": {
     "nameEn": "English Foxhound",
-    "nameVn": "English Foxhound",
+    "nameVn": "Chó săn cáo Anh",
     "emoji": "🐄",
     "phonetic": "",
     "color": "#BCAAA4",
@@ -2017,7 +2017,7 @@
   },
   "redbone": {
     "nameEn": "Redbone",
-    "nameVn": "Redbone",
+    "nameVn": "Xương đỏ",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -2029,7 +2029,7 @@
   },
   "borzoi": {
     "nameEn": "Borzoi",
-    "nameVn": "Borzoi",
+    "nameVn": "Chó Borzoi",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -2041,7 +2041,7 @@
   },
   "irish_wolfhound": {
     "nameEn": "Irish Wolfhound",
-    "nameVn": "Irish Wolfhound",
+    "nameVn": "Chó săn Ailen",
     "emoji": "🐺",
     "phonetic": "",
     "color": "#78909C",
@@ -2053,7 +2053,7 @@
   },
   "italian_greyhound": {
     "nameEn": "Italian Greyhound",
-    "nameVn": "Italian Greyhound",
+    "nameVn": "Chó Italian Greyhound",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -2065,7 +2065,7 @@
   },
   "whippet": {
     "nameEn": "Whippet",
-    "nameVn": "Whippet",
+    "nameVn": "Chó Whippet",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -2077,7 +2077,7 @@
   },
   "ibizan_hound": {
     "nameEn": "Ibizan Hound",
-    "nameVn": "Ibizan Hound",
+    "nameVn": "Chó săn Ibizan",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -2089,7 +2089,7 @@
   },
   "norwegian_elkhound": {
     "nameEn": "Norwegian Elkhound",
-    "nameVn": "Norwegian Elkhound",
+    "nameVn": "Elkhound Na Uy",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -2101,7 +2101,7 @@
   },
   "otterhound": {
     "nameEn": "Otterhound",
-    "nameVn": "Otterhound",
+    "nameVn": "Chó săn rái cá",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -2113,7 +2113,7 @@
   },
   "saluki": {
     "nameEn": "Saluki",
-    "nameVn": "Saluki",
+    "nameVn": "Chó Saluki",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -2125,7 +2125,7 @@
   },
   "scottish_deerhound": {
     "nameEn": "Scottish Deerhound",
-    "nameVn": "Scottish Deerhound",
+    "nameVn": "Chó săn hươu Scotland",
     "emoji": "🦌",
     "phonetic": "",
     "color": "#A1887F",
@@ -2137,7 +2137,7 @@
   },
   "weimaraner": {
     "nameEn": "Weimaraner",
-    "nameVn": "Weimaraner",
+    "nameVn": "Chó Weimaraner",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -2149,7 +2149,7 @@
   },
   "staffordshire_bullterrier": {
     "nameEn": "Staffordshire Bullterrier",
-    "nameVn": "Staffordshire Bullterrier",
+    "nameVn": "Chó Staffordshire Bullterrier",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -2161,7 +2161,7 @@
   },
   "american_staffordshire_terrier": {
     "nameEn": "American Staffordshire Terrier",
-    "nameVn": "American Staffordshire Terrier",
+    "nameVn": "Chó American Staffordshire Terrier",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -2173,7 +2173,7 @@
   },
   "bedlington_terrier": {
     "nameEn": "Bedlington Terrier",
-    "nameVn": "Bedlington Terrier",
+    "nameVn": "Chó Bedlington Terrier",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -2185,7 +2185,7 @@
   },
   "border_terrier": {
     "nameEn": "Border Terrier",
-    "nameVn": "Border Terrier",
+    "nameVn": "Chó Border Terrier",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -2197,7 +2197,7 @@
   },
   "kerry_blue_terrier": {
     "nameEn": "Kerry Blue Terrier",
-    "nameVn": "Kerry Blue Terrier",
+    "nameVn": "Chó Kerry Blue Terrier",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -2209,7 +2209,7 @@
   },
   "irish_terrier": {
     "nameEn": "Irish Terrier",
-    "nameVn": "Irish Terrier",
+    "nameVn": "Chó Irish Terrier",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -2221,7 +2221,7 @@
   },
   "norfolk_terrier": {
     "nameEn": "Norfolk Terrier",
-    "nameVn": "Norfolk Terrier",
+    "nameVn": "Chó Norfolk Terrier",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -2233,7 +2233,7 @@
   },
   "norwich_terrier": {
     "nameEn": "Norwich Terrier",
-    "nameVn": "Norwich Terrier",
+    "nameVn": "Chó Norwich Terrier",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -2245,7 +2245,7 @@
   },
   "yorkshire_terrier": {
     "nameEn": "Yorkshire Terrier",
-    "nameVn": "Yorkshire Terrier",
+    "nameVn": "Chó Yorkshire Terrier",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -2257,7 +2257,7 @@
   },
   "wire-haired_fox_terrier": {
     "nameEn": "Wire-haired Fox Terrier",
-    "nameVn": "Wire-haired Fox Terrier",
+    "nameVn": "Chó Wire-haired Fox Terrier",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -2269,7 +2269,7 @@
   },
   "lakeland_terrier": {
     "nameEn": "Lakeland Terrier",
-    "nameVn": "Lakeland Terrier",
+    "nameVn": "Chó Lakeland Terrier",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -2281,7 +2281,7 @@
   },
   "sealyham_terrier": {
     "nameEn": "Sealyham Terrier",
-    "nameVn": "Sealyham Terrier",
+    "nameVn": "Chó Sealyham Terrier",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -2293,7 +2293,7 @@
   },
   "airedale": {
     "nameEn": "Airedale",
-    "nameVn": "Airedale",
+    "nameVn": "Chó Airedale",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -2305,7 +2305,7 @@
   },
   "cairn": {
     "nameEn": "Cairn",
-    "nameVn": "Cairn",
+    "nameVn": "Chó Cairn Terrier",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -2317,7 +2317,7 @@
   },
   "australian_terrier": {
     "nameEn": "Australian Terrier",
-    "nameVn": "Australian Terrier",
+    "nameVn": "Chó Australian Terrier",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -2329,7 +2329,7 @@
   },
   "dandie_dinmont": {
     "nameEn": "Dandie Dinmont",
-    "nameVn": "Dandie Dinmont",
+    "nameVn": "Chó Dandie Dinmont Terrier",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -2341,7 +2341,7 @@
   },
   "boston_bull": {
     "nameEn": "Boston Bull",
-    "nameVn": "Boston Bull",
+    "nameVn": "Bò Boston",
     "emoji": "🐄",
     "phonetic": "",
     "color": "#BCAAA4",
@@ -2353,7 +2353,7 @@
   },
   "miniature_schnauzer": {
     "nameEn": "Miniature Schnauzer",
-    "nameVn": "Miniature Schnauzer",
+    "nameVn": "Chó Miniature Schnauzer",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -2365,7 +2365,7 @@
   },
   "giant_schnauzer": {
     "nameEn": "Giant Schnauzer",
-    "nameVn": "Giant Schnauzer",
+    "nameVn": "Chó Giant Schnauzer",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -2377,7 +2377,7 @@
   },
   "standard_schnauzer": {
     "nameEn": "Standard Schnauzer",
-    "nameVn": "Standard Schnauzer",
+    "nameVn": "Chó Standard Schnauzer",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -2389,7 +2389,7 @@
   },
   "scotch_terrier": {
     "nameEn": "Scotch Terrier",
-    "nameVn": "Scotch Terrier",
+    "nameVn": "Chó Scotch Terrier",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -2401,7 +2401,7 @@
   },
   "tibetan_terrier": {
     "nameEn": "Tibetan Terrier",
-    "nameVn": "Tibetan Terrier",
+    "nameVn": "Chó Tibetan Terrier",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -2413,7 +2413,7 @@
   },
   "silky_terrier": {
     "nameEn": "Silky Terrier",
-    "nameVn": "Silky Terrier",
+    "nameVn": "Chó Silky Terrier",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -2425,7 +2425,7 @@
   },
   "soft-coated_wheaten_terrier": {
     "nameEn": "Soft-coated Wheaten Terrier",
-    "nameVn": "Soft-coated Wheaten Terrier",
+    "nameVn": "Chó Soft-coated Wheaten Terrier",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -2437,7 +2437,7 @@
   },
   "west_highland_white_terrier": {
     "nameEn": "West Highland White Terrier",
-    "nameVn": "West Highland White Terrier",
+    "nameVn": "Chó West Highland White Terrier",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -2449,7 +2449,7 @@
   },
   "lhasa": {
     "nameEn": "Lhasa",
-    "nameVn": "Lhasa",
+    "nameVn": "Chó Lhasa Apso",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -2461,7 +2461,7 @@
   },
   "flat-coated_retriever": {
     "nameEn": "Flat-coated Retriever",
-    "nameVn": "Flat-coated Retriever",
+    "nameVn": "Chó Flat-coated Retriever",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -2473,7 +2473,7 @@
   },
   "curly-coated_retriever": {
     "nameEn": "Curly-coated Retriever",
-    "nameVn": "Curly-coated Retriever",
+    "nameVn": "Chó Curly-coated Retriever",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -2485,7 +2485,7 @@
   },
   "golden_retriever": {
     "nameEn": "Golden Retriever",
-    "nameVn": "Golden Retriever",
+    "nameVn": "Chó Golden Retriever",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -2497,7 +2497,7 @@
   },
   "labrador_retriever": {
     "nameEn": "Labrador Retriever",
-    "nameVn": "Labrador Retriever",
+    "nameVn": "Chó Labrador Retriever",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -2509,7 +2509,7 @@
   },
   "chesapeake_bay_retriever": {
     "nameEn": "Chesapeake Bay Retriever",
-    "nameVn": "Chesapeake Bay Retriever",
+    "nameVn": "Chó Chesapeake Bay Retriever",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -2521,7 +2521,7 @@
   },
   "german_short-haired_pointer": {
     "nameEn": "German Short-haired Pointer",
-    "nameVn": "German Short-haired Pointer",
+    "nameVn": "Con trỏ lông ngắn của Đức",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -2533,7 +2533,7 @@
   },
   "vizsla": {
     "nameEn": "Vizsla",
-    "nameVn": "Vizsla",
+    "nameVn": "Chó Vizsla",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -2545,7 +2545,7 @@
   },
   "english_setter": {
     "nameEn": "English Setter",
-    "nameVn": "English Setter",
+    "nameVn": "Người định cư Anh",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -2557,7 +2557,7 @@
   },
   "irish_setter": {
     "nameEn": "Irish Setter",
-    "nameVn": "Irish Setter",
+    "nameVn": "Người định cư Ireland",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -2569,7 +2569,7 @@
   },
   "gordon_setter": {
     "nameEn": "Gordon Setter",
-    "nameVn": "Gordon Setter",
+    "nameVn": "Chó Gordon Setter",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -2581,7 +2581,7 @@
   },
   "brittany_spaniel": {
     "nameEn": "Brittany Spaniel",
-    "nameVn": "Brittany Spaniel",
+    "nameVn": "Chó Brittany Spaniel",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -2593,7 +2593,7 @@
   },
   "clumber": {
     "nameEn": "Clumber",
-    "nameVn": "Clumber",
+    "nameVn": "Chó Clumber Spaniel",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -2605,7 +2605,7 @@
   },
   "english_springer": {
     "nameEn": "English Springer",
-    "nameVn": "English Springer",
+    "nameVn": "Tiếng Anh Springer",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -2617,7 +2617,7 @@
   },
   "welsh_springer_spaniel": {
     "nameEn": "Welsh Springer Spaniel",
-    "nameVn": "Welsh Springer Spaniel",
+    "nameVn": "Chó Welsh Springer Spaniel",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -2629,7 +2629,7 @@
   },
   "cocker_spaniel": {
     "nameEn": "Cocker Spaniel",
-    "nameVn": "Cocker Spaniel",
+    "nameVn": "Chó Cocker Spaniel",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -2641,7 +2641,7 @@
   },
   "sussex_spaniel": {
     "nameEn": "Sussex Spaniel",
-    "nameVn": "Sussex Spaniel",
+    "nameVn": "Chó Sussex Spaniel",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -2653,7 +2653,7 @@
   },
   "irish_water_spaniel": {
     "nameEn": "Irish Water Spaniel",
-    "nameVn": "Irish Water Spaniel",
+    "nameVn": "Chó Irish Water Spaniel",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -2665,7 +2665,7 @@
   },
   "kuvasz": {
     "nameEn": "Kuvasz",
-    "nameVn": "Kuvasz",
+    "nameVn": "Chó Kuvasz",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -2677,7 +2677,7 @@
   },
   "schipperke": {
     "nameEn": "Schipperke",
-    "nameVn": "Schipperke",
+    "nameVn": "Chó Schipperke",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -2689,7 +2689,7 @@
   },
   "groenendael": {
     "nameEn": "Groenendael",
-    "nameVn": "Groenendael",
+    "nameVn": "Chó Groenendael",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -2701,7 +2701,7 @@
   },
   "malinois": {
     "nameEn": "Malinois",
-    "nameVn": "Malinois",
+    "nameVn": "Giống chó Malinois",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -2713,7 +2713,7 @@
   },
   "briard": {
     "nameEn": "Briard",
-    "nameVn": "Briard",
+    "nameVn": "Chó Briard",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -2725,7 +2725,7 @@
   },
   "kelpie": {
     "nameEn": "Kelpie",
-    "nameVn": "Kelpie",
+    "nameVn": "Chó Kelpie",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -2737,7 +2737,7 @@
   },
   "komondor": {
     "nameEn": "Komondor",
-    "nameVn": "Komondor",
+    "nameVn": "Chó Komondor",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -2749,7 +2749,7 @@
   },
   "old_english_sheepdog": {
     "nameEn": "Old English Sheepdog",
-    "nameVn": "Old English Sheepdog",
+    "nameVn": "Chó Old English Sheepdog",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -2761,7 +2761,7 @@
   },
   "shetland_sheepdog": {
     "nameEn": "Shetland Sheepdog",
-    "nameVn": "Shetland Sheepdog",
+    "nameVn": "Chó Shetland Sheepdog",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -2773,7 +2773,7 @@
   },
   "collie": {
     "nameEn": "Collie",
-    "nameVn": "Collie",
+    "nameVn": "Chó Collie",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -2785,7 +2785,7 @@
   },
   "border_collie": {
     "nameEn": "Border Collie",
-    "nameVn": "Border Collie",
+    "nameVn": "Chó Border Collie",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -2797,7 +2797,7 @@
   },
   "bouvier_des_flandres": {
     "nameEn": "Bouvier Des Flandres",
-    "nameVn": "Bouvier Des Flandres",
+    "nameVn": "Chó Bouvier des Flandres",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -2809,7 +2809,7 @@
   },
   "rottweiler": {
     "nameEn": "Rottweiler",
-    "nameVn": "Rottweiler",
+    "nameVn": "Chó Rottweiler",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -2821,7 +2821,7 @@
   },
   "german_shepherd": {
     "nameEn": "German Shepherd",
-    "nameVn": "German Shepherd",
+    "nameVn": "Chó German Shepherd",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -2833,7 +2833,7 @@
   },
   "doberman": {
     "nameEn": "Doberman",
-    "nameVn": "Doberman",
+    "nameVn": "Chó Doberman",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -2845,7 +2845,7 @@
   },
   "miniature_pinscher": {
     "nameEn": "Miniature Pinscher",
-    "nameVn": "Miniature Pinscher",
+    "nameVn": "Ghim thu nhỏ",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -2857,7 +2857,7 @@
   },
   "greater_swiss_mountain_dog": {
     "nameEn": "Greater Swiss Mountain Dog",
-    "nameVn": "Greater Swiss Mountain Dog",
+    "nameVn": "Chó Greater Swiss Mountain Dog",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -2869,7 +2869,7 @@
   },
   "bernese_mountain_dog": {
     "nameEn": "Bernese Mountain Dog",
-    "nameVn": "Bernese Mountain Dog",
+    "nameVn": "Chó Bernese Mountain Dog",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -2881,7 +2881,7 @@
   },
   "appenzeller": {
     "nameEn": "Appenzeller",
-    "nameVn": "Appenzeller",
+    "nameVn": "Chó Appenzeller",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -2893,7 +2893,7 @@
   },
   "entlebucher": {
     "nameEn": "Entlebucher",
-    "nameVn": "Entlebucher",
+    "nameVn": "Chó Entlebucher",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -2905,7 +2905,7 @@
   },
   "boxer": {
     "nameEn": "Boxer",
-    "nameVn": "Boxer",
+    "nameVn": "Chó Boxer",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -2917,7 +2917,7 @@
   },
   "bull_mastiff": {
     "nameEn": "Bull Mastiff",
-    "nameVn": "Bull Mastiff",
+    "nameVn": "Chó ngao bò",
     "emoji": "🐄",
     "phonetic": "",
     "color": "#BCAAA4",
@@ -2929,7 +2929,7 @@
   },
   "tibetan_mastiff": {
     "nameEn": "Tibetan Mastiff",
-    "nameVn": "Tibetan Mastiff",
+    "nameVn": "Chó Ngao Tây Tạng",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -2941,7 +2941,7 @@
   },
   "french_bulldog": {
     "nameEn": "French Bulldog",
-    "nameVn": "French Bulldog",
+    "nameVn": "Chó French Bulldog",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -2953,7 +2953,7 @@
   },
   "great_dane": {
     "nameEn": "Great Dane",
-    "nameVn": "Great Dane",
+    "nameVn": "Đại Đan Mạch",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -2965,7 +2965,7 @@
   },
   "saint_bernard": {
     "nameEn": "Saint Bernard",
-    "nameVn": "Saint Bernard",
+    "nameVn": "Chó Saint Bernard",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -2977,7 +2977,7 @@
   },
   "eskimo_dog": {
     "nameEn": "Eskimo Dog",
-    "nameVn": "Eskimo Dog",
+    "nameVn": "Chó Eskimo Dog",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -2989,7 +2989,7 @@
   },
   "malamute": {
     "nameEn": "Malamute",
-    "nameVn": "Malamute",
+    "nameVn": "Chó Malamute",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -3001,7 +3001,7 @@
   },
   "siberian_husky": {
     "nameEn": "Siberian Husky",
-    "nameVn": "Siberian Husky",
+    "nameVn": "Chó Siberian Husky",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -3013,7 +3013,7 @@
   },
   "dalmatian": {
     "nameEn": "Dalmatian",
-    "nameVn": "Dalmatian",
+    "nameVn": "Chó Dalmatian",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -3025,7 +3025,7 @@
   },
   "affenpinscher": {
     "nameEn": "Affenpinscher",
-    "nameVn": "Affenpinscher",
+    "nameVn": "Affenpincher",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -3037,7 +3037,7 @@
   },
   "basenji": {
     "nameEn": "Basenji",
-    "nameVn": "Basenji",
+    "nameVn": "Chó Basenji",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -3049,7 +3049,7 @@
   },
   "pug": {
     "nameEn": "Pug",
-    "nameVn": "Pug",
+    "nameVn": "Chó Pug",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -3061,7 +3061,7 @@
   },
   "leonberg": {
     "nameEn": "Leonberg",
-    "nameVn": "Leonberg",
+    "nameVn": "Chó Leonberg",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -3073,7 +3073,7 @@
   },
   "newfoundland": {
     "nameEn": "Newfoundland",
-    "nameVn": "Newfoundland",
+    "nameVn": "Chó Newfoundland",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -3085,7 +3085,7 @@
   },
   "great_pyrenees": {
     "nameEn": "Great Pyrenees",
-    "nameVn": "Great Pyrenees",
+    "nameVn": "Đại Pyrenees",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -3097,7 +3097,7 @@
   },
   "samoyed": {
     "nameEn": "Samoyed",
-    "nameVn": "Samoyed",
+    "nameVn": "Chó Samoyed",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -3109,7 +3109,7 @@
   },
   "pomeranian": {
     "nameEn": "Pomeranian",
-    "nameVn": "Pomeranian",
+    "nameVn": "Giống Pomeranian",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -3121,7 +3121,7 @@
   },
   "chow": {
     "nameEn": "Chow",
-    "nameVn": "Chow",
+    "nameVn": "Chó Chow",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -3133,7 +3133,7 @@
   },
   "keeshond": {
     "nameEn": "Keeshond",
-    "nameVn": "Keeshond",
+    "nameVn": "Chó Keeshond",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -3145,7 +3145,7 @@
   },
   "brabancon_griffon": {
     "nameEn": "Brabancon Griffon",
-    "nameVn": "Brabancon Griffon",
+    "nameVn": "Chó Brabancon Griffon",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -3157,7 +3157,7 @@
   },
   "pembroke": {
     "nameEn": "Pembroke",
-    "nameVn": "Pembroke",
+    "nameVn": "Chó Pembroke Welsh Corgi",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -3169,7 +3169,7 @@
   },
   "cardigan": {
     "nameEn": "Cardigan",
-    "nameVn": "Cardigan",
+    "nameVn": "Áo len đan",
     "emoji": "🚗",
     "phonetic": "",
     "color": "#42A5F5",
@@ -3181,7 +3181,7 @@
   },
   "toy_poodle": {
     "nameEn": "Toy Poodle",
-    "nameVn": "Toy Poodle",
+    "nameVn": "Chó Toy Poodle",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -3193,7 +3193,7 @@
   },
   "miniature_poodle": {
     "nameEn": "Miniature Poodle",
-    "nameVn": "Miniature Poodle",
+    "nameVn": "Chó Miniature Poodle",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -3205,7 +3205,7 @@
   },
   "standard_poodle": {
     "nameEn": "Standard Poodle",
-    "nameVn": "Standard Poodle",
+    "nameVn": "Chó Standard Poodle",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -3217,7 +3217,7 @@
   },
   "mexican_hairless": {
     "nameEn": "Mexican Hairless",
-    "nameVn": "Mexican Hairless",
+    "nameVn": "Người Mexico không có lông",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -3229,7 +3229,7 @@
   },
   "timber_wolf": {
     "nameEn": "Timber Wolf",
-    "nameVn": "Timber Wolf",
+    "nameVn": "Sói gỗ",
     "emoji": "🐺",
     "phonetic": "",
     "color": "#78909C",
@@ -3241,7 +3241,7 @@
   },
   "white_wolf": {
     "nameEn": "White Wolf",
-    "nameVn": "White Wolf",
+    "nameVn": "Sói trắng",
     "emoji": "🐺",
     "phonetic": "",
     "color": "#78909C",
@@ -3253,7 +3253,7 @@
   },
   "red_wolf": {
     "nameEn": "Red Wolf",
-    "nameVn": "Red Wolf",
+    "nameVn": "Sói đỏ",
     "emoji": "🐺",
     "phonetic": "",
     "color": "#78909C",
@@ -3265,7 +3265,7 @@
   },
   "coyote": {
     "nameEn": "Coyote",
-    "nameVn": "Coyote",
+    "nameVn": "Chó sói",
     "emoji": "🐺",
     "phonetic": "",
     "color": "#78909C",
@@ -3277,7 +3277,7 @@
   },
   "dingo": {
     "nameEn": "Dingo",
-    "nameVn": "Dingo",
+    "nameVn": "Chó Dingo",
     "emoji": "🐺",
     "phonetic": "",
     "color": "#78909C",
@@ -3289,7 +3289,7 @@
   },
   "dhole": {
     "nameEn": "Dhole",
-    "nameVn": "Dhole",
+    "nameVn": "Hố sâu",
     "emoji": "🐺",
     "phonetic": "",
     "color": "#78909C",
@@ -3301,7 +3301,7 @@
   },
   "african_hunting_dog": {
     "nameEn": "African Hunting Dog",
-    "nameVn": "African Hunting Dog",
+    "nameVn": "Chó African Hunting Dog",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -3313,7 +3313,7 @@
   },
   "hyena": {
     "nameEn": "Hyena",
-    "nameVn": "Hyena",
+    "nameVn": "Linh cẩu",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -3325,7 +3325,7 @@
   },
   "red_fox": {
     "nameEn": "Red Fox",
-    "nameVn": "Red Fox",
+    "nameVn": "Cáo đỏ",
     "emoji": "🐄",
     "phonetic": "",
     "color": "#BCAAA4",
@@ -3337,7 +3337,7 @@
   },
   "kit_fox": {
     "nameEn": "Kit Fox",
-    "nameVn": "Kit Fox",
+    "nameVn": "Cáo mèo",
     "emoji": "🐄",
     "phonetic": "",
     "color": "#BCAAA4",
@@ -3349,7 +3349,7 @@
   },
   "arctic_fox": {
     "nameEn": "Arctic Fox",
-    "nameVn": "Arctic Fox",
+    "nameVn": "Cáo Bắc Cực",
     "emoji": "🐄",
     "phonetic": "",
     "color": "#BCAAA4",
@@ -3361,7 +3361,7 @@
   },
   "grey_fox": {
     "nameEn": "Grey Fox",
-    "nameVn": "Grey Fox",
+    "nameVn": "Cáo xám",
     "emoji": "🐄",
     "phonetic": "",
     "color": "#BCAAA4",
@@ -3373,7 +3373,7 @@
   },
   "tabby": {
     "nameEn": "Tabby",
-    "nameVn": "Tabby",
+    "nameVn": "Mèo Tabby",
     "emoji": "🐱",
     "phonetic": "",
     "color": "#FF9800",
@@ -3385,7 +3385,7 @@
   },
   "tiger_cat": {
     "nameEn": "Tiger Cat",
-    "nameVn": "Tiger Cat",
+    "nameVn": "Mèo Tiger Cat",
     "emoji": "🐆",
     "phonetic": "",
     "color": "#FF8F00",
@@ -3397,7 +3397,7 @@
   },
   "persian_cat": {
     "nameEn": "Persian Cat",
-    "nameVn": "Persian Cat",
+    "nameVn": "Mèo Persian Cat",
     "emoji": "🐆",
     "phonetic": "",
     "color": "#FF8F00",
@@ -3409,7 +3409,7 @@
   },
   "siamese_cat": {
     "nameEn": "Siamese Cat",
-    "nameVn": "Siamese Cat",
+    "nameVn": "Mèo Siamese Cat",
     "emoji": "🐆",
     "phonetic": "",
     "color": "#FF8F00",
@@ -3421,7 +3421,7 @@
   },
   "egyptian_cat": {
     "nameEn": "Egyptian Cat",
-    "nameVn": "Egyptian Cat",
+    "nameVn": "Mèo Egyptian Cat",
     "emoji": "🐆",
     "phonetic": "",
     "color": "#FF8F00",
@@ -3433,7 +3433,7 @@
   },
   "cougar": {
     "nameEn": "Cougar",
-    "nameVn": "Cougar",
+    "nameVn": "Cá Cougar",
     "emoji": "🐟",
     "phonetic": "",
     "color": "#26C6DA",
@@ -3445,7 +3445,7 @@
   },
   "lynx": {
     "nameEn": "Lynx",
-    "nameVn": "Lynx",
+    "nameVn": "Linh miêu",
     "emoji": "🐆",
     "phonetic": "",
     "color": "#FF8F00",
@@ -3457,7 +3457,7 @@
   },
   "leopard": {
     "nameEn": "Leopard",
-    "nameVn": "Leopard",
+    "nameVn": "Báo",
     "emoji": "🐆",
     "phonetic": "",
     "color": "#FF8F00",
@@ -3469,7 +3469,7 @@
   },
   "snow_leopard": {
     "nameEn": "Snow Leopard",
-    "nameVn": "Snow Leopard",
+    "nameVn": "Báo tuyết",
     "emoji": "🐆",
     "phonetic": "",
     "color": "#FF8F00",
@@ -3481,7 +3481,7 @@
   },
   "jaguar": {
     "nameEn": "Jaguar",
-    "nameVn": "Jaguar",
+    "nameVn": "Báo đốm",
     "emoji": "🐆",
     "phonetic": "",
     "color": "#FF8F00",
@@ -3517,7 +3517,7 @@
   },
   "cheetah": {
     "nameEn": "Cheetah",
-    "nameVn": "Cheetah",
+    "nameVn": "Báo săn",
     "emoji": "🐆",
     "phonetic": "",
     "color": "#FF8F00",
@@ -3529,7 +3529,7 @@
   },
   "brown_bear": {
     "nameEn": "Brown Bear",
-    "nameVn": "Brown Bear",
+    "nameVn": "Gấu nâu",
     "emoji": "🐻",
     "phonetic": "",
     "color": "#6D4C41",
@@ -3541,7 +3541,7 @@
   },
   "american_black_bear": {
     "nameEn": "American Black Bear",
-    "nameVn": "American Black Bear",
+    "nameVn": "Gấu đen Mỹ",
     "emoji": "🐻",
     "phonetic": "",
     "color": "#6D4C41",
@@ -3553,7 +3553,7 @@
   },
   "ice_bear": {
     "nameEn": "Ice Bear",
-    "nameVn": "Ice Bear",
+    "nameVn": "Gấu băng",
     "emoji": "🐻",
     "phonetic": "",
     "color": "#6D4C41",
@@ -3565,7 +3565,7 @@
   },
   "sloth_bear": {
     "nameEn": "Sloth Bear",
-    "nameVn": "Sloth Bear",
+    "nameVn": "Gấu lười",
     "emoji": "🐻",
     "phonetic": "",
     "color": "#6D4C41",
@@ -3577,7 +3577,7 @@
   },
   "mongoose": {
     "nameEn": "Mongoose",
-    "nameVn": "Mongoose",
+    "nameVn": "Chim Mongoose",
     "emoji": "🦆",
     "phonetic": "",
     "color": "#80DEEA",
@@ -3589,7 +3589,7 @@
   },
   "meerkat": {
     "nameEn": "Meerkat",
-    "nameVn": "Meerkat",
+    "nameVn": "Cầy meerkat",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -3601,7 +3601,7 @@
   },
   "tiger_beetle": {
     "nameEn": "Tiger Beetle",
-    "nameVn": "Tiger Beetle",
+    "nameVn": "Bọ cánh cứng Tiger Beetle",
     "emoji": "🦋",
     "phonetic": "",
     "color": "#CE93D8",
@@ -3613,7 +3613,7 @@
   },
   "ladybug": {
     "nameEn": "Ladybug",
-    "nameVn": "Ladybug",
+    "nameVn": "Bọ cánh cứng Ladybug",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -3625,7 +3625,7 @@
   },
   "ground_beetle": {
     "nameEn": "Ground Beetle",
-    "nameVn": "Ground Beetle",
+    "nameVn": "Bọ cánh cứng Ground Beetle",
     "emoji": "🦋",
     "phonetic": "",
     "color": "#CE93D8",
@@ -3637,7 +3637,7 @@
   },
   "long-horned_beetle": {
     "nameEn": "Long-horned Beetle",
-    "nameVn": "Long-horned Beetle",
+    "nameVn": "Bọ cánh cứng Long-horned Beetle",
     "emoji": "🦋",
     "phonetic": "",
     "color": "#CE93D8",
@@ -3649,7 +3649,7 @@
   },
   "leaf_beetle": {
     "nameEn": "Leaf Beetle",
-    "nameVn": "Leaf Beetle",
+    "nameVn": "Bọ cánh cứng Leaf Beetle",
     "emoji": "🦋",
     "phonetic": "",
     "color": "#CE93D8",
@@ -3661,7 +3661,7 @@
   },
   "dung_beetle": {
     "nameEn": "Dung Beetle",
-    "nameVn": "Dung Beetle",
+    "nameVn": "Bọ cánh cứng Dung Beetle",
     "emoji": "🦋",
     "phonetic": "",
     "color": "#CE93D8",
@@ -3673,7 +3673,7 @@
   },
   "rhinoceros_beetle": {
     "nameEn": "Rhinoceros Beetle",
-    "nameVn": "Rhinoceros Beetle",
+    "nameVn": "Bọ cánh cứng Rhinoceros Beetle",
     "emoji": "🦋",
     "phonetic": "",
     "color": "#CE93D8",
@@ -3685,7 +3685,7 @@
   },
   "weevil": {
     "nameEn": "Weevil",
-    "nameVn": "Weevil",
+    "nameVn": "Bọ cánh cứng Weevil",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -3697,7 +3697,7 @@
   },
   "fly": {
     "nameEn": "Fly",
-    "nameVn": "Fly",
+    "nameVn": "Côn trùng Fly",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -3723,7 +3723,7 @@
   },
   "ant": {
     "nameEn": "Ant",
-    "nameVn": "Ant",
+    "nameVn": "Kiến",
     "emoji": "🦋",
     "phonetic": "",
     "color": "#CE93D8",
@@ -3735,7 +3735,7 @@
   },
   "grasshopper": {
     "nameEn": "Grasshopper",
-    "nameVn": "Grasshopper",
+    "nameVn": "Côn trùng Grasshopper",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -3747,7 +3747,7 @@
   },
   "cricket": {
     "nameEn": "Cricket",
-    "nameVn": "Cricket",
+    "nameVn": "Côn trùng Cricket",
     "emoji": "🦋",
     "phonetic": "",
     "color": "#CE93D8",
@@ -3759,7 +3759,7 @@
   },
   "walking_stick": {
     "nameEn": "Walking Stick",
-    "nameVn": "Walking Stick",
+    "nameVn": "Côn trùng Walking Stick",
     "emoji": "🦋",
     "phonetic": "",
     "color": "#CE93D8",
@@ -3771,7 +3771,7 @@
   },
   "cockroach": {
     "nameEn": "Cockroach",
-    "nameVn": "Cockroach",
+    "nameVn": "Gián",
     "emoji": "🦋",
     "phonetic": "",
     "color": "#CE93D8",
@@ -3783,7 +3783,7 @@
   },
   "mantis": {
     "nameEn": "Mantis",
-    "nameVn": "Mantis",
+    "nameVn": "Côn trùng Mantis",
     "emoji": "🦋",
     "phonetic": "",
     "color": "#CE93D8",
@@ -3795,7 +3795,7 @@
   },
   "cicada": {
     "nameEn": "Cicada",
-    "nameVn": "Cicada",
+    "nameVn": "Ve sầu",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -3807,7 +3807,7 @@
   },
   "leafhopper": {
     "nameEn": "Leafhopper",
-    "nameVn": "Leafhopper",
+    "nameVn": "Côn trùng Leafhopper",
     "emoji": "🦋",
     "phonetic": "",
     "color": "#CE93D8",
@@ -3819,7 +3819,7 @@
   },
   "lacewing": {
     "nameEn": "Lacewing",
-    "nameVn": "Lacewing",
+    "nameVn": "Côn trùng Lacewing",
     "emoji": "🦋",
     "phonetic": "",
     "color": "#CE93D8",
@@ -3831,7 +3831,7 @@
   },
   "dragonfly": {
     "nameEn": "Dragonfly",
-    "nameVn": "Dragonfly",
+    "nameVn": "Chuồn chuồn",
     "emoji": "🦋",
     "phonetic": "",
     "color": "#CE93D8",
@@ -3843,7 +3843,7 @@
   },
   "damselfly": {
     "nameEn": "Damselfly",
-    "nameVn": "Damselfly",
+    "nameVn": "Côn trùng Damselfly",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -3855,7 +3855,7 @@
   },
   "admiral": {
     "nameEn": "Admiral",
-    "nameVn": "Admiral",
+    "nameVn": "Đô đốc",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -3867,7 +3867,7 @@
   },
   "ringlet": {
     "nameEn": "Ringlet",
-    "nameVn": "Ringlet",
+    "nameVn": "Vòng nhỏ",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -3879,7 +3879,7 @@
   },
   "monarch": {
     "nameEn": "Monarch",
-    "nameVn": "Monarch",
+    "nameVn": "Bướm Monarch",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -3891,7 +3891,7 @@
   },
   "cabbage_butterfly": {
     "nameEn": "Cabbage Butterfly",
-    "nameVn": "Cabbage Butterfly",
+    "nameVn": "Bướm Cabbage Butterfly",
     "emoji": "🦋",
     "phonetic": "",
     "color": "#CE93D8",
@@ -3903,7 +3903,7 @@
   },
   "sulphur_butterfly": {
     "nameEn": "Sulphur Butterfly",
-    "nameVn": "Sulphur Butterfly",
+    "nameVn": "Bướm Sulphur Butterfly",
     "emoji": "🦋",
     "phonetic": "",
     "color": "#CE93D8",
@@ -3915,7 +3915,7 @@
   },
   "lycaenid": {
     "nameEn": "Lycaenid",
-    "nameVn": "Lycaenid",
+    "nameVn": "Bướm Lycaenid",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -3927,7 +3927,7 @@
   },
   "starfish": {
     "nameEn": "Starfish",
-    "nameVn": "Starfish",
+    "nameVn": "Sao biển",
     "emoji": "🐟",
     "phonetic": "",
     "color": "#26C6DA",
@@ -3939,7 +3939,7 @@
   },
   "sea_urchin": {
     "nameEn": "Sea Urchin",
-    "nameVn": "Sea Urchin",
+    "nameVn": "Sinh vật biển Sea Urchin",
     "emoji": "🪼",
     "phonetic": "",
     "color": "#CE93D8",
@@ -3951,7 +3951,7 @@
   },
   "sea_cucumber": {
     "nameEn": "Sea Cucumber",
-    "nameVn": "Sea Cucumber",
+    "nameVn": "Hải Sâm",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -3963,7 +3963,7 @@
   },
   "wood_rabbit": {
     "nameEn": "Wood Rabbit",
-    "nameVn": "Wood Rabbit",
+    "nameVn": "Thỏ Gỗ",
     "emoji": "🐰",
     "phonetic": "",
     "color": "#EF9A9A",
@@ -3975,7 +3975,7 @@
   },
   "hare": {
     "nameEn": "Hare",
-    "nameVn": "Hare",
+    "nameVn": "Thỏ rừng",
     "emoji": "🐰",
     "phonetic": "",
     "color": "#EF9A9A",
@@ -3987,7 +3987,7 @@
   },
   "angora": {
     "nameEn": "Angora",
-    "nameVn": "Angora",
+    "nameVn": "Mèo Angora",
     "emoji": "🐱",
     "phonetic": "",
     "color": "#FF9800",
@@ -3999,7 +3999,7 @@
   },
   "hamster": {
     "nameEn": "Hamster",
-    "nameVn": "Hamster",
+    "nameVn": "Chuột đồng",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -4011,7 +4011,7 @@
   },
   "porcupine": {
     "nameEn": "Porcupine",
-    "nameVn": "Porcupine",
+    "nameVn": "Nhím",
     "emoji": "☕",
     "phonetic": "",
     "color": "#FF8A65",
@@ -4023,7 +4023,7 @@
   },
   "fox_squirrel": {
     "nameEn": "Fox Squirrel",
-    "nameVn": "Fox Squirrel",
+    "nameVn": "Sóc cáo",
     "emoji": "🐄",
     "phonetic": "",
     "color": "#BCAAA4",
@@ -4035,7 +4035,7 @@
   },
   "marmot": {
     "nameEn": "Marmot",
-    "nameVn": "Marmot",
+    "nameVn": "Sóc marmot",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -4047,7 +4047,7 @@
   },
   "beaver": {
     "nameEn": "Beaver",
-    "nameVn": "Beaver",
+    "nameVn": "Hải ly",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -4059,7 +4059,7 @@
   },
   "guinea_pig": {
     "nameEn": "Guinea Pig",
-    "nameVn": "Guinea Pig",
+    "nameVn": "Chuột lang",
     "emoji": "🐷",
     "phonetic": "",
     "color": "#F48FB1",
@@ -4071,7 +4071,7 @@
   },
   "sorrel": {
     "nameEn": "Sorrel",
-    "nameVn": "Sorrel",
+    "nameVn": "Cây me chua",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -4083,7 +4083,7 @@
   },
   "zebra": {
     "nameEn": "Zebra",
-    "nameVn": "Zebra",
+    "nameVn": "Ngựa vằn",
     "emoji": "🐴",
     "phonetic": "",
     "color": "#8D6E63",
@@ -4095,7 +4095,7 @@
   },
   "hog": {
     "nameEn": "Hog",
-    "nameVn": "Hog",
+    "nameVn": "Heo",
     "emoji": "🐷",
     "phonetic": "",
     "color": "#F48FB1",
@@ -4107,7 +4107,7 @@
   },
   "wild_boar": {
     "nameEn": "Wild Boar",
-    "nameVn": "Wild Boar",
+    "nameVn": "Rắn Wild Boar",
     "emoji": "🐍",
     "phonetic": "",
     "color": "#388E3C",
@@ -4119,7 +4119,7 @@
   },
   "warthog": {
     "nameEn": "Warthog",
-    "nameVn": "Warthog",
+    "nameVn": "Lợn bướu",
     "emoji": "🐷",
     "phonetic": "",
     "color": "#F48FB1",
@@ -4131,7 +4131,7 @@
   },
   "hippopotamus": {
     "nameEn": "Hippopotamus",
-    "nameVn": "Hippopotamus",
+    "nameVn": "Hà mã",
     "emoji": "🦏",
     "phonetic": "",
     "color": "#90A4AE",
@@ -4143,7 +4143,7 @@
   },
   "ox": {
     "nameEn": "Ox",
-    "nameVn": "Ox",
+    "nameVn": "Bò Ox",
     "emoji": "🐄",
     "phonetic": "",
     "color": "#BCAAA4",
@@ -4155,7 +4155,7 @@
   },
   "water_buffalo": {
     "nameEn": "Water Buffalo",
-    "nameVn": "Water Buffalo",
+    "nameVn": "Trâu nước",
     "emoji": "🐄",
     "phonetic": "",
     "color": "#BCAAA4",
@@ -4167,7 +4167,7 @@
   },
   "bison": {
     "nameEn": "Bison",
-    "nameVn": "Bison",
+    "nameVn": "Bò rừng",
     "emoji": "🐄",
     "phonetic": "",
     "color": "#BCAAA4",
@@ -4179,7 +4179,7 @@
   },
   "ram": {
     "nameEn": "Ram",
-    "nameVn": "Ram",
+    "nameVn": "Đập",
     "emoji": "🐑",
     "phonetic": "",
     "color": "#ECEFF1",
@@ -4191,7 +4191,7 @@
   },
   "bighorn": {
     "nameEn": "Bighorn",
-    "nameVn": "Bighorn",
+    "nameVn": "Sừng lớn",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -4203,7 +4203,7 @@
   },
   "ibex": {
     "nameEn": "Ibex",
-    "nameVn": "Ibex",
+    "nameVn": "Dê núi",
     "emoji": "🐑",
     "phonetic": "",
     "color": "#ECEFF1",
@@ -4215,7 +4215,7 @@
   },
   "hartebeest": {
     "nameEn": "Hartebeest",
-    "nameVn": "Hartebeest",
+    "nameVn": "Côn trùng Hartebeest",
     "emoji": "🦋",
     "phonetic": "",
     "color": "#CE93D8",
@@ -4227,7 +4227,7 @@
   },
   "impala": {
     "nameEn": "Impala",
-    "nameVn": "Impala",
+    "nameVn": "Linh dương Impala",
     "emoji": "🦌",
     "phonetic": "",
     "color": "#A1887F",
@@ -4239,7 +4239,7 @@
   },
   "gazelle": {
     "nameEn": "Gazelle",
-    "nameVn": "Gazelle",
+    "nameVn": "Linh dương",
     "emoji": "🦌",
     "phonetic": "",
     "color": "#A1887F",
@@ -4251,7 +4251,7 @@
   },
   "arabian_camel": {
     "nameEn": "Arabian Camel",
-    "nameVn": "Arabian Camel",
+    "nameVn": "Lạc đà Ả Rập",
     "emoji": "🐪",
     "phonetic": "",
     "color": "#FFD54F",
@@ -4263,7 +4263,7 @@
   },
   "llama": {
     "nameEn": "Llama",
-    "nameVn": "Llama",
+    "nameVn": "Lạc đà không bướu",
     "emoji": "🐪",
     "phonetic": "",
     "color": "#FFD54F",
@@ -4275,7 +4275,7 @@
   },
   "weasel": {
     "nameEn": "Weasel",
-    "nameVn": "Weasel",
+    "nameVn": "Chồn",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -4287,7 +4287,7 @@
   },
   "mink": {
     "nameEn": "Mink",
-    "nameVn": "Mink",
+    "nameVn": "Chồn",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -4299,7 +4299,7 @@
   },
   "polecat": {
     "nameEn": "Polecat",
-    "nameVn": "Polecat",
+    "nameVn": "Mèo Polecat",
     "emoji": "🐆",
     "phonetic": "",
     "color": "#FF8F00",
@@ -4311,7 +4311,7 @@
   },
   "black-footed_ferret": {
     "nameEn": "Black-footed Ferret",
-    "nameVn": "Black-footed Ferret",
+    "nameVn": "Chồn chân đen",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -4323,7 +4323,7 @@
   },
   "otter": {
     "nameEn": "Otter",
-    "nameVn": "Otter",
+    "nameVn": "Rái cá",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -4335,7 +4335,7 @@
   },
   "skunk": {
     "nameEn": "Skunk",
-    "nameVn": "Skunk",
+    "nameVn": "Chồn hôi",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -4347,7 +4347,7 @@
   },
   "badger": {
     "nameEn": "Badger",
-    "nameVn": "Badger",
+    "nameVn": "Lửng",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -4359,7 +4359,7 @@
   },
   "armadillo": {
     "nameEn": "Armadillo",
-    "nameVn": "Armadillo",
+    "nameVn": "Tatu",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -4371,7 +4371,7 @@
   },
   "three-toed_sloth": {
     "nameEn": "Three-toed Sloth",
-    "nameVn": "Three-toed Sloth",
+    "nameVn": "Lười ba ngón",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -4383,7 +4383,7 @@
   },
   "orangutan": {
     "nameEn": "Orangutan",
-    "nameVn": "Orangutan",
+    "nameVn": "Linh trưởng Orangutan",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -4395,7 +4395,7 @@
   },
   "gorilla": {
     "nameEn": "Gorilla",
-    "nameVn": "Gorilla",
+    "nameVn": "Khỉ đột",
     "emoji": "🐒",
     "phonetic": "",
     "color": "#A1887F",
@@ -4407,7 +4407,7 @@
   },
   "chimpanzee": {
     "nameEn": "Chimpanzee",
-    "nameVn": "Chimpanzee",
+    "nameVn": "Tinh tinh",
     "emoji": "🐒",
     "phonetic": "",
     "color": "#A1887F",
@@ -4419,7 +4419,7 @@
   },
   "gibbon": {
     "nameEn": "Gibbon",
-    "nameVn": "Gibbon",
+    "nameVn": "Linh trưởng Gibbon",
     "emoji": "🐒",
     "phonetic": "",
     "color": "#A1887F",
@@ -4431,7 +4431,7 @@
   },
   "siamang": {
     "nameEn": "Siamang",
-    "nameVn": "Siamang",
+    "nameVn": "Xiêm",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -4443,7 +4443,7 @@
   },
   "guenon": {
     "nameEn": "Guenon",
-    "nameVn": "Guenon",
+    "nameVn": "Khỉ Guenon",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -4455,7 +4455,7 @@
   },
   "patas": {
     "nameEn": "Patas",
-    "nameVn": "Patas",
+    "nameVn": "Bánh pata",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -4467,7 +4467,7 @@
   },
   "baboon": {
     "nameEn": "Baboon",
-    "nameVn": "Baboon",
+    "nameVn": "Linh trưởng Baboon",
     "emoji": "🐒",
     "phonetic": "",
     "color": "#A1887F",
@@ -4479,7 +4479,7 @@
   },
   "macaque": {
     "nameEn": "Macaque",
-    "nameVn": "Macaque",
+    "nameVn": "Linh trưởng Macaque",
     "emoji": "🐒",
     "phonetic": "",
     "color": "#A1887F",
@@ -4491,7 +4491,7 @@
   },
   "langur": {
     "nameEn": "Langur",
-    "nameVn": "Langur",
+    "nameVn": "Voọc",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -4503,7 +4503,7 @@
   },
   "colobus": {
     "nameEn": "Colobus",
-    "nameVn": "Colobus",
+    "nameVn": "Linh trưởng Colobus",
     "emoji": "🐒",
     "phonetic": "",
     "color": "#A1887F",
@@ -4515,7 +4515,7 @@
   },
   "proboscis_monkey": {
     "nameEn": "Proboscis Monkey",
-    "nameVn": "Proboscis Monkey",
+    "nameVn": "Linh trưởng Proboscis Monkey",
     "emoji": "🐒",
     "phonetic": "",
     "color": "#A1887F",
@@ -4527,7 +4527,7 @@
   },
   "marmoset": {
     "nameEn": "Marmoset",
-    "nameVn": "Marmoset",
+    "nameVn": "Linh trưởng Marmoset",
     "emoji": "🐒",
     "phonetic": "",
     "color": "#A1887F",
@@ -4539,7 +4539,7 @@
   },
   "capuchin": {
     "nameEn": "Capuchin",
-    "nameVn": "Capuchin",
+    "nameVn": "Thầy tu",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -4551,7 +4551,7 @@
   },
   "howler_monkey": {
     "nameEn": "Howler Monkey",
-    "nameVn": "Howler Monkey",
+    "nameVn": "Chim Howler Monkey",
     "emoji": "🐦",
     "phonetic": "",
     "color": "#29B6F6",
@@ -4563,7 +4563,7 @@
   },
   "titi": {
     "nameEn": "Titi",
-    "nameVn": "Titi",
+    "nameVn": "Khỉ Titi",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -4575,7 +4575,7 @@
   },
   "spider_monkey": {
     "nameEn": "Spider Monkey",
-    "nameVn": "Spider Monkey",
+    "nameVn": "Nhện Spider Monkey",
     "emoji": "🕷️",
     "phonetic": "",
     "color": "#5D4037",
@@ -4587,7 +4587,7 @@
   },
   "squirrel_monkey": {
     "nameEn": "Squirrel Monkey",
-    "nameVn": "Squirrel Monkey",
+    "nameVn": "Linh trưởng Squirrel Monkey",
     "emoji": "🐒",
     "phonetic": "",
     "color": "#A1887F",
@@ -4599,7 +4599,7 @@
   },
   "madagascar_cat": {
     "nameEn": "Madagascar Cat",
-    "nameVn": "Madagascar Cat",
+    "nameVn": "Mèo Madagascar Cat",
     "emoji": "🐆",
     "phonetic": "",
     "color": "#FF8F00",
@@ -4611,7 +4611,7 @@
   },
   "indri": {
     "nameEn": "Indri",
-    "nameVn": "Indri",
+    "nameVn": "Linh trưởng Indri",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -4623,7 +4623,7 @@
   },
   "indian_elephant": {
     "nameEn": "Indian Elephant",
-    "nameVn": "Indian Elephant",
+    "nameVn": "Côn trùng Indian Elephant",
     "emoji": "🦋",
     "phonetic": "",
     "color": "#CE93D8",
@@ -4635,7 +4635,7 @@
   },
   "african_elephant": {
     "nameEn": "African Elephant",
-    "nameVn": "African Elephant",
+    "nameVn": "Côn trùng African Elephant",
     "emoji": "🦋",
     "phonetic": "",
     "color": "#CE93D8",
@@ -4647,7 +4647,7 @@
   },
   "lesser_panda": {
     "nameEn": "Lesser Panda",
-    "nameVn": "Lesser Panda",
+    "nameVn": "Gấu trúc nhỏ hơn",
     "emoji": "🐻",
     "phonetic": "",
     "color": "#6D4C41",
@@ -4659,7 +4659,7 @@
   },
   "giant_panda": {
     "nameEn": "Giant Panda",
-    "nameVn": "Giant Panda",
+    "nameVn": "Côn trùng Giant Panda",
     "emoji": "🦋",
     "phonetic": "",
     "color": "#CE93D8",
@@ -4671,7 +4671,7 @@
   },
   "barracouta": {
     "nameEn": "Barracouta",
-    "nameVn": "Barracouta",
+    "nameVn": "Cá nhồng",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -4683,7 +4683,7 @@
   },
   "eel": {
     "nameEn": "Eel",
-    "nameVn": "Eel",
+    "nameVn": "Lươn",
     "emoji": "🐟",
     "phonetic": "",
     "color": "#26C6DA",
@@ -4695,7 +4695,7 @@
   },
   "coho": {
     "nameEn": "Coho",
-    "nameVn": "Coho",
+    "nameVn": "Cá Coho",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -4707,7 +4707,7 @@
   },
   "rock_beauty": {
     "nameEn": "Rock Beauty",
-    "nameVn": "Rock Beauty",
+    "nameVn": "Vẻ đẹp đá",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -4719,7 +4719,7 @@
   },
   "anemone_fish": {
     "nameEn": "Anemone Fish",
-    "nameVn": "Anemone Fish",
+    "nameVn": "Cá Anemone Fish",
     "emoji": "🐟",
     "phonetic": "",
     "color": "#26C6DA",
@@ -4731,7 +4731,7 @@
   },
   "sturgeon": {
     "nameEn": "Sturgeon",
-    "nameVn": "Sturgeon",
+    "nameVn": "Cá Sturgeon",
     "emoji": "🐟",
     "phonetic": "",
     "color": "#26C6DA",
@@ -4743,7 +4743,7 @@
   },
   "gar": {
     "nameEn": "Gar",
-    "nameVn": "Gar",
+    "nameVn": "Cá Gar",
     "emoji": "🐟",
     "phonetic": "",
     "color": "#26C6DA",
@@ -4755,7 +4755,7 @@
   },
   "lionfish": {
     "nameEn": "Lionfish",
-    "nameVn": "Lionfish",
+    "nameVn": "Cá Lionfish",
     "emoji": "🐟",
     "phonetic": "",
     "color": "#26C6DA",
@@ -4767,7 +4767,7 @@
   },
   "puffer": {
     "nameEn": "Puffer",
-    "nameVn": "Puffer",
+    "nameVn": "Cá nóc",
     "emoji": "🐟",
     "phonetic": "",
     "color": "#26C6DA",
@@ -4779,7 +4779,7 @@
   },
   "abacus": {
     "nameEn": "Abacus",
-    "nameVn": "Abacus",
+    "nameVn": "Bàn tính",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -4791,7 +4791,7 @@
   },
   "abaya": {
     "nameEn": "Abaya",
-    "nameVn": "Abaya",
+    "nameVn": "Áo choàng abaya",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -4803,7 +4803,7 @@
   },
   "academic_gown": {
     "nameEn": "Academic Gown",
-    "nameVn": "Academic Gown",
+    "nameVn": "Áo choàng học thuật",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -4815,7 +4815,7 @@
   },
   "accordion": {
     "nameEn": "Accordion",
-    "nameVn": "Accordion",
+    "nameVn": "Đàn xếp",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -4827,7 +4827,7 @@
   },
   "acoustic_guitar": {
     "nameEn": "Acoustic Guitar",
-    "nameVn": "Acoustic Guitar",
+    "nameVn": "Đàn guitar acoustic",
     "emoji": "🎸",
     "phonetic": "",
     "color": "#FF8F00",
@@ -4839,7 +4839,7 @@
   },
   "aircraft_carrier": {
     "nameEn": "Aircraft Carrier",
-    "nameVn": "Aircraft Carrier",
+    "nameVn": "Tàu sân bay",
     "emoji": "🚗",
     "phonetic": "",
     "color": "#42A5F5",
@@ -4851,7 +4851,7 @@
   },
   "airliner": {
     "nameEn": "Airliner",
-    "nameVn": "Airliner",
+    "nameVn": "Máy bay",
     "emoji": "✈️",
     "phonetic": "",
     "color": "#5C6BC0",
@@ -4863,7 +4863,7 @@
   },
   "airship": {
     "nameEn": "Airship",
-    "nameVn": "Airship",
+    "nameVn": "Khí cầu",
     "emoji": "✈️",
     "phonetic": "",
     "color": "#5C6BC0",
@@ -4875,7 +4875,7 @@
   },
   "altar": {
     "nameEn": "Altar",
-    "nameVn": "Altar",
+    "nameVn": "Bàn thờ",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -4887,7 +4887,7 @@
   },
   "ambulance": {
     "nameEn": "Ambulance",
-    "nameVn": "Ambulance",
+    "nameVn": "Xe cứu thương",
     "emoji": "🚑",
     "phonetic": "",
     "color": "#EF5350",
@@ -4899,7 +4899,7 @@
   },
   "amphibian": {
     "nameEn": "Amphibian",
-    "nameVn": "Amphibian",
+    "nameVn": "Lưỡng cư",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -4911,7 +4911,7 @@
   },
   "analog_clock": {
     "nameEn": "Analog Clock",
-    "nameVn": "Analog Clock",
+    "nameVn": "Đồng hồ kim",
     "emoji": "🕐",
     "phonetic": "",
     "color": "#FFA726",
@@ -4923,7 +4923,7 @@
   },
   "apiary": {
     "nameEn": "Apiary",
-    "nameVn": "Apiary",
+    "nameVn": "Nhà nuôi ong",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -4935,7 +4935,7 @@
   },
   "apron": {
     "nameEn": "Apron",
-    "nameVn": "Apron",
+    "nameVn": "Tạp dề",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -4947,7 +4947,7 @@
   },
   "ashcan": {
     "nameEn": "Ashcan",
-    "nameVn": "Ashcan",
+    "nameVn": "Tro tàn",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -4959,7 +4959,7 @@
   },
   "assault_rifle": {
     "nameEn": "Assault Rifle",
-    "nameVn": "Assault Rifle",
+    "nameVn": "Súng trường tấn công",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -4986,7 +4986,7 @@
   },
   "bakery": {
     "nameEn": "Bakery",
-    "nameVn": "Bakery",
+    "nameVn": "Tiệm bánh",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -4998,7 +4998,7 @@
   },
   "balance_beam": {
     "nameEn": "Balance Beam",
-    "nameVn": "Balance Beam",
+    "nameVn": "Chùm cân bằng",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -5023,7 +5023,7 @@
   },
   "ballpoint": {
     "nameEn": "Ballpoint",
-    "nameVn": "Ballpoint",
+    "nameVn": "Bút bi",
     "emoji": "✏️",
     "phonetic": "",
     "color": "#FDD835",
@@ -5035,7 +5035,7 @@
   },
   "band_aid": {
     "nameEn": "Band Aid",
-    "nameVn": "Band Aid",
+    "nameVn": "Hỗ trợ ban nhạc",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -5047,7 +5047,7 @@
   },
   "banjo": {
     "nameEn": "Banjo",
-    "nameVn": "Banjo",
+    "nameVn": "Đàn banjo",
     "emoji": "🎸",
     "phonetic": "",
     "color": "#FF8F00",
@@ -5059,7 +5059,7 @@
   },
   "bannister": {
     "nameEn": "Bannister",
-    "nameVn": "Bannister",
+    "nameVn": "Lan can",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -5071,7 +5071,7 @@
   },
   "barbell": {
     "nameEn": "Barbell",
-    "nameVn": "Barbell",
+    "nameVn": "Tạ",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -5083,7 +5083,7 @@
   },
   "barber_chair": {
     "nameEn": "Barber Chair",
-    "nameVn": "Barber Chair",
+    "nameVn": "Ghế cắt tóc",
     "emoji": "🪑",
     "phonetic": "",
     "color": "#8D6E63",
@@ -5095,7 +5095,7 @@
   },
   "barbershop": {
     "nameEn": "Barbershop",
-    "nameVn": "Barbershop",
+    "nameVn": "Tiệm hớt tóc",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -5107,7 +5107,7 @@
   },
   "barn": {
     "nameEn": "Barn",
-    "nameVn": "Barn",
+    "nameVn": "Chuồng",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -5119,7 +5119,7 @@
   },
   "barometer": {
     "nameEn": "Barometer",
-    "nameVn": "Barometer",
+    "nameVn": "Phong vũ biểu",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -5131,7 +5131,7 @@
   },
   "barrel": {
     "nameEn": "Barrel",
-    "nameVn": "Barrel",
+    "nameVn": "Thùng",
     "emoji": "🪣",
     "phonetic": "",
     "color": "#42A5F5",
@@ -5143,7 +5143,7 @@
   },
   "barrow": {
     "nameEn": "Barrow",
-    "nameVn": "Barrow",
+    "nameVn": "Xe cút kít",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -5155,7 +5155,7 @@
   },
   "baseball": {
     "nameEn": "Baseball",
-    "nameVn": "Baseball",
+    "nameVn": "Bóng chày",
     "emoji": "⚽",
     "phonetic": "",
     "color": "#66BB6A",
@@ -5167,7 +5167,7 @@
   },
   "basketball": {
     "nameEn": "Basketball",
-    "nameVn": "Basketball",
+    "nameVn": "Bóng rổ",
     "emoji": "⚽",
     "phonetic": "",
     "color": "#66BB6A",
@@ -5179,7 +5179,7 @@
   },
   "bassinet": {
     "nameEn": "Bassinet",
-    "nameVn": "Bassinet",
+    "nameVn": "Nôi",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -5191,7 +5191,7 @@
   },
   "bassoon": {
     "nameEn": "Bassoon",
-    "nameVn": "Bassoon",
+    "nameVn": "Kèn bassoon",
     "emoji": "🎵",
     "phonetic": "",
     "color": "#9B5DE5",
@@ -5203,7 +5203,7 @@
   },
   "bathing_cap": {
     "nameEn": "Bathing Cap",
-    "nameVn": "Bathing Cap",
+    "nameVn": "Mũ tắm",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -5215,7 +5215,7 @@
   },
   "bath_towel": {
     "nameEn": "Bath Towel",
-    "nameVn": "Bath Towel",
+    "nameVn": "Khăn tắm",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -5227,7 +5227,7 @@
   },
   "bathtub": {
     "nameEn": "Bathtub",
-    "nameVn": "Bathtub",
+    "nameVn": "Bồn tắm",
     "emoji": "🚽",
     "phonetic": "",
     "color": "#E3F2FD",
@@ -5239,7 +5239,7 @@
   },
   "beach_wagon": {
     "nameEn": "Beach Wagon",
-    "nameVn": "Beach Wagon",
+    "nameVn": "Xe đi biển",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -5251,7 +5251,7 @@
   },
   "beacon": {
     "nameEn": "Beacon",
-    "nameVn": "Beacon",
+    "nameVn": "Đèn hiệu",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -5263,7 +5263,7 @@
   },
   "beaker": {
     "nameEn": "Beaker",
-    "nameVn": "Beaker",
+    "nameVn": "Cốc thủy tinh",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -5275,7 +5275,7 @@
   },
   "bearskin": {
     "nameEn": "Bearskin",
-    "nameVn": "Bearskin",
+    "nameVn": "Da gấu",
     "emoji": "🐻",
     "phonetic": "",
     "color": "#6D4C41",
@@ -5287,7 +5287,7 @@
   },
   "beer_bottle": {
     "nameEn": "Beer Bottle",
-    "nameVn": "Beer Bottle",
+    "nameVn": "Côn trùng Beer Bottle",
     "emoji": "🦋",
     "phonetic": "",
     "color": "#CE93D8",
@@ -5299,7 +5299,7 @@
   },
   "beer_glass": {
     "nameEn": "Beer Glass",
-    "nameVn": "Beer Glass",
+    "nameVn": "Côn trùng Beer Glass",
     "emoji": "🦋",
     "phonetic": "",
     "color": "#CE93D8",
@@ -5311,7 +5311,7 @@
   },
   "bell_cote": {
     "nameEn": "Bell Cote",
-    "nameVn": "Bell Cote",
+    "nameVn": "Chuông Côte",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -5323,7 +5323,7 @@
   },
   "bib": {
     "nameEn": "Bib",
-    "nameVn": "Bib",
+    "nameVn": "Yếm",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -5335,7 +5335,7 @@
   },
   "bicycle-built-for-two": {
     "nameEn": "Bicycle-built-for-two",
-    "nameVn": "Bicycle-built-for-two",
+    "nameVn": "Xe đạp đôi",
     "emoji": "🚲",
     "phonetic": "",
     "color": "#26A69A",
@@ -5347,7 +5347,7 @@
   },
   "bikini": {
     "nameEn": "Bikini",
-    "nameVn": "Bikini",
+    "nameVn": "Đồ bơi bikini",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -5359,7 +5359,7 @@
   },
   "binder": {
     "nameEn": "Binder",
-    "nameVn": "Binder",
+    "nameVn": "Chất kết dính",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -5371,7 +5371,7 @@
   },
   "binoculars": {
     "nameEn": "Binoculars",
-    "nameVn": "Binoculars",
+    "nameVn": "Ống nhòm",
     "emoji": "🔭",
     "phonetic": "",
     "color": "#5C6BC0",
@@ -5383,7 +5383,7 @@
   },
   "birdhouse": {
     "nameEn": "Birdhouse",
-    "nameVn": "Birdhouse",
+    "nameVn": "Nhà chim",
     "emoji": "🐦",
     "phonetic": "",
     "color": "#29B6F6",
@@ -5395,7 +5395,7 @@
   },
   "boathouse": {
     "nameEn": "Boathouse",
-    "nameVn": "Boathouse",
+    "nameVn": "Rắn Boathouse",
     "emoji": "🐍",
     "phonetic": "",
     "color": "#388E3C",
@@ -5407,7 +5407,7 @@
   },
   "bobsled": {
     "nameEn": "Bobsled",
-    "nameVn": "Bobsled",
+    "nameVn": "Xe trượt lòng máng",
     "emoji": "🛷",
     "phonetic": "",
     "color": "#29B6F6",
@@ -5419,7 +5419,7 @@
   },
   "bolo_tie": {
     "nameEn": "Bolo Tie",
-    "nameVn": "Bolo Tie",
+    "nameVn": "Cà vạt Bolo",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -5431,7 +5431,7 @@
   },
   "bonnet": {
     "nameEn": "Bonnet",
-    "nameVn": "Bonnet",
+    "nameVn": "Ca bô",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -5443,7 +5443,7 @@
   },
   "bookcase": {
     "nameEn": "Bookcase",
-    "nameVn": "Bookcase",
+    "nameVn": "Tủ sách",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -5455,7 +5455,7 @@
   },
   "bookshop": {
     "nameEn": "Bookshop",
-    "nameVn": "Bookshop",
+    "nameVn": "Hiệu sách",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -5467,7 +5467,7 @@
   },
   "bottlecap": {
     "nameEn": "Bottlecap",
-    "nameVn": "Bottlecap",
+    "nameVn": "Nắp chai",
     "emoji": "🍶",
     "phonetic": "",
     "color": "#80CBC4",
@@ -5479,7 +5479,7 @@
   },
   "bow": {
     "nameEn": "Bow",
-    "nameVn": "Bow",
+    "nameVn": "Cây cung",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -5491,7 +5491,7 @@
   },
   "bow_tie": {
     "nameEn": "Bow Tie",
-    "nameVn": "Bow Tie",
+    "nameVn": "Thắt nơ",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -5503,7 +5503,7 @@
   },
   "brass": {
     "nameEn": "Brass",
-    "nameVn": "Brass",
+    "nameVn": "Thau",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -5515,7 +5515,7 @@
   },
   "brassiere": {
     "nameEn": "Brassiere",
-    "nameVn": "Brassiere",
+    "nameVn": "Áo lót",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -5527,7 +5527,7 @@
   },
   "breakwater": {
     "nameEn": "Breakwater",
-    "nameVn": "Breakwater",
+    "nameVn": "Đê chắn sóng",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -5539,7 +5539,7 @@
   },
   "breastplate": {
     "nameEn": "Breastplate",
-    "nameVn": "Breastplate",
+    "nameVn": "Áo giáp ngực",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -5551,7 +5551,7 @@
   },
   "broom": {
     "nameEn": "Broom",
-    "nameVn": "Broom",
+    "nameVn": "Chổi",
     "emoji": "🧹",
     "phonetic": "",
     "color": "#FF8F00",
@@ -5563,7 +5563,7 @@
   },
   "bucket": {
     "nameEn": "Bucket",
-    "nameVn": "Bucket",
+    "nameVn": "Xô",
     "emoji": "🪣",
     "phonetic": "",
     "color": "#42A5F5",
@@ -5575,7 +5575,7 @@
   },
   "buckle": {
     "nameEn": "Buckle",
-    "nameVn": "Buckle",
+    "nameVn": "Khóa",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -5587,7 +5587,7 @@
   },
   "bulletproof_vest": {
     "nameEn": "Bulletproof Vest",
-    "nameVn": "Bulletproof Vest",
+    "nameVn": "Áo chống đạn",
     "emoji": "🐄",
     "phonetic": "",
     "color": "#BCAAA4",
@@ -5599,7 +5599,7 @@
   },
   "bullet_train": {
     "nameEn": "Bullet Train",
-    "nameVn": "Bullet Train",
+    "nameVn": "Tàu cao tốc",
     "emoji": "🐄",
     "phonetic": "",
     "color": "#BCAAA4",
@@ -5611,7 +5611,7 @@
   },
   "butcher_shop": {
     "nameEn": "Butcher Shop",
-    "nameVn": "Butcher Shop",
+    "nameVn": "Cửa hàng bán thịt",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -5623,7 +5623,7 @@
   },
   "cab": {
     "nameEn": "Cab",
-    "nameVn": "Cab",
+    "nameVn": "Taxi",
     "emoji": "🚗",
     "phonetic": "",
     "color": "#42A5F5",
@@ -5635,7 +5635,7 @@
   },
   "caldron": {
     "nameEn": "Caldron",
-    "nameVn": "Caldron",
+    "nameVn": "Vạc",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -5647,7 +5647,7 @@
   },
   "candle": {
     "nameEn": "Candle",
-    "nameVn": "Candle",
+    "nameVn": "Nến",
     "emoji": "🕯️",
     "phonetic": "",
     "color": "#FFF9C4",
@@ -5659,7 +5659,7 @@
   },
   "cannon": {
     "nameEn": "Cannon",
-    "nameVn": "Cannon",
+    "nameVn": "Pháo",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -5671,7 +5671,7 @@
   },
   "canoe": {
     "nameEn": "Canoe",
-    "nameVn": "Canoe",
+    "nameVn": "Ca nô",
     "emoji": "⛵",
     "phonetic": "",
     "color": "#29B6F6",
@@ -5683,7 +5683,7 @@
   },
   "can_opener": {
     "nameEn": "Can Opener",
-    "nameVn": "Can Opener",
+    "nameVn": "Dụng cụ mở hộp",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -5695,7 +5695,7 @@
   },
   "car_mirror": {
     "nameEn": "Car Mirror",
-    "nameVn": "Car Mirror",
+    "nameVn": "Gương ô tô",
     "emoji": "🚗",
     "phonetic": "",
     "color": "#42A5F5",
@@ -5707,7 +5707,7 @@
   },
   "carousel": {
     "nameEn": "Carousel",
-    "nameVn": "Carousel",
+    "nameVn": "Băng chuyền",
     "emoji": "🚗",
     "phonetic": "",
     "color": "#42A5F5",
@@ -5719,7 +5719,7 @@
   },
   "carpenter's_kit": {
     "nameEn": "Carpenter's Kit",
-    "nameVn": "Carpenter's Kit",
+    "nameVn": "Bộ thợ mộc",
     "emoji": "🚗",
     "phonetic": "",
     "color": "#42A5F5",
@@ -5731,7 +5731,7 @@
   },
   "carton": {
     "nameEn": "Carton",
-    "nameVn": "Carton",
+    "nameVn": "Thùng carton",
     "emoji": "🚗",
     "phonetic": "",
     "color": "#42A5F5",
@@ -5743,7 +5743,7 @@
   },
   "car_wheel": {
     "nameEn": "Car Wheel",
-    "nameVn": "Car Wheel",
+    "nameVn": "Cá Car Wheel",
     "emoji": "🐟",
     "phonetic": "",
     "color": "#26C6DA",
@@ -5755,7 +5755,7 @@
   },
   "cash_machine": {
     "nameEn": "Cash Machine",
-    "nameVn": "Cash Machine",
+    "nameVn": "Máy rút tiền",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -5767,7 +5767,7 @@
   },
   "cassette": {
     "nameEn": "Cassette",
-    "nameVn": "Cassette",
+    "nameVn": "Băng cassette",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -5779,7 +5779,7 @@
   },
   "cassette_player": {
     "nameEn": "Cassette Player",
-    "nameVn": "Cassette Player",
+    "nameVn": "Máy nghe băng cassette",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -5791,7 +5791,7 @@
   },
   "castle": {
     "nameEn": "Castle",
-    "nameVn": "Castle",
+    "nameVn": "Lâu đài",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -5803,7 +5803,7 @@
   },
   "catamaran": {
     "nameEn": "Catamaran",
-    "nameVn": "Catamaran",
+    "nameVn": "Mèo Catamaran",
     "emoji": "🐆",
     "phonetic": "",
     "color": "#FF8F00",
@@ -5815,7 +5815,7 @@
   },
   "cd_player": {
     "nameEn": "Cd Player",
-    "nameVn": "Cd Player",
+    "nameVn": "Máy nghe nhạc CD",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -5827,7 +5827,7 @@
   },
   "cello": {
     "nameEn": "Cello",
-    "nameVn": "Cello",
+    "nameVn": "Đàn cello",
     "emoji": "🎻",
     "phonetic": "",
     "color": "#FF8F00",
@@ -5839,7 +5839,7 @@
   },
   "cellular_telephone": {
     "nameEn": "Cellular Telephone",
-    "nameVn": "Cellular Telephone",
+    "nameVn": "Điện thoại di động",
     "emoji": "📱",
     "phonetic": "",
     "color": "#5C6BC0",
@@ -5851,7 +5851,7 @@
   },
   "chain": {
     "nameEn": "Chain",
-    "nameVn": "Chain",
+    "nameVn": "Xích",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -5863,7 +5863,7 @@
   },
   "chainlink_fence": {
     "nameEn": "Chainlink Fence",
-    "nameVn": "Chainlink Fence",
+    "nameVn": "Hàng rào liên kết chuỗi",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -5875,7 +5875,7 @@
   },
   "chain_mail": {
     "nameEn": "Chain Mail",
-    "nameVn": "Chain Mail",
+    "nameVn": "Chuỗi Thư",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -5887,7 +5887,7 @@
   },
   "chain_saw": {
     "nameEn": "Chain Saw",
-    "nameVn": "Chain Saw",
+    "nameVn": "Cưa xích",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -5899,7 +5899,7 @@
   },
   "chest": {
     "nameEn": "Chest",
-    "nameVn": "Chest",
+    "nameVn": "Ngực",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -5911,7 +5911,7 @@
   },
   "chiffonier": {
     "nameEn": "Chiffonier",
-    "nameVn": "Chiffonier",
+    "nameVn": "Vải voan",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -5923,7 +5923,7 @@
   },
   "chime": {
     "nameEn": "Chime",
-    "nameVn": "Chime",
+    "nameVn": "Kêu vang",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -5935,7 +5935,7 @@
   },
   "china_cabinet": {
     "nameEn": "China Cabinet",
-    "nameVn": "China Cabinet",
+    "nameVn": "Nội các Trung Quốc",
     "emoji": "🚗",
     "phonetic": "",
     "color": "#42A5F5",
@@ -5947,7 +5947,7 @@
   },
   "christmas_stocking": {
     "nameEn": "Christmas Stocking",
-    "nameVn": "Christmas Stocking",
+    "nameVn": "Vớ giáng sinh",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -5959,7 +5959,7 @@
   },
   "church": {
     "nameEn": "Church",
-    "nameVn": "Church",
+    "nameVn": "Nhà thờ",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -5971,7 +5971,7 @@
   },
   "cinema": {
     "nameEn": "Cinema",
-    "nameVn": "Cinema",
+    "nameVn": "Rạp chiếu phim",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -5983,7 +5983,7 @@
   },
   "cleaver": {
     "nameEn": "Cleaver",
-    "nameVn": "Cleaver",
+    "nameVn": "Dao chặt",
     "emoji": "🔪",
     "phonetic": "",
     "color": "#78909C",
@@ -5995,7 +5995,7 @@
   },
   "cliff_dwelling": {
     "nameEn": "Cliff Dwelling",
-    "nameVn": "Cliff Dwelling",
+    "nameVn": "Nhà ở vách đá",
     "emoji": "🏔️",
     "phonetic": "",
     "color": "#78909C",
@@ -6007,7 +6007,7 @@
   },
   "cloak": {
     "nameEn": "Cloak",
-    "nameVn": "Cloak",
+    "nameVn": "Áo choàng",
     "emoji": "🌳",
     "phonetic": "",
     "color": "#388E3C",
@@ -6019,7 +6019,7 @@
   },
   "clog": {
     "nameEn": "Clog",
-    "nameVn": "Clog",
+    "nameVn": "Làm tắc nghẽn",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -6031,7 +6031,7 @@
   },
   "cocktail_shaker": {
     "nameEn": "Cocktail Shaker",
-    "nameVn": "Cocktail Shaker",
+    "nameVn": "Chim Cocktail Shaker",
     "emoji": "🐔",
     "phonetic": "",
     "color": "#FFF176",
@@ -6043,7 +6043,7 @@
   },
   "coffee_mug": {
     "nameEn": "Coffee Mug",
-    "nameVn": "Coffee Mug",
+    "nameVn": "Cốc cà phê",
     "emoji": "☕",
     "phonetic": "",
     "color": "#5D4037",
@@ -6055,7 +6055,7 @@
   },
   "coffeepot": {
     "nameEn": "Coffeepot",
-    "nameVn": "Coffeepot",
+    "nameVn": "Ấm cà phê",
     "emoji": "☕",
     "phonetic": "",
     "color": "#5D4037",
@@ -6067,7 +6067,7 @@
   },
   "coil": {
     "nameEn": "Coil",
-    "nameVn": "Coil",
+    "nameVn": "Xôn xao",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -6079,7 +6079,7 @@
   },
   "combination_lock": {
     "nameEn": "Combination Lock",
-    "nameVn": "Combination Lock",
+    "nameVn": "Khóa kết hợp",
     "emoji": "🔒",
     "phonetic": "",
     "color": "#FFD54F",
@@ -6091,7 +6091,7 @@
   },
   "computer_keyboard": {
     "nameEn": "Computer Keyboard",
-    "nameVn": "Computer Keyboard",
+    "nameVn": "Rắn Computer Keyboard",
     "emoji": "🐍",
     "phonetic": "",
     "color": "#388E3C",
@@ -6103,7 +6103,7 @@
   },
   "confectionery": {
     "nameEn": "Confectionery",
-    "nameVn": "Confectionery",
+    "nameVn": "Bánh kẹo",
     "emoji": "🍫",
     "phonetic": "",
     "color": "#5D4037",
@@ -6115,7 +6115,7 @@
   },
   "container_ship": {
     "nameEn": "Container Ship",
-    "nameVn": "Container Ship",
+    "nameVn": "Tàu container",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -6127,7 +6127,7 @@
   },
   "convertible": {
     "nameEn": "Convertible",
-    "nameVn": "Convertible",
+    "nameVn": "Có thể chuyển đổi",
     "emoji": "🚗",
     "phonetic": "",
     "color": "#42A5F5",
@@ -6139,7 +6139,7 @@
   },
   "corkscrew": {
     "nameEn": "Corkscrew",
-    "nameVn": "Corkscrew",
+    "nameVn": "Cái mở nút chai",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -6151,7 +6151,7 @@
   },
   "cornet": {
     "nameEn": "Cornet",
-    "nameVn": "Cornet",
+    "nameVn": "Kèn cornet",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -6163,7 +6163,7 @@
   },
   "cowboy_boot": {
     "nameEn": "Cowboy Boot",
-    "nameVn": "Cowboy Boot",
+    "nameVn": "Giày cao bồi",
     "emoji": "🐄",
     "phonetic": "",
     "color": "#BCAAA4",
@@ -6175,7 +6175,7 @@
   },
   "cowboy_hat": {
     "nameEn": "Cowboy Hat",
-    "nameVn": "Cowboy Hat",
+    "nameVn": "Mũ cao bồi",
     "emoji": "🐄",
     "phonetic": "",
     "color": "#BCAAA4",
@@ -6187,7 +6187,7 @@
   },
   "cradle": {
     "nameEn": "Cradle",
-    "nameVn": "Cradle",
+    "nameVn": "Cái nôi",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -6199,7 +6199,7 @@
   },
   "crane": {
     "nameEn": "Crane",
-    "nameVn": "Crane",
+    "nameVn": "Cần cẩu",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -6211,7 +6211,7 @@
   },
   "crash_helmet": {
     "nameEn": "Crash Helmet",
-    "nameVn": "Crash Helmet",
+    "nameVn": "Mũ bảo hiểm tai nạn",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -6223,7 +6223,7 @@
   },
   "crate": {
     "nameEn": "Crate",
-    "nameVn": "Crate",
+    "nameVn": "Thùng",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -6235,7 +6235,7 @@
   },
   "crib": {
     "nameEn": "Crib",
-    "nameVn": "Crib",
+    "nameVn": "Nôi",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -6247,7 +6247,7 @@
   },
   "crock_pot": {
     "nameEn": "Crock Pot",
-    "nameVn": "Crock Pot",
+    "nameVn": "Nồi Hầm",
     "emoji": "🏺",
     "phonetic": "",
     "color": "#FF8F00",
@@ -6259,7 +6259,7 @@
   },
   "croquet_ball": {
     "nameEn": "Croquet Ball",
-    "nameVn": "Croquet Ball",
+    "nameVn": "Bóng vồ",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -6271,7 +6271,7 @@
   },
   "crutch": {
     "nameEn": "Crutch",
-    "nameVn": "Crutch",
+    "nameVn": "Nạng",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -6283,7 +6283,7 @@
   },
   "cuirass": {
     "nameEn": "Cuirass",
-    "nameVn": "Cuirass",
+    "nameVn": "Áo giáp ngực",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -6295,7 +6295,7 @@
   },
   "dam": {
     "nameEn": "Dam",
-    "nameVn": "Dam",
+    "nameVn": "Đập",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -6307,7 +6307,7 @@
   },
   "desk": {
     "nameEn": "Desk",
-    "nameVn": "Desk",
+    "nameVn": "Bàn làm việc",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -6319,7 +6319,7 @@
   },
   "desktop_computer": {
     "nameEn": "Desktop Computer",
-    "nameVn": "Desktop Computer",
+    "nameVn": "Máy tính để bàn",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -6331,7 +6331,7 @@
   },
   "dial_telephone": {
     "nameEn": "Dial Telephone",
-    "nameVn": "Dial Telephone",
+    "nameVn": "Quay số điện thoại",
     "emoji": "📱",
     "phonetic": "",
     "color": "#5C6BC0",
@@ -6343,7 +6343,7 @@
   },
   "diaper": {
     "nameEn": "Diaper",
-    "nameVn": "Diaper",
+    "nameVn": "Tã",
     "emoji": "🐒",
     "phonetic": "",
     "color": "#A1887F",
@@ -6355,7 +6355,7 @@
   },
   "digital_clock": {
     "nameEn": "Digital Clock",
-    "nameVn": "Digital Clock",
+    "nameVn": "Đồng hồ kỹ thuật số",
     "emoji": "🕐",
     "phonetic": "",
     "color": "#FFA726",
@@ -6367,7 +6367,7 @@
   },
   "digital_watch": {
     "nameEn": "Digital Watch",
-    "nameVn": "Digital Watch",
+    "nameVn": "Đồng hồ kỹ thuật số",
     "emoji": "🕐",
     "phonetic": "",
     "color": "#FFA726",
@@ -6379,7 +6379,7 @@
   },
   "dining_table": {
     "nameEn": "Dining Table",
-    "nameVn": "Dining Table",
+    "nameVn": "Bàn ăn",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -6391,7 +6391,7 @@
   },
   "dishrag": {
     "nameEn": "Dishrag",
-    "nameVn": "Dishrag",
+    "nameVn": "Giẻ rửa chén",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -6403,7 +6403,7 @@
   },
   "dishwasher": {
     "nameEn": "Dishwasher",
-    "nameVn": "Dishwasher",
+    "nameVn": "Máy rửa chén",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -6415,7 +6415,7 @@
   },
   "disk_brake": {
     "nameEn": "Disk Brake",
-    "nameVn": "Disk Brake",
+    "nameVn": "Phanh đĩa",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -6427,7 +6427,7 @@
   },
   "dock": {
     "nameEn": "Dock",
-    "nameVn": "Dock",
+    "nameVn": "Bến tàu",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -6439,7 +6439,7 @@
   },
   "dogsled": {
     "nameEn": "Dogsled",
-    "nameVn": "Dogsled",
+    "nameVn": "Xe trượt tuyết chó kéo",
     "emoji": "🐶",
     "phonetic": "",
     "color": "#795548",
@@ -6451,7 +6451,7 @@
   },
   "dome": {
     "nameEn": "Dome",
-    "nameVn": "Dome",
+    "nameVn": "Mái vòm",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -6463,7 +6463,7 @@
   },
   "doormat": {
     "nameEn": "Doormat",
-    "nameVn": "Doormat",
+    "nameVn": "Thảm chùi chân",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -6475,7 +6475,7 @@
   },
   "drilling_platform": {
     "nameEn": "Drilling Platform",
-    "nameVn": "Drilling Platform",
+    "nameVn": "Nền tảng khoan",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -6503,7 +6503,7 @@
   },
   "drumstick": {
     "nameEn": "Drumstick",
-    "nameVn": "Drumstick",
+    "nameVn": "Côn trùng Drumstick",
     "emoji": "🥁",
     "phonetic": "",
     "color": "#EF5350",
@@ -6515,7 +6515,7 @@
   },
   "dumbbell": {
     "nameEn": "Dumbbell",
-    "nameVn": "Dumbbell",
+    "nameVn": "Chuông hư",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -6527,7 +6527,7 @@
   },
   "dutch_oven": {
     "nameEn": "Dutch Oven",
-    "nameVn": "Dutch Oven",
+    "nameVn": "Lò Hà Lan",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -6539,7 +6539,7 @@
   },
   "electric_fan": {
     "nameEn": "Electric Fan",
-    "nameVn": "Electric Fan",
+    "nameVn": "Quạt điện",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -6551,7 +6551,7 @@
   },
   "electric_guitar": {
     "nameEn": "Electric Guitar",
-    "nameVn": "Electric Guitar",
+    "nameVn": "Guitar điện",
     "emoji": "🎸",
     "phonetic": "",
     "color": "#FF8F00",
@@ -6563,7 +6563,7 @@
   },
   "electric_locomotive": {
     "nameEn": "Electric Locomotive",
-    "nameVn": "Electric Locomotive",
+    "nameVn": "Đầu máy điện",
     "emoji": "🚂",
     "phonetic": "",
     "color": "#EF5350",
@@ -6575,7 +6575,7 @@
   },
   "entertainment_center": {
     "nameEn": "Entertainment Center",
-    "nameVn": "Entertainment Center",
+    "nameVn": "Trung tâm giải trí",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -6587,7 +6587,7 @@
   },
   "envelope": {
     "nameEn": "Envelope",
-    "nameVn": "Envelope",
+    "nameVn": "Phong bì",
     "emoji": "✉️",
     "phonetic": "",
     "color": "#42A5F5",
@@ -6599,7 +6599,7 @@
   },
   "espresso_maker": {
     "nameEn": "Espresso Maker",
-    "nameVn": "Espresso Maker",
+    "nameVn": "Máy pha cà phê Espresso",
     "emoji": "☕",
     "phonetic": "",
     "color": "#5D4037",
@@ -6611,7 +6611,7 @@
   },
   "face_powder": {
     "nameEn": "Face Powder",
-    "nameVn": "Face Powder",
+    "nameVn": "Phấn phủ mặt",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -6623,7 +6623,7 @@
   },
   "feather_boa": {
     "nameEn": "Feather Boa",
-    "nameVn": "Feather Boa",
+    "nameVn": "Rắn Feather Boa",
     "emoji": "🐍",
     "phonetic": "",
     "color": "#388E3C",
@@ -6635,7 +6635,7 @@
   },
   "file": {
     "nameEn": "File",
-    "nameVn": "File",
+    "nameVn": "Tài liệu",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -6647,7 +6647,7 @@
   },
   "fireboat": {
     "nameEn": "Fireboat",
-    "nameVn": "Fireboat",
+    "nameVn": "Rắn Fireboat",
     "emoji": "🐍",
     "phonetic": "",
     "color": "#388E3C",
@@ -6659,7 +6659,7 @@
   },
   "fire_engine": {
     "nameEn": "Fire Engine",
-    "nameVn": "Fire Engine",
+    "nameVn": "Xe cứu hỏa",
     "emoji": "🚒",
     "phonetic": "",
     "color": "#EF5350",
@@ -6671,7 +6671,7 @@
   },
   "fire_screen": {
     "nameEn": "Fire Screen",
-    "nameVn": "Fire Screen",
+    "nameVn": "Màn chữa cháy",
     "emoji": "📺",
     "phonetic": "",
     "color": "#37474F",
@@ -6683,7 +6683,7 @@
   },
   "flagpole": {
     "nameEn": "Flagpole",
-    "nameVn": "Flagpole",
+    "nameVn": "Cột cờ",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -6695,7 +6695,7 @@
   },
   "flute": {
     "nameEn": "Flute",
-    "nameVn": "Flute",
+    "nameVn": "Sáo",
     "emoji": "🎵",
     "phonetic": "",
     "color": "#9B5DE5",
@@ -6707,7 +6707,7 @@
   },
   "folding_chair": {
     "nameEn": "Folding Chair",
-    "nameVn": "Folding Chair",
+    "nameVn": "Ghế gấp",
     "emoji": "🪑",
     "phonetic": "",
     "color": "#8D6E63",
@@ -6719,7 +6719,7 @@
   },
   "football_helmet": {
     "nameEn": "Football Helmet",
-    "nameVn": "Football Helmet",
+    "nameVn": "Mũ bảo hiểm bóng đá",
     "emoji": "⚽",
     "phonetic": "",
     "color": "#66BB6A",
@@ -6731,7 +6731,7 @@
   },
   "forklift": {
     "nameEn": "Forklift",
-    "nameVn": "Forklift",
+    "nameVn": "Xe nâng",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -6743,7 +6743,7 @@
   },
   "fountain": {
     "nameEn": "Fountain",
-    "nameVn": "Fountain",
+    "nameVn": "Đài phun nước",
     "emoji": "⛲",
     "phonetic": "",
     "color": "#29B6F6",
@@ -6755,7 +6755,7 @@
   },
   "fountain_pen": {
     "nameEn": "Fountain Pen",
-    "nameVn": "Fountain Pen",
+    "nameVn": "Bút máy",
     "emoji": "✏️",
     "phonetic": "",
     "color": "#FDD835",
@@ -6767,7 +6767,7 @@
   },
   "four-poster": {
     "nameEn": "Four-poster",
-    "nameVn": "Four-poster",
+    "nameVn": "Bốn áp phích",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -6779,7 +6779,7 @@
   },
   "freight_car": {
     "nameEn": "Freight Car",
-    "nameVn": "Freight Car",
+    "nameVn": "Xe chở hàng",
     "emoji": "🚗",
     "phonetic": "",
     "color": "#42A5F5",
@@ -6791,7 +6791,7 @@
   },
   "french_horn": {
     "nameEn": "French Horn",
-    "nameVn": "French Horn",
+    "nameVn": "Sừng Pháp",
     "emoji": "🎺",
     "phonetic": "",
     "color": "#FFD54F",
@@ -6803,7 +6803,7 @@
   },
   "frying_pan": {
     "nameEn": "Frying Pan",
-    "nameVn": "Frying Pan",
+    "nameVn": "Chảo rán",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -6815,7 +6815,7 @@
   },
   "fur_coat": {
     "nameEn": "Fur Coat",
-    "nameVn": "Fur Coat",
+    "nameVn": "Áo khoác lông",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -6827,7 +6827,7 @@
   },
   "garbage_truck": {
     "nameEn": "Garbage Truck",
-    "nameVn": "Garbage Truck",
+    "nameVn": "Cá Garbage Truck",
     "emoji": "🐟",
     "phonetic": "",
     "color": "#26C6DA",
@@ -6839,7 +6839,7 @@
   },
   "gasmask": {
     "nameEn": "Gasmask",
-    "nameVn": "Gasmask",
+    "nameVn": "Mặt nạ phòng độc",
     "emoji": "😷",
     "phonetic": "",
     "color": "#78909C",
@@ -6851,7 +6851,7 @@
   },
   "gas_pump": {
     "nameEn": "Gas Pump",
-    "nameVn": "Gas Pump",
+    "nameVn": "Bơm xăng",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -6863,7 +6863,7 @@
   },
   "goblet": {
     "nameEn": "Goblet",
-    "nameVn": "Goblet",
+    "nameVn": "Cốc",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -6875,7 +6875,7 @@
   },
   "go-kart": {
     "nameEn": "Go-kart",
-    "nameVn": "Go-kart",
+    "nameVn": "Đi kart",
     "emoji": "🏎️",
     "phonetic": "",
     "color": "#FF7043",
@@ -6887,7 +6887,7 @@
   },
   "golf_ball": {
     "nameEn": "Golf Ball",
-    "nameVn": "Golf Ball",
+    "nameVn": "Bóng golf",
     "emoji": "⚽",
     "phonetic": "",
     "color": "#66BB6A",
@@ -6899,7 +6899,7 @@
   },
   "golfcart": {
     "nameEn": "Golfcart",
-    "nameVn": "Golfcart",
+    "nameVn": "Xe Golf",
     "emoji": "🚗",
     "phonetic": "",
     "color": "#42A5F5",
@@ -6911,7 +6911,7 @@
   },
   "gondola": {
     "nameEn": "Gondola",
-    "nameVn": "Gondola",
+    "nameVn": "Thuyền gondola",
     "emoji": "⛵",
     "phonetic": "",
     "color": "#29B6F6",
@@ -6923,7 +6923,7 @@
   },
   "gong": {
     "nameEn": "Gong",
-    "nameVn": "Gong",
+    "nameVn": "Chiêng",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -6935,7 +6935,7 @@
   },
   "gown": {
     "nameEn": "Gown",
-    "nameVn": "Gown",
+    "nameVn": "Áo choàng",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -6947,7 +6947,7 @@
   },
   "grand_piano": {
     "nameEn": "Grand Piano",
-    "nameVn": "Grand Piano",
+    "nameVn": "Đàn piano lớn",
     "emoji": "🎹",
     "phonetic": "",
     "color": "#37474F",
@@ -6959,7 +6959,7 @@
   },
   "greenhouse": {
     "nameEn": "Greenhouse",
-    "nameVn": "Greenhouse",
+    "nameVn": "Nhà kính",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -6971,7 +6971,7 @@
   },
   "grille": {
     "nameEn": "Grille",
-    "nameVn": "Grille",
+    "nameVn": "Lưới tản nhiệt",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -6983,7 +6983,7 @@
   },
   "grocery_store": {
     "nameEn": "Grocery Store",
-    "nameVn": "Grocery Store",
+    "nameVn": "Cửa hàng tạp hóa",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -6995,7 +6995,7 @@
   },
   "guillotine": {
     "nameEn": "Guillotine",
-    "nameVn": "Guillotine",
+    "nameVn": "Máy chém",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -7007,7 +7007,7 @@
   },
   "hair_slide": {
     "nameEn": "Hair Slide",
-    "nameVn": "Hair Slide",
+    "nameVn": "Trượt tóc",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -7019,7 +7019,7 @@
   },
   "hair_spray": {
     "nameEn": "Hair Spray",
-    "nameVn": "Hair Spray",
+    "nameVn": "Cá Hair Spray",
     "emoji": "🐟",
     "phonetic": "",
     "color": "#26C6DA",
@@ -7031,7 +7031,7 @@
   },
   "half_track": {
     "nameEn": "Half Track",
-    "nameVn": "Half Track",
+    "nameVn": "Nửa đường",
     "emoji": "🪖",
     "phonetic": "",
     "color": "#546E7A",
@@ -7043,7 +7043,7 @@
   },
   "hammer": {
     "nameEn": "Hammer",
-    "nameVn": "Hammer",
+    "nameVn": "Búa",
     "emoji": "🔨",
     "phonetic": "",
     "color": "#78909C",
@@ -7055,7 +7055,7 @@
   },
   "hamper": {
     "nameEn": "Hamper",
-    "nameVn": "Hamper",
+    "nameVn": "Cản trở",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -7067,7 +7067,7 @@
   },
   "hand_blower": {
     "nameEn": "Hand Blower",
-    "nameVn": "Hand Blower",
+    "nameVn": "Máy thổi tay",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -7079,7 +7079,7 @@
   },
   "hand-held_computer": {
     "nameEn": "Hand-held Computer",
-    "nameVn": "Hand-held Computer",
+    "nameVn": "Máy tính cầm tay",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -7091,7 +7091,7 @@
   },
   "handkerchief": {
     "nameEn": "Handkerchief",
-    "nameVn": "Handkerchief",
+    "nameVn": "Khăn tay",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -7103,7 +7103,7 @@
   },
   "hard_disc": {
     "nameEn": "Hard Disc",
-    "nameVn": "Hard Disc",
+    "nameVn": "Đĩa cứng",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -7115,7 +7115,7 @@
   },
   "harmonica": {
     "nameEn": "Harmonica",
-    "nameVn": "Harmonica",
+    "nameVn": "Kèn harmonica",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -7127,7 +7127,7 @@
   },
   "harp": {
     "nameEn": "Harp",
-    "nameVn": "Harp",
+    "nameVn": "Đàn hạc",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -7139,7 +7139,7 @@
   },
   "harvester": {
     "nameEn": "Harvester",
-    "nameVn": "Harvester",
+    "nameVn": "Máy gặt",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -7151,7 +7151,7 @@
   },
   "hatchet": {
     "nameEn": "Hatchet",
-    "nameVn": "Hatchet",
+    "nameVn": "Rìu",
     "emoji": "🎩",
     "phonetic": "",
     "color": "#5D4037",
@@ -7163,7 +7163,7 @@
   },
   "holster": {
     "nameEn": "Holster",
-    "nameVn": "Holster",
+    "nameVn": "Bao da",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -7175,7 +7175,7 @@
   },
   "home_theater": {
     "nameEn": "Home Theater",
-    "nameVn": "Home Theater",
+    "nameVn": "Rạp hát tại nhà",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -7187,7 +7187,7 @@
   },
   "honeycomb": {
     "nameEn": "Honeycomb",
-    "nameVn": "Honeycomb",
+    "nameVn": "Tổ ong",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -7199,7 +7199,7 @@
   },
   "hook": {
     "nameEn": "Hook",
-    "nameVn": "Hook",
+    "nameVn": "Cái móc",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -7211,7 +7211,7 @@
   },
   "hoopskirt": {
     "nameEn": "Hoopskirt",
-    "nameVn": "Hoopskirt",
+    "nameVn": "Váy vòng",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -7223,7 +7223,7 @@
   },
   "horizontal_bar": {
     "nameEn": "Horizontal Bar",
-    "nameVn": "Horizontal Bar",
+    "nameVn": "Thanh ngang",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -7235,7 +7235,7 @@
   },
   "horse_cart": {
     "nameEn": "Horse Cart",
-    "nameVn": "Horse Cart",
+    "nameVn": "Xe ngựa",
     "emoji": "🐴",
     "phonetic": "",
     "color": "#8D6E63",
@@ -7247,7 +7247,7 @@
   },
   "hourglass": {
     "nameEn": "Hourglass",
-    "nameVn": "Hourglass",
+    "nameVn": "Đồng hồ cát",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -7259,7 +7259,7 @@
   },
   "ipod": {
     "nameEn": "Ipod",
-    "nameVn": "Ipod",
+    "nameVn": "Máy nghe nhạc iPod",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -7271,7 +7271,7 @@
   },
   "iron": {
     "nameEn": "Iron",
-    "nameVn": "Iron",
+    "nameVn": "Sắt",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -7283,7 +7283,7 @@
   },
   "jack-o'-lantern": {
     "nameEn": "Jack-o'-lantern",
-    "nameVn": "Jack-o'-lantern",
+    "nameVn": "Côn trùng Jack-o'-lantern",
     "emoji": "🦋",
     "phonetic": "",
     "color": "#CE93D8",
@@ -7295,7 +7295,7 @@
   },
   "jean": {
     "nameEn": "Jean",
-    "nameVn": "Jean",
+    "nameVn": "Quần jean",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -7307,7 +7307,7 @@
   },
   "jeep": {
     "nameEn": "Jeep",
-    "nameVn": "Jeep",
+    "nameVn": "Xe jeep",
     "emoji": "🚗",
     "phonetic": "",
     "color": "#42A5F5",
@@ -7319,7 +7319,7 @@
   },
   "jersey": {
     "nameEn": "Jersey",
-    "nameVn": "Jersey",
+    "nameVn": "Áo thể thao",
     "emoji": "👕",
     "phonetic": "",
     "color": "#42A5F5",
@@ -7331,7 +7331,7 @@
   },
   "jigsaw_puzzle": {
     "nameEn": "Jigsaw Puzzle",
-    "nameVn": "Jigsaw Puzzle",
+    "nameVn": "Câu đố ghép hình",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -7343,7 +7343,7 @@
   },
   "jinrikisha": {
     "nameEn": "Jinrikisha",
-    "nameVn": "Jinrikisha",
+    "nameVn": "Xe kéo tay",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -7355,7 +7355,7 @@
   },
   "joystick": {
     "nameEn": "Joystick",
-    "nameVn": "Joystick",
+    "nameVn": "Côn trùng Joystick",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -7367,7 +7367,7 @@
   },
   "kimono": {
     "nameEn": "Kimono",
-    "nameVn": "Kimono",
+    "nameVn": "Áo kimono",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -7379,7 +7379,7 @@
   },
   "knee_pad": {
     "nameEn": "Knee Pad",
-    "nameVn": "Knee Pad",
+    "nameVn": "Đệm đầu gối",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -7391,7 +7391,7 @@
   },
   "knot": {
     "nameEn": "Knot",
-    "nameVn": "Knot",
+    "nameVn": "Nút thắt",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -7403,7 +7403,7 @@
   },
   "lab_coat": {
     "nameEn": "Lab Coat",
-    "nameVn": "Lab Coat",
+    "nameVn": "Áo blouse",
     "emoji": "👕",
     "phonetic": "",
     "color": "#42A5F5",
@@ -7415,7 +7415,7 @@
   },
   "ladle": {
     "nameEn": "Ladle",
-    "nameVn": "Ladle",
+    "nameVn": "Muôi",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -7427,7 +7427,7 @@
   },
   "lampshade": {
     "nameEn": "Lampshade",
-    "nameVn": "Lampshade",
+    "nameVn": "Chụp đèn",
     "emoji": "💡",
     "phonetic": "",
     "color": "#FFD54F",
@@ -7452,7 +7452,7 @@
   },
   "lawn_mower": {
     "nameEn": "Lawn Mower",
-    "nameVn": "Lawn Mower",
+    "nameVn": "Máy cắt cỏ",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -7464,7 +7464,7 @@
   },
   "lens_cap": {
     "nameEn": "Lens Cap",
-    "nameVn": "Lens Cap",
+    "nameVn": "Nắp ống kính",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -7476,7 +7476,7 @@
   },
   "letter_opener": {
     "nameEn": "Letter Opener",
-    "nameVn": "Letter Opener",
+    "nameVn": "Dụng cụ mở thư",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -7488,7 +7488,7 @@
   },
   "library": {
     "nameEn": "Library",
-    "nameVn": "Library",
+    "nameVn": "Thư viện",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -7500,7 +7500,7 @@
   },
   "lifeboat": {
     "nameEn": "Lifeboat",
-    "nameVn": "Lifeboat",
+    "nameVn": "Rắn Lifeboat",
     "emoji": "🐍",
     "phonetic": "",
     "color": "#388E3C",
@@ -7512,7 +7512,7 @@
   },
   "lighter": {
     "nameEn": "Lighter",
-    "nameVn": "Lighter",
+    "nameVn": "Bật lửa",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -7524,7 +7524,7 @@
   },
   "limousine": {
     "nameEn": "Limousine",
-    "nameVn": "Limousine",
+    "nameVn": "Xe limousine",
     "emoji": "🚗",
     "phonetic": "",
     "color": "#42A5F5",
@@ -7536,7 +7536,7 @@
   },
   "liner": {
     "nameEn": "Liner",
-    "nameVn": "Liner",
+    "nameVn": "Lót",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -7548,7 +7548,7 @@
   },
   "lipstick": {
     "nameEn": "Lipstick",
-    "nameVn": "Lipstick",
+    "nameVn": "Côn trùng Lipstick",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -7560,7 +7560,7 @@
   },
   "loafer": {
     "nameEn": "Loafer",
-    "nameVn": "Loafer",
+    "nameVn": "Đi rong",
     "emoji": "🍞",
     "phonetic": "",
     "color": "#FFCC80",
@@ -7572,7 +7572,7 @@
   },
   "lotion": {
     "nameEn": "Lotion",
-    "nameVn": "Lotion",
+    "nameVn": "Nước thơm",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -7584,7 +7584,7 @@
   },
   "loudspeaker": {
     "nameEn": "Loudspeaker",
-    "nameVn": "Loudspeaker",
+    "nameVn": "Loa",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -7596,7 +7596,7 @@
   },
   "loupe": {
     "nameEn": "Loupe",
-    "nameVn": "Loupe",
+    "nameVn": "Kính lúp",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -7608,7 +7608,7 @@
   },
   "lumbermill": {
     "nameEn": "Lumbermill",
-    "nameVn": "Lumbermill",
+    "nameVn": "Xưởng gỗ",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -7620,7 +7620,7 @@
   },
   "magnetic_compass": {
     "nameEn": "Magnetic Compass",
-    "nameVn": "Magnetic Compass",
+    "nameVn": "La bàn từ tính",
     "emoji": "🧭",
     "phonetic": "",
     "color": "#42A5F5",
@@ -7632,7 +7632,7 @@
   },
   "mailbag": {
     "nameEn": "Mailbag",
-    "nameVn": "Mailbag",
+    "nameVn": "Túi thư",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -7644,7 +7644,7 @@
   },
   "mailbox": {
     "nameEn": "Mailbox",
-    "nameVn": "Mailbox",
+    "nameVn": "Hộp thư",
     "emoji": "🐄",
     "phonetic": "",
     "color": "#BCAAA4",
@@ -7656,7 +7656,7 @@
   },
   "maillot": {
     "nameEn": "Maillot",
-    "nameVn": "Maillot",
+    "nameVn": "Thư gửi",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -7668,7 +7668,7 @@
   },
   "maillot_tank_suit": {
     "nameEn": "Maillot Tank Suit",
-    "nameVn": "Maillot Tank Suit",
+    "nameVn": "Bộ đồ xe tăng Maillot",
     "emoji": "🪖",
     "phonetic": "",
     "color": "#546E7A",
@@ -7680,7 +7680,7 @@
   },
   "manhole_cover": {
     "nameEn": "Manhole Cover",
-    "nameVn": "Manhole Cover",
+    "nameVn": "Nắp cống",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -7692,7 +7692,7 @@
   },
   "maraca": {
     "nameEn": "Maraca",
-    "nameVn": "Maraca",
+    "nameVn": "Nhạc cụ maraca",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -7704,7 +7704,7 @@
   },
   "marimba": {
     "nameEn": "Marimba",
-    "nameVn": "Marimba",
+    "nameVn": "Đàn marimba",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -7716,7 +7716,7 @@
   },
   "mask": {
     "nameEn": "Mask",
-    "nameVn": "Mask",
+    "nameVn": "Mặt nạ",
     "emoji": "😷",
     "phonetic": "",
     "color": "#78909C",
@@ -7728,7 +7728,7 @@
   },
   "matchstick": {
     "nameEn": "Matchstick",
-    "nameVn": "Matchstick",
+    "nameVn": "Côn trùng Matchstick",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -7740,7 +7740,7 @@
   },
   "maypole": {
     "nameEn": "Maypole",
-    "nameVn": "Maypole",
+    "nameVn": "Cột lễ hội Maypole",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -7752,7 +7752,7 @@
   },
   "maze": {
     "nameEn": "Maze",
-    "nameVn": "Maze",
+    "nameVn": "Mê cung",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -7764,7 +7764,7 @@
   },
   "measuring_cup": {
     "nameEn": "Measuring Cup",
-    "nameVn": "Measuring Cup",
+    "nameVn": "Cốc đo lường",
     "emoji": "☕",
     "phonetic": "",
     "color": "#FF8A65",
@@ -7776,7 +7776,7 @@
   },
   "medicine_chest": {
     "nameEn": "Medicine Chest",
-    "nameVn": "Medicine Chest",
+    "nameVn": "Rương thuốc",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -7788,7 +7788,7 @@
   },
   "megalith": {
     "nameEn": "Megalith",
-    "nameVn": "Megalith",
+    "nameVn": "Cự thạch",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -7800,7 +7800,7 @@
   },
   "microphone": {
     "nameEn": "Microphone",
-    "nameVn": "Microphone",
+    "nameVn": "Micro",
     "emoji": "📱",
     "phonetic": "",
     "color": "#5C6BC0",
@@ -7812,7 +7812,7 @@
   },
   "microwave": {
     "nameEn": "Microwave",
-    "nameVn": "Microwave",
+    "nameVn": "Lò vi sóng",
     "emoji": "🐦",
     "phonetic": "",
     "color": "#29B6F6",
@@ -7824,7 +7824,7 @@
   },
   "military_uniform": {
     "nameEn": "Military Uniform",
-    "nameVn": "Military Uniform",
+    "nameVn": "Quân phục",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -7836,7 +7836,7 @@
   },
   "milk_can": {
     "nameEn": "Milk Can",
-    "nameVn": "Milk Can",
+    "nameVn": "Lon sữa",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -7848,7 +7848,7 @@
   },
   "minibus": {
     "nameEn": "Minibus",
-    "nameVn": "Minibus",
+    "nameVn": "Xe buýt nhỏ",
     "emoji": "🚌",
     "phonetic": "",
     "color": "#FFB300",
@@ -7860,7 +7860,7 @@
   },
   "miniskirt": {
     "nameEn": "Miniskirt",
-    "nameVn": "Miniskirt",
+    "nameVn": "Váy ngắn",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -7872,7 +7872,7 @@
   },
   "minivan": {
     "nameEn": "Minivan",
-    "nameVn": "Minivan",
+    "nameVn": "Xe tải nhỏ",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -7884,7 +7884,7 @@
   },
   "missile": {
     "nameEn": "Missile",
-    "nameVn": "Missile",
+    "nameVn": "Tên lửa",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -7896,7 +7896,7 @@
   },
   "mitten": {
     "nameEn": "Mitten",
-    "nameVn": "Mitten",
+    "nameVn": "Găng tay",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -7908,7 +7908,7 @@
   },
   "mixing_bowl": {
     "nameEn": "Mixing Bowl",
-    "nameVn": "Mixing Bowl",
+    "nameVn": "Chim Mixing Bowl",
     "emoji": "🐦",
     "phonetic": "",
     "color": "#29B6F6",
@@ -7920,7 +7920,7 @@
   },
   "mobile_home": {
     "nameEn": "Mobile Home",
-    "nameVn": "Mobile Home",
+    "nameVn": "Nhà di động",
     "emoji": "📱",
     "phonetic": "",
     "color": "#5C6BC0",
@@ -7932,7 +7932,7 @@
   },
   "model_t": {
     "nameEn": "Model T",
-    "nameVn": "Model T",
+    "nameVn": "Mẫu T",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -7944,7 +7944,7 @@
   },
   "modem": {
     "nameEn": "Modem",
-    "nameVn": "Modem",
+    "nameVn": "Bộ modem",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -7956,7 +7956,7 @@
   },
   "monastery": {
     "nameEn": "Monastery",
-    "nameVn": "Monastery",
+    "nameVn": "Tu viện",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -7968,7 +7968,7 @@
   },
   "monitor": {
     "nameEn": "Monitor",
-    "nameVn": "Monitor",
+    "nameVn": "Màn hình",
     "emoji": "📺",
     "phonetic": "",
     "color": "#37474F",
@@ -7980,7 +7980,7 @@
   },
   "moped": {
     "nameEn": "Moped",
-    "nameVn": "Moped",
+    "nameVn": "Xe gắn máy",
     "emoji": "🏍️",
     "phonetic": "",
     "color": "#8D6E63",
@@ -7992,7 +7992,7 @@
   },
   "mortar": {
     "nameEn": "Mortar",
-    "nameVn": "Mortar",
+    "nameVn": "Vữa",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -8004,7 +8004,7 @@
   },
   "mortarboard": {
     "nameEn": "Mortarboard",
-    "nameVn": "Mortarboard",
+    "nameVn": "Rắn Mortarboard",
     "emoji": "🐍",
     "phonetic": "",
     "color": "#388E3C",
@@ -8016,7 +8016,7 @@
   },
   "mosque": {
     "nameEn": "Mosque",
-    "nameVn": "Mosque",
+    "nameVn": "Nhà thờ Hồi giáo",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -8028,7 +8028,7 @@
   },
   "mosquito_net": {
     "nameEn": "Mosquito Net",
-    "nameVn": "Mosquito Net",
+    "nameVn": "Côn trùng Mosquito Net",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -8040,7 +8040,7 @@
   },
   "motor_scooter": {
     "nameEn": "Motor Scooter",
-    "nameVn": "Motor Scooter",
+    "nameVn": "Xe máy",
     "emoji": "🏍️",
     "phonetic": "",
     "color": "#8D6E63",
@@ -8052,7 +8052,7 @@
   },
   "mountain_bike": {
     "nameEn": "Mountain Bike",
-    "nameVn": "Mountain Bike",
+    "nameVn": "Xe đạp leo núi",
     "emoji": "🏔️",
     "phonetic": "",
     "color": "#78909C",
@@ -8064,7 +8064,7 @@
   },
   "mountain_tent": {
     "nameEn": "Mountain Tent",
-    "nameVn": "Mountain Tent",
+    "nameVn": "Lều núi",
     "emoji": "🏔️",
     "phonetic": "",
     "color": "#78909C",
@@ -8076,7 +8076,7 @@
   },
   "mouse": {
     "nameEn": "Mouse",
-    "nameVn": "Mouse",
+    "nameVn": "Chuột",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -8088,7 +8088,7 @@
   },
   "mousetrap": {
     "nameEn": "Mousetrap",
-    "nameVn": "Mousetrap",
+    "nameVn": "Bẫy chuột",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -8100,7 +8100,7 @@
   },
   "moving_van": {
     "nameEn": "Moving Van",
-    "nameVn": "Moving Van",
+    "nameVn": "Di chuyển Vân",
     "emoji": "🚚",
     "phonetic": "",
     "color": "#78909C",
@@ -8112,7 +8112,7 @@
   },
   "muzzle": {
     "nameEn": "Muzzle",
-    "nameVn": "Muzzle",
+    "nameVn": "Mõm",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -8124,7 +8124,7 @@
   },
   "nail": {
     "nameEn": "Nail",
-    "nameVn": "Nail",
+    "nameVn": "Móng tay",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -8136,7 +8136,7 @@
   },
   "neck_brace": {
     "nameEn": "Neck Brace",
-    "nameVn": "Neck Brace",
+    "nameVn": "Nẹp cổ",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -8148,7 +8148,7 @@
   },
   "necklace": {
     "nameEn": "Necklace",
-    "nameVn": "Necklace",
+    "nameVn": "Vòng cổ",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -8160,7 +8160,7 @@
   },
   "nipple": {
     "nameEn": "Nipple",
-    "nameVn": "Nipple",
+    "nameVn": "Núm vú",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -8172,7 +8172,7 @@
   },
   "notebook": {
     "nameEn": "Notebook",
-    "nameVn": "Notebook",
+    "nameVn": "Máy tính xách tay",
     "emoji": "💻",
     "phonetic": "",
     "color": "#78909C",
@@ -8184,7 +8184,7 @@
   },
   "obelisk": {
     "nameEn": "Obelisk",
-    "nameVn": "Obelisk",
+    "nameVn": "Đài tưởng niệm",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -8196,7 +8196,7 @@
   },
   "oboe": {
     "nameEn": "Oboe",
-    "nameVn": "Oboe",
+    "nameVn": "Kèn ô-boa",
     "emoji": "🎵",
     "phonetic": "",
     "color": "#9B5DE5",
@@ -8208,7 +8208,7 @@
   },
   "ocarina": {
     "nameEn": "Ocarina",
-    "nameVn": "Ocarina",
+    "nameVn": "Xe Ocarina",
     "emoji": "🚗",
     "phonetic": "",
     "color": "#42A5F5",
@@ -8220,7 +8220,7 @@
   },
   "odometer": {
     "nameEn": "Odometer",
-    "nameVn": "Odometer",
+    "nameVn": "Đồng hồ đo đường",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -8232,7 +8232,7 @@
   },
   "oil_filter": {
     "nameEn": "Oil Filter",
-    "nameVn": "Oil Filter",
+    "nameVn": "Bộ lọc dầu",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -8244,7 +8244,7 @@
   },
   "organ": {
     "nameEn": "Organ",
-    "nameVn": "Organ",
+    "nameVn": "Cơ quan",
     "emoji": "🎹",
     "phonetic": "",
     "color": "#37474F",
@@ -8256,7 +8256,7 @@
   },
   "oscilloscope": {
     "nameEn": "Oscilloscope",
-    "nameVn": "Oscilloscope",
+    "nameVn": "Máy hiện sóng",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -8268,7 +8268,7 @@
   },
   "overskirt": {
     "nameEn": "Overskirt",
-    "nameVn": "Overskirt",
+    "nameVn": "Váy ngoài",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -8280,7 +8280,7 @@
   },
   "oxcart": {
     "nameEn": "Oxcart",
-    "nameVn": "Oxcart",
+    "nameVn": "Xe bò",
     "emoji": "🐄",
     "phonetic": "",
     "color": "#BCAAA4",
@@ -8292,7 +8292,7 @@
   },
   "oxygen_mask": {
     "nameEn": "Oxygen Mask",
-    "nameVn": "Oxygen Mask",
+    "nameVn": "Mặt nạ oxy",
     "emoji": "🐄",
     "phonetic": "",
     "color": "#BCAAA4",
@@ -8304,7 +8304,7 @@
   },
   "packet": {
     "nameEn": "Packet",
-    "nameVn": "Packet",
+    "nameVn": "Gói",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -8316,7 +8316,7 @@
   },
   "paddle": {
     "nameEn": "Paddle",
-    "nameVn": "Paddle",
+    "nameVn": "Mái chèo",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -8328,7 +8328,7 @@
   },
   "paddlewheel": {
     "nameEn": "Paddlewheel",
-    "nameVn": "Paddlewheel",
+    "nameVn": "Cá Paddlewheel",
     "emoji": "🐟",
     "phonetic": "",
     "color": "#26C6DA",
@@ -8340,7 +8340,7 @@
   },
   "padlock": {
     "nameEn": "Padlock",
-    "nameVn": "Padlock",
+    "nameVn": "Ổ khóa",
     "emoji": "🔒",
     "phonetic": "",
     "color": "#FFD54F",
@@ -8352,7 +8352,7 @@
   },
   "paintbrush": {
     "nameEn": "Paintbrush",
-    "nameVn": "Paintbrush",
+    "nameVn": "Cọ sơn",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -8364,7 +8364,7 @@
   },
   "pajama": {
     "nameEn": "Pajama",
-    "nameVn": "Pajama",
+    "nameVn": "Đồ ngủ",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -8376,7 +8376,7 @@
   },
   "palace": {
     "nameEn": "Palace",
-    "nameVn": "Palace",
+    "nameVn": "Cung điện",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -8388,7 +8388,7 @@
   },
   "panpipe": {
     "nameEn": "Panpipe",
-    "nameVn": "Panpipe",
+    "nameVn": "Ống tẩu",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -8400,7 +8400,7 @@
   },
   "paper_towel": {
     "nameEn": "Paper Towel",
-    "nameVn": "Paper Towel",
+    "nameVn": "Khăn giấy",
     "emoji": "🐒",
     "phonetic": "",
     "color": "#A1887F",
@@ -8412,7 +8412,7 @@
   },
   "parachute": {
     "nameEn": "Parachute",
-    "nameVn": "Parachute",
+    "nameVn": "Dù",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -8424,7 +8424,7 @@
   },
   "parallel_bars": {
     "nameEn": "Parallel Bars",
-    "nameVn": "Parallel Bars",
+    "nameVn": "Thanh song song",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -8436,7 +8436,7 @@
   },
   "park_bench": {
     "nameEn": "Park Bench",
-    "nameVn": "Park Bench",
+    "nameVn": "Ghế đá công viên",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -8448,7 +8448,7 @@
   },
   "parking_meter": {
     "nameEn": "Parking Meter",
-    "nameVn": "Parking Meter",
+    "nameVn": "Đồng hồ đỗ xe",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -8460,7 +8460,7 @@
   },
   "passenger_car": {
     "nameEn": "Passenger Car",
-    "nameVn": "Passenger Car",
+    "nameVn": "Xe khách",
     "emoji": "🚗",
     "phonetic": "",
     "color": "#42A5F5",
@@ -8472,7 +8472,7 @@
   },
   "patio": {
     "nameEn": "Patio",
-    "nameVn": "Patio",
+    "nameVn": "Sân hiên",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -8484,7 +8484,7 @@
   },
   "pay-phone": {
     "nameEn": "Pay-phone",
-    "nameVn": "Pay-phone",
+    "nameVn": "Trả tiền điện thoại",
     "emoji": "📱",
     "phonetic": "",
     "color": "#5C6BC0",
@@ -8496,7 +8496,7 @@
   },
   "pedestal": {
     "nameEn": "Pedestal",
-    "nameVn": "Pedestal",
+    "nameVn": "Đôn",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -8508,7 +8508,7 @@
   },
   "pencil_box": {
     "nameEn": "Pencil Box",
-    "nameVn": "Pencil Box",
+    "nameVn": "Hộp bút chì",
     "emoji": "🐄",
     "phonetic": "",
     "color": "#BCAAA4",
@@ -8520,7 +8520,7 @@
   },
   "pencil_sharpener": {
     "nameEn": "Pencil Sharpener",
-    "nameVn": "Pencil Sharpener",
+    "nameVn": "Gọt bút chì",
     "emoji": "✏️",
     "phonetic": "",
     "color": "#FDD835",
@@ -8532,7 +8532,7 @@
   },
   "perfume": {
     "nameEn": "Perfume",
-    "nameVn": "Perfume",
+    "nameVn": "Nước hoa",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -8544,7 +8544,7 @@
   },
   "petri_dish": {
     "nameEn": "Petri Dish",
-    "nameVn": "Petri Dish",
+    "nameVn": "Đĩa Petri",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -8556,7 +8556,7 @@
   },
   "photocopier": {
     "nameEn": "Photocopier",
-    "nameVn": "Photocopier",
+    "nameVn": "Máy photocopy",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -8568,7 +8568,7 @@
   },
   "pick": {
     "nameEn": "Pick",
-    "nameVn": "Pick",
+    "nameVn": "Nhặt",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -8580,7 +8580,7 @@
   },
   "pickelhaube": {
     "nameEn": "Pickelhaube",
-    "nameVn": "Pickelhaube",
+    "nameVn": "Mũ Pickelhaube",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -8592,7 +8592,7 @@
   },
   "picket_fence": {
     "nameEn": "Picket Fence",
-    "nameVn": "Picket Fence",
+    "nameVn": "Hàng rào cọc",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -8604,7 +8604,7 @@
   },
   "pickup": {
     "nameEn": "Pickup",
-    "nameVn": "Pickup",
+    "nameVn": "Xe bán tải",
     "emoji": "🚚",
     "phonetic": "",
     "color": "#78909C",
@@ -8616,7 +8616,7 @@
   },
   "pier": {
     "nameEn": "Pier",
-    "nameVn": "Pier",
+    "nameVn": "Đê",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -8628,7 +8628,7 @@
   },
   "piggy_bank": {
     "nameEn": "Piggy Bank",
-    "nameVn": "Piggy Bank",
+    "nameVn": "Heo đất",
     "emoji": "🐷",
     "phonetic": "",
     "color": "#F48FB1",
@@ -8640,7 +8640,7 @@
   },
   "pill_bottle": {
     "nameEn": "Pill Bottle",
-    "nameVn": "Pill Bottle",
+    "nameVn": "Chai thuốc",
     "emoji": "🍶",
     "phonetic": "",
     "color": "#80CBC4",
@@ -8652,7 +8652,7 @@
   },
   "pillow": {
     "nameEn": "Pillow",
-    "nameVn": "Pillow",
+    "nameVn": "Cái gối",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -8664,7 +8664,7 @@
   },
   "ping-pong_ball": {
     "nameEn": "Ping-pong Ball",
-    "nameVn": "Ping-pong Ball",
+    "nameVn": "Bóng bàn",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -8676,7 +8676,7 @@
   },
   "pinwheel": {
     "nameEn": "Pinwheel",
-    "nameVn": "Pinwheel",
+    "nameVn": "Cá Pinwheel",
     "emoji": "🐟",
     "phonetic": "",
     "color": "#26C6DA",
@@ -8688,7 +8688,7 @@
   },
   "pirate": {
     "nameEn": "Pirate",
-    "nameVn": "Pirate",
+    "nameVn": "Cướp biển",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -8700,7 +8700,7 @@
   },
   "pitcher": {
     "nameEn": "Pitcher",
-    "nameVn": "Pitcher",
+    "nameVn": "Cái bình",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -8712,7 +8712,7 @@
   },
   "plane": {
     "nameEn": "Plane",
-    "nameVn": "Plane",
+    "nameVn": "Máy bay",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -8724,7 +8724,7 @@
   },
   "planetarium": {
     "nameEn": "Planetarium",
-    "nameVn": "Planetarium",
+    "nameVn": "Cung thiên văn",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -8736,7 +8736,7 @@
   },
   "plastic_bag": {
     "nameEn": "Plastic Bag",
-    "nameVn": "Plastic Bag",
+    "nameVn": "Túi nhựa",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -8748,7 +8748,7 @@
   },
   "plate_rack": {
     "nameEn": "Plate Rack",
-    "nameVn": "Plate Rack",
+    "nameVn": "Giá đĩa",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -8760,7 +8760,7 @@
   },
   "plow": {
     "nameEn": "Plow",
-    "nameVn": "Plow",
+    "nameVn": "Cày",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -8772,7 +8772,7 @@
   },
   "plunger": {
     "nameEn": "Plunger",
-    "nameVn": "Plunger",
+    "nameVn": "Pít tông",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -8784,7 +8784,7 @@
   },
   "polaroid_camera": {
     "nameEn": "Polaroid Camera",
-    "nameVn": "Polaroid Camera",
+    "nameVn": "Máy Ảnh Polaroid",
     "emoji": "📷",
     "phonetic": "",
     "color": "#546E7A",
@@ -8796,7 +8796,7 @@
   },
   "pole": {
     "nameEn": "Pole",
-    "nameVn": "Pole",
+    "nameVn": "Cực",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -8808,7 +8808,7 @@
   },
   "police_van": {
     "nameEn": "Police Van",
-    "nameVn": "Police Van",
+    "nameVn": "Công An Vân",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -8820,7 +8820,7 @@
   },
   "poncho": {
     "nameEn": "Poncho",
-    "nameVn": "Poncho",
+    "nameVn": "Áo choàng",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -8832,7 +8832,7 @@
   },
   "pool_table": {
     "nameEn": "Pool Table",
-    "nameVn": "Pool Table",
+    "nameVn": "Bàn bi-a",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -8844,7 +8844,7 @@
   },
   "pop_bottle": {
     "nameEn": "Pop Bottle",
-    "nameVn": "Pop Bottle",
+    "nameVn": "Chai nước ngọt",
     "emoji": "🍶",
     "phonetic": "",
     "color": "#80CBC4",
@@ -8856,7 +8856,7 @@
   },
   "pot": {
     "nameEn": "Pot",
-    "nameVn": "Pot",
+    "nameVn": "Nồi",
     "emoji": "🏺",
     "phonetic": "",
     "color": "#FF8F00",
@@ -8868,7 +8868,7 @@
   },
   "potter's_wheel": {
     "nameEn": "Potter's Wheel",
-    "nameVn": "Potter's Wheel",
+    "nameVn": "Cá Potter's Wheel",
     "emoji": "🐟",
     "phonetic": "",
     "color": "#26C6DA",
@@ -8880,7 +8880,7 @@
   },
   "power_drill": {
     "nameEn": "Power Drill",
-    "nameVn": "Power Drill",
+    "nameVn": "Máy khoan điện",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -8892,7 +8892,7 @@
   },
   "prayer_rug": {
     "nameEn": "Prayer Rug",
-    "nameVn": "Prayer Rug",
+    "nameVn": "Cá Prayer Rug",
     "emoji": "🐟",
     "phonetic": "",
     "color": "#26C6DA",
@@ -8904,7 +8904,7 @@
   },
   "printer": {
     "nameEn": "Printer",
-    "nameVn": "Printer",
+    "nameVn": "Máy in",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -8916,7 +8916,7 @@
   },
   "prison": {
     "nameEn": "Prison",
-    "nameVn": "Prison",
+    "nameVn": "Nhà tù",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -8928,7 +8928,7 @@
   },
   "projectile": {
     "nameEn": "Projectile",
-    "nameVn": "Projectile",
+    "nameVn": "Đạn",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -8940,7 +8940,7 @@
   },
   "projector": {
     "nameEn": "Projector",
-    "nameVn": "Projector",
+    "nameVn": "Máy chiếu",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -8952,7 +8952,7 @@
   },
   "puck": {
     "nameEn": "Puck",
-    "nameVn": "Puck",
+    "nameVn": "Bóng khúc côn cầu",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -8964,7 +8964,7 @@
   },
   "punching_bag": {
     "nameEn": "Punching Bag",
-    "nameVn": "Punching Bag",
+    "nameVn": "Bao đấm",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -8976,7 +8976,7 @@
   },
   "purse": {
     "nameEn": "Purse",
-    "nameVn": "Purse",
+    "nameVn": "Cái ví",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -8988,7 +8988,7 @@
   },
   "quill": {
     "nameEn": "Quill",
-    "nameVn": "Quill",
+    "nameVn": "Bút lông",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -9000,7 +9000,7 @@
   },
   "quilt": {
     "nameEn": "Quilt",
-    "nameVn": "Quilt",
+    "nameVn": "Chăn",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -9012,7 +9012,7 @@
   },
   "racer": {
     "nameEn": "Racer",
-    "nameVn": "Racer",
+    "nameVn": "Xe đua",
     "emoji": "🚗",
     "phonetic": "",
     "color": "#42A5F5",
@@ -9024,7 +9024,7 @@
   },
   "racket": {
     "nameEn": "Racket",
-    "nameVn": "Racket",
+    "nameVn": "Vợt",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -9036,7 +9036,7 @@
   },
   "radiator": {
     "nameEn": "Radiator",
-    "nameVn": "Radiator",
+    "nameVn": "Bộ tản nhiệt",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -9048,7 +9048,7 @@
   },
   "radio": {
     "nameEn": "Radio",
-    "nameVn": "Radio",
+    "nameVn": "Đài radio",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -9060,7 +9060,7 @@
   },
   "radio_telescope": {
     "nameEn": "Radio Telescope",
-    "nameVn": "Radio Telescope",
+    "nameVn": "Kính thiên văn vô tuyến",
     "emoji": "🔭",
     "phonetic": "",
     "color": "#5C6BC0",
@@ -9072,7 +9072,7 @@
   },
   "rain_barrel": {
     "nameEn": "Rain Barrel",
-    "nameVn": "Rain Barrel",
+    "nameVn": "Thùng mưa",
     "emoji": "🪣",
     "phonetic": "",
     "color": "#42A5F5",
@@ -9084,7 +9084,7 @@
   },
   "recreational_vehicle": {
     "nameEn": "Recreational Vehicle",
-    "nameVn": "Recreational Vehicle",
+    "nameVn": "Xe giải trí",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -9096,7 +9096,7 @@
   },
   "reel": {
     "nameEn": "Reel",
-    "nameVn": "Reel",
+    "nameVn": "Cá Reel",
     "emoji": "🐟",
     "phonetic": "",
     "color": "#26C6DA",
@@ -9108,7 +9108,7 @@
   },
   "reflex_camera": {
     "nameEn": "Reflex Camera",
-    "nameVn": "Reflex Camera",
+    "nameVn": "Máy ảnh phản xạ",
     "emoji": "📷",
     "phonetic": "",
     "color": "#546E7A",
@@ -9120,7 +9120,7 @@
   },
   "refrigerator": {
     "nameEn": "Refrigerator",
-    "nameVn": "Refrigerator",
+    "nameVn": "Tủ lạnh",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -9132,7 +9132,7 @@
   },
   "remote_control": {
     "nameEn": "Remote Control",
-    "nameVn": "Remote Control",
+    "nameVn": "Điều khiển từ xa",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -9144,7 +9144,7 @@
   },
   "restaurant": {
     "nameEn": "Restaurant",
-    "nameVn": "Restaurant",
+    "nameVn": "Côn trùng Restaurant",
     "emoji": "🦋",
     "phonetic": "",
     "color": "#CE93D8",
@@ -9156,7 +9156,7 @@
   },
   "revolver": {
     "nameEn": "Revolver",
-    "nameVn": "Revolver",
+    "nameVn": "Súng lục ổ quay",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -9168,7 +9168,7 @@
   },
   "rifle": {
     "nameEn": "Rifle",
-    "nameVn": "Rifle",
+    "nameVn": "Súng trường",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -9180,7 +9180,7 @@
   },
   "rocking_chair": {
     "nameEn": "Rocking Chair",
-    "nameVn": "Rocking Chair",
+    "nameVn": "Ghế bập bênh",
     "emoji": "🪑",
     "phonetic": "",
     "color": "#8D6E63",
@@ -9192,7 +9192,7 @@
   },
   "rotisserie": {
     "nameEn": "Rotisserie",
-    "nameVn": "Rotisserie",
+    "nameVn": "Tiệm bánh quay",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -9204,7 +9204,7 @@
   },
   "rubber_eraser": {
     "nameEn": "Rubber Eraser",
-    "nameVn": "Rubber Eraser",
+    "nameVn": "Cục tẩy cao su",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -9216,7 +9216,7 @@
   },
   "rugby_ball": {
     "nameEn": "Rugby Ball",
-    "nameVn": "Rugby Ball",
+    "nameVn": "Bóng bầu dục",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -9228,7 +9228,7 @@
   },
   "rule": {
     "nameEn": "Rule",
-    "nameVn": "Rule",
+    "nameVn": "Luật lệ",
     "emoji": "🧭",
     "phonetic": "",
     "color": "#42A5F5",
@@ -9240,7 +9240,7 @@
   },
   "running_shoe": {
     "nameEn": "Running Shoe",
-    "nameVn": "Running Shoe",
+    "nameVn": "Giày chạy bộ",
     "emoji": "👟",
     "phonetic": "",
     "color": "#8D6E63",
@@ -9252,7 +9252,7 @@
   },
   "safe": {
     "nameEn": "Safe",
-    "nameVn": "Safe",
+    "nameVn": "An toàn",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -9264,7 +9264,7 @@
   },
   "safety_pin": {
     "nameEn": "Safety Pin",
-    "nameVn": "Safety Pin",
+    "nameVn": "Chốt an toàn",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -9276,7 +9276,7 @@
   },
   "saltshaker": {
     "nameEn": "Saltshaker",
-    "nameVn": "Saltshaker",
+    "nameVn": "Máy lắc muối",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -9288,7 +9288,7 @@
   },
   "sandal": {
     "nameEn": "Sandal",
-    "nameVn": "Sandal",
+    "nameVn": "Dép xăng đan",
     "emoji": "👟",
     "phonetic": "",
     "color": "#8D6E63",
@@ -9300,7 +9300,7 @@
   },
   "sarong": {
     "nameEn": "Sarong",
-    "nameVn": "Sarong",
+    "nameVn": "Xà rông",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -9312,7 +9312,7 @@
   },
   "sax": {
     "nameEn": "Sax",
-    "nameVn": "Sax",
+    "nameVn": "Kèn saxophone",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -9324,7 +9324,7 @@
   },
   "scabbard": {
     "nameEn": "Scabbard",
-    "nameVn": "Scabbard",
+    "nameVn": "Bao kiếm",
     "emoji": "🚗",
     "phonetic": "",
     "color": "#42A5F5",
@@ -9336,7 +9336,7 @@
   },
   "scale": {
     "nameEn": "Scale",
-    "nameVn": "Scale",
+    "nameVn": "Tỉ lệ",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -9348,7 +9348,7 @@
   },
   "school_bus": {
     "nameEn": "School Bus",
-    "nameVn": "School Bus",
+    "nameVn": "Xe buýt trường học",
     "emoji": "🚌",
     "phonetic": "",
     "color": "#FFB300",
@@ -9360,7 +9360,7 @@
   },
   "schooner": {
     "nameEn": "Schooner",
-    "nameVn": "Schooner",
+    "nameVn": "Người lái tàu",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -9372,7 +9372,7 @@
   },
   "scoreboard": {
     "nameEn": "Scoreboard",
-    "nameVn": "Scoreboard",
+    "nameVn": "Rắn Scoreboard",
     "emoji": "🐍",
     "phonetic": "",
     "color": "#388E3C",
@@ -9384,7 +9384,7 @@
   },
   "screen": {
     "nameEn": "Screen",
-    "nameVn": "Screen",
+    "nameVn": "Màn hình",
     "emoji": "📺",
     "phonetic": "",
     "color": "#37474F",
@@ -9396,7 +9396,7 @@
   },
   "screw": {
     "nameEn": "Screw",
-    "nameVn": "Screw",
+    "nameVn": "Vít",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -9408,7 +9408,7 @@
   },
   "screwdriver": {
     "nameEn": "Screwdriver",
-    "nameVn": "Screwdriver",
+    "nameVn": "Tua vít",
     "emoji": "🔨",
     "phonetic": "",
     "color": "#78909C",
@@ -9420,7 +9420,7 @@
   },
   "seat_belt": {
     "nameEn": "Seat Belt",
-    "nameVn": "Seat Belt",
+    "nameVn": "Dây an toàn",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -9432,7 +9432,7 @@
   },
   "sewing_machine": {
     "nameEn": "Sewing Machine",
-    "nameVn": "Sewing Machine",
+    "nameVn": "Máy khâu",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -9444,7 +9444,7 @@
   },
   "shield": {
     "nameEn": "Shield",
-    "nameVn": "Shield",
+    "nameVn": "Khiên",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -9456,7 +9456,7 @@
   },
   "shoe_shop": {
     "nameEn": "Shoe Shop",
-    "nameVn": "Shoe Shop",
+    "nameVn": "Cửa hàng giày",
     "emoji": "👟",
     "phonetic": "",
     "color": "#8D6E63",
@@ -9468,7 +9468,7 @@
   },
   "shoji": {
     "nameEn": "Shoji",
-    "nameVn": "Shoji",
+    "nameVn": "Cửa giấy shoji",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -9480,7 +9480,7 @@
   },
   "shopping_basket": {
     "nameEn": "Shopping Basket",
-    "nameVn": "Shopping Basket",
+    "nameVn": "Giỏ hàng",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -9492,7 +9492,7 @@
   },
   "shopping_cart": {
     "nameEn": "Shopping Cart",
-    "nameVn": "Shopping Cart",
+    "nameVn": "Giỏ hàng",
     "emoji": "🚗",
     "phonetic": "",
     "color": "#42A5F5",
@@ -9504,7 +9504,7 @@
   },
   "shovel": {
     "nameEn": "Shovel",
-    "nameVn": "Shovel",
+    "nameVn": "Xẻng",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -9516,7 +9516,7 @@
   },
   "shower_cap": {
     "nameEn": "Shower Cap",
-    "nameVn": "Shower Cap",
+    "nameVn": "Mũ tắm",
     "emoji": "🚽",
     "phonetic": "",
     "color": "#E3F2FD",
@@ -9528,7 +9528,7 @@
   },
   "shower_curtain": {
     "nameEn": "Shower Curtain",
-    "nameVn": "Shower Curtain",
+    "nameVn": "Rèm tắm",
     "emoji": "🚽",
     "phonetic": "",
     "color": "#E3F2FD",
@@ -9540,7 +9540,7 @@
   },
   "ski": {
     "nameEn": "Ski",
-    "nameVn": "Ski",
+    "nameVn": "Trượt tuyết",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -9552,7 +9552,7 @@
   },
   "ski_mask": {
     "nameEn": "Ski Mask",
-    "nameVn": "Ski Mask",
+    "nameVn": "Mặt nạ trượt tuyết",
     "emoji": "😷",
     "phonetic": "",
     "color": "#78909C",
@@ -9564,7 +9564,7 @@
   },
   "sleeping_bag": {
     "nameEn": "Sleeping Bag",
-    "nameVn": "Sleeping Bag",
+    "nameVn": "Túi ngủ",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -9576,7 +9576,7 @@
   },
   "slide_rule": {
     "nameEn": "Slide Rule",
-    "nameVn": "Slide Rule",
+    "nameVn": "Quy tắc trượt",
     "emoji": "🧭",
     "phonetic": "",
     "color": "#42A5F5",
@@ -9588,7 +9588,7 @@
   },
   "sliding_door": {
     "nameEn": "Sliding Door",
-    "nameVn": "Sliding Door",
+    "nameVn": "Cửa trượt",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -9600,7 +9600,7 @@
   },
   "slot": {
     "nameEn": "Slot",
-    "nameVn": "Slot",
+    "nameVn": "Chỗ",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -9612,7 +9612,7 @@
   },
   "snorkel": {
     "nameEn": "Snorkel",
-    "nameVn": "Snorkel",
+    "nameVn": "Ống thở",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -9624,7 +9624,7 @@
   },
   "snowmobile": {
     "nameEn": "Snowmobile",
-    "nameVn": "Snowmobile",
+    "nameVn": "Xe trượt tuyết",
     "emoji": "🛷",
     "phonetic": "",
     "color": "#29B6F6",
@@ -9636,7 +9636,7 @@
   },
   "snowplow": {
     "nameEn": "Snowplow",
-    "nameVn": "Snowplow",
+    "nameVn": "Xe ủi tuyết",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -9648,7 +9648,7 @@
   },
   "soap_dispenser": {
     "nameEn": "Soap Dispenser",
-    "nameVn": "Soap Dispenser",
+    "nameVn": "Hộp đựng xà phòng",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -9660,7 +9660,7 @@
   },
   "soccer_ball": {
     "nameEn": "Soccer Ball",
-    "nameVn": "Soccer Ball",
+    "nameVn": "Bóng đá",
     "emoji": "⚽",
     "phonetic": "",
     "color": "#66BB6A",
@@ -9672,7 +9672,7 @@
   },
   "sock": {
     "nameEn": "Sock",
-    "nameVn": "Sock",
+    "nameVn": "Tất",
     "emoji": "👟",
     "phonetic": "",
     "color": "#8D6E63",
@@ -9684,7 +9684,7 @@
   },
   "solar_dish": {
     "nameEn": "Solar Dish",
-    "nameVn": "Solar Dish",
+    "nameVn": "Đĩa năng lượng mặt trời",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -9696,7 +9696,7 @@
   },
   "sombrero": {
     "nameEn": "Sombrero",
-    "nameVn": "Sombrero",
+    "nameVn": "Mũ rộng vành",
     "emoji": "🎩",
     "phonetic": "",
     "color": "#5D4037",
@@ -9708,7 +9708,7 @@
   },
   "soup_bowl": {
     "nameEn": "Soup Bowl",
-    "nameVn": "Soup Bowl",
+    "nameVn": "Chim Soup Bowl",
     "emoji": "🐦",
     "phonetic": "",
     "color": "#29B6F6",
@@ -9720,7 +9720,7 @@
   },
   "space_bar": {
     "nameEn": "Space Bar",
-    "nameVn": "Space Bar",
+    "nameVn": "Thanh không gian",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -9732,7 +9732,7 @@
   },
   "space_heater": {
     "nameEn": "Space Heater",
-    "nameVn": "Space Heater",
+    "nameVn": "Máy sưởi không gian",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -9744,7 +9744,7 @@
   },
   "space_shuttle": {
     "nameEn": "Space Shuttle",
-    "nameVn": "Space Shuttle",
+    "nameVn": "Tàu con thoi",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -9756,7 +9756,7 @@
   },
   "spatula": {
     "nameEn": "Spatula",
-    "nameVn": "Spatula",
+    "nameVn": "Thìa",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -9768,7 +9768,7 @@
   },
   "speedboat": {
     "nameEn": "Speedboat",
-    "nameVn": "Speedboat",
+    "nameVn": "Rắn Speedboat",
     "emoji": "🐍",
     "phonetic": "",
     "color": "#388E3C",
@@ -9780,7 +9780,7 @@
   },
   "spider_web": {
     "nameEn": "Spider Web",
-    "nameVn": "Spider Web",
+    "nameVn": "Nhện Spider Web",
     "emoji": "🕷️",
     "phonetic": "",
     "color": "#5D4037",
@@ -9792,7 +9792,7 @@
   },
   "spindle": {
     "nameEn": "Spindle",
-    "nameVn": "Spindle",
+    "nameVn": "Con quay",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -9804,7 +9804,7 @@
   },
   "sports_car": {
     "nameEn": "Sports Car",
-    "nameVn": "Sports Car",
+    "nameVn": "Xe thể thao",
     "emoji": "🚗",
     "phonetic": "",
     "color": "#42A5F5",
@@ -9816,7 +9816,7 @@
   },
   "spotlight": {
     "nameEn": "Spotlight",
-    "nameVn": "Spotlight",
+    "nameVn": "Điểm sáng",
     "emoji": "🏺",
     "phonetic": "",
     "color": "#FF8F00",
@@ -9828,7 +9828,7 @@
   },
   "stage": {
     "nameEn": "Stage",
-    "nameVn": "Stage",
+    "nameVn": "Sân khấu",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -9840,7 +9840,7 @@
   },
   "steam_locomotive": {
     "nameEn": "Steam Locomotive",
-    "nameVn": "Steam Locomotive",
+    "nameVn": "Đầu máy hơi nước",
     "emoji": "🚂",
     "phonetic": "",
     "color": "#EF5350",
@@ -9852,7 +9852,7 @@
   },
   "steel_arch_bridge": {
     "nameEn": "Steel Arch Bridge",
-    "nameVn": "Steel Arch Bridge",
+    "nameVn": "Cá Steel Arch Bridge",
     "emoji": "🐟",
     "phonetic": "",
     "color": "#26C6DA",
@@ -9864,7 +9864,7 @@
   },
   "steel_drum": {
     "nameEn": "Steel Drum",
-    "nameVn": "Steel Drum",
+    "nameVn": "Cá Steel Drum",
     "emoji": "🐟",
     "phonetic": "",
     "color": "#26C6DA",
@@ -9876,7 +9876,7 @@
   },
   "stethoscope": {
     "nameEn": "Stethoscope",
-    "nameVn": "Stethoscope",
+    "nameVn": "Ống nghe",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -9888,7 +9888,7 @@
   },
   "stole": {
     "nameEn": "Stole",
-    "nameVn": "Stole",
+    "nameVn": "Ăn trộm",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -9900,7 +9900,7 @@
   },
   "stone_wall": {
     "nameEn": "Stone Wall",
-    "nameVn": "Stone Wall",
+    "nameVn": "Bức Tường Đá",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -9912,7 +9912,7 @@
   },
   "stopwatch": {
     "nameEn": "Stopwatch",
-    "nameVn": "Stopwatch",
+    "nameVn": "Đồng hồ bấm giờ",
     "emoji": "🕐",
     "phonetic": "",
     "color": "#FFA726",
@@ -9924,7 +9924,7 @@
   },
   "stove": {
     "nameEn": "Stove",
-    "nameVn": "Stove",
+    "nameVn": "Cái lò",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -9936,7 +9936,7 @@
   },
   "strainer": {
     "nameEn": "Strainer",
-    "nameVn": "Strainer",
+    "nameVn": "Bộ lọc",
     "emoji": "🚂",
     "phonetic": "",
     "color": "#EF5350",
@@ -9948,7 +9948,7 @@
   },
   "streetcar": {
     "nameEn": "Streetcar",
-    "nameVn": "Streetcar",
+    "nameVn": "Xe điện",
     "emoji": "🚗",
     "phonetic": "",
     "color": "#42A5F5",
@@ -9960,7 +9960,7 @@
   },
   "stretcher": {
     "nameEn": "Stretcher",
-    "nameVn": "Stretcher",
+    "nameVn": "Cáng",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -9972,7 +9972,7 @@
   },
   "studio_couch": {
     "nameEn": "Studio Couch",
-    "nameVn": "Studio Couch",
+    "nameVn": "Ghế Studio",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -9984,7 +9984,7 @@
   },
   "stupa": {
     "nameEn": "Stupa",
-    "nameVn": "Stupa",
+    "nameVn": "Bảo tháp",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -9996,7 +9996,7 @@
   },
   "submarine": {
     "nameEn": "Submarine",
-    "nameVn": "Submarine",
+    "nameVn": "Tàu ngầm",
     "emoji": "🚢",
     "phonetic": "",
     "color": "#1565C0",
@@ -10008,7 +10008,7 @@
   },
   "suit": {
     "nameEn": "Suit",
-    "nameVn": "Suit",
+    "nameVn": "Bộ đồ",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -10020,7 +10020,7 @@
   },
   "sundial": {
     "nameEn": "Sundial",
-    "nameVn": "Sundial",
+    "nameVn": "Đồng hồ mặt trời",
     "emoji": "🕐",
     "phonetic": "",
     "color": "#FFA726",
@@ -10032,7 +10032,7 @@
   },
   "sunglass": {
     "nameEn": "Sunglass",
-    "nameVn": "Sunglass",
+    "nameVn": "Kính mát",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -10044,7 +10044,7 @@
   },
   "sunglasses": {
     "nameEn": "Sunglasses",
-    "nameVn": "Sunglasses",
+    "nameVn": "Kính râm",
     "emoji": "🕶️",
     "phonetic": "",
     "color": "#37474F",
@@ -10056,7 +10056,7 @@
   },
   "sunscreen": {
     "nameEn": "Sunscreen",
-    "nameVn": "Sunscreen",
+    "nameVn": "Kem chống nắng",
     "emoji": "📺",
     "phonetic": "",
     "color": "#37474F",
@@ -10068,7 +10068,7 @@
   },
   "suspension_bridge": {
     "nameEn": "Suspension Bridge",
-    "nameVn": "Suspension Bridge",
+    "nameVn": "Cầu Treo",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -10080,7 +10080,7 @@
   },
   "swab": {
     "nameEn": "Swab",
-    "nameVn": "Swab",
+    "nameVn": "Gạc",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -10092,7 +10092,7 @@
   },
   "sweatshirt": {
     "nameEn": "Sweatshirt",
-    "nameVn": "Sweatshirt",
+    "nameVn": "Áo nỉ",
     "emoji": "👕",
     "phonetic": "",
     "color": "#42A5F5",
@@ -10104,7 +10104,7 @@
   },
   "swimming_trunks": {
     "nameEn": "Swimming Trunks",
-    "nameVn": "Swimming Trunks",
+    "nameVn": "Quần bơi",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -10116,7 +10116,7 @@
   },
   "swing": {
     "nameEn": "Swing",
-    "nameVn": "Swing",
+    "nameVn": "Xích đu",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -10128,7 +10128,7 @@
   },
   "switch": {
     "nameEn": "Switch",
-    "nameVn": "Switch",
+    "nameVn": "Công tắc",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -10140,7 +10140,7 @@
   },
   "syringe": {
     "nameEn": "Syringe",
-    "nameVn": "Syringe",
+    "nameVn": "Ống tiêm",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -10152,7 +10152,7 @@
   },
   "table_lamp": {
     "nameEn": "Table Lamp",
-    "nameVn": "Table Lamp",
+    "nameVn": "Đèn bàn",
     "emoji": "💡",
     "phonetic": "",
     "color": "#FFD54F",
@@ -10164,7 +10164,7 @@
   },
   "tank": {
     "nameEn": "Tank",
-    "nameVn": "Tank",
+    "nameVn": "Xe tăng",
     "emoji": "🪖",
     "phonetic": "",
     "color": "#546E7A",
@@ -10176,7 +10176,7 @@
   },
   "tape_player": {
     "nameEn": "Tape Player",
-    "nameVn": "Tape Player",
+    "nameVn": "Máy phát băng",
     "emoji": "🐒",
     "phonetic": "",
     "color": "#A1887F",
@@ -10188,7 +10188,7 @@
   },
   "teapot": {
     "nameEn": "Teapot",
-    "nameVn": "Teapot",
+    "nameVn": "Ấm trà",
     "emoji": "🏺",
     "phonetic": "",
     "color": "#FF8F00",
@@ -10200,7 +10200,7 @@
   },
   "teddy": {
     "nameEn": "Teddy",
-    "nameVn": "Teddy",
+    "nameVn": "Gấu bông",
     "emoji": "🧸",
     "phonetic": "",
     "color": "#BCAAA4",
@@ -10227,7 +10227,7 @@
   },
   "tennis_ball": {
     "nameEn": "Tennis Ball",
-    "nameVn": "Tennis Ball",
+    "nameVn": "Bóng tennis",
     "emoji": "⚽",
     "phonetic": "",
     "color": "#66BB6A",
@@ -10239,7 +10239,7 @@
   },
   "thatch": {
     "nameEn": "Thatch",
-    "nameVn": "Thatch",
+    "nameVn": "Tranh",
     "emoji": "🎩",
     "phonetic": "",
     "color": "#5D4037",
@@ -10251,7 +10251,7 @@
   },
   "theater_curtain": {
     "nameEn": "Theater Curtain",
-    "nameVn": "Theater Curtain",
+    "nameVn": "Rèm rạp hát",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -10263,7 +10263,7 @@
   },
   "thimble": {
     "nameEn": "Thimble",
-    "nameVn": "Thimble",
+    "nameVn": "Cái đê",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -10275,7 +10275,7 @@
   },
   "thresher": {
     "nameEn": "Thresher",
-    "nameVn": "Thresher",
+    "nameVn": "Máy tuốt lúa",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -10287,7 +10287,7 @@
   },
   "throne": {
     "nameEn": "Throne",
-    "nameVn": "Throne",
+    "nameVn": "Ngai vàng",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -10299,7 +10299,7 @@
   },
   "tile_roof": {
     "nameEn": "Tile Roof",
-    "nameVn": "Tile Roof",
+    "nameVn": "Mái ngói",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -10311,7 +10311,7 @@
   },
   "toaster": {
     "nameEn": "Toaster",
-    "nameVn": "Toaster",
+    "nameVn": "Máy nướng bánh mì",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -10323,7 +10323,7 @@
   },
   "tobacco_shop": {
     "nameEn": "Tobacco Shop",
-    "nameVn": "Tobacco Shop",
+    "nameVn": "Cửa hàng thuốc lá",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -10335,7 +10335,7 @@
   },
   "toilet_seat": {
     "nameEn": "Toilet Seat",
-    "nameVn": "Toilet Seat",
+    "nameVn": "Ghế vệ sinh",
     "emoji": "🚽",
     "phonetic": "",
     "color": "#E3F2FD",
@@ -10347,7 +10347,7 @@
   },
   "torch": {
     "nameEn": "Torch",
-    "nameVn": "Torch",
+    "nameVn": "Đèn pin",
     "emoji": "💡",
     "phonetic": "",
     "color": "#FFD54F",
@@ -10359,7 +10359,7 @@
   },
   "totem_pole": {
     "nameEn": "Totem Pole",
-    "nameVn": "Totem Pole",
+    "nameVn": "Cột vật tổ",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -10371,7 +10371,7 @@
   },
   "tow_truck": {
     "nameEn": "Tow Truck",
-    "nameVn": "Tow Truck",
+    "nameVn": "Xe kéo",
     "emoji": "🚚",
     "phonetic": "",
     "color": "#78909C",
@@ -10383,7 +10383,7 @@
   },
   "toyshop": {
     "nameEn": "Toyshop",
-    "nameVn": "Toyshop",
+    "nameVn": "Cửa hàng đồ chơi",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -10395,7 +10395,7 @@
   },
   "tractor": {
     "nameEn": "Tractor",
-    "nameVn": "Tractor",
+    "nameVn": "Máy kéo",
     "emoji": "🚜",
     "phonetic": "",
     "color": "#66BB6A",
@@ -10407,7 +10407,7 @@
   },
   "trailer_truck": {
     "nameEn": "Trailer Truck",
-    "nameVn": "Trailer Truck",
+    "nameVn": "Xe tải kéo",
     "emoji": "🚚",
     "phonetic": "",
     "color": "#78909C",
@@ -10419,7 +10419,7 @@
   },
   "tray": {
     "nameEn": "Tray",
-    "nameVn": "Tray",
+    "nameVn": "Cá Tray",
     "emoji": "🐟",
     "phonetic": "",
     "color": "#26C6DA",
@@ -10431,7 +10431,7 @@
   },
   "trench_coat": {
     "nameEn": "Trench Coat",
-    "nameVn": "Trench Coat",
+    "nameVn": "Áo khoác dài",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -10443,7 +10443,7 @@
   },
   "tricycle": {
     "nameEn": "Tricycle",
-    "nameVn": "Tricycle",
+    "nameVn": "Xe ba bánh",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -10455,7 +10455,7 @@
   },
   "trimaran": {
     "nameEn": "Trimaran",
-    "nameVn": "Trimaran",
+    "nameVn": "Thuyền ba thân",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -10467,7 +10467,7 @@
   },
   "tripod": {
     "nameEn": "Tripod",
-    "nameVn": "Tripod",
+    "nameVn": "Chân máy",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -10479,7 +10479,7 @@
   },
   "triumphal_arch": {
     "nameEn": "Triumphal Arch",
-    "nameVn": "Triumphal Arch",
+    "nameVn": "Khải hoàn môn",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -10491,7 +10491,7 @@
   },
   "trolleybus": {
     "nameEn": "Trolleybus",
-    "nameVn": "Trolleybus",
+    "nameVn": "Xe đẩy",
     "emoji": "🚌",
     "phonetic": "",
     "color": "#FFB300",
@@ -10503,7 +10503,7 @@
   },
   "trombone": {
     "nameEn": "Trombone",
-    "nameVn": "Trombone",
+    "nameVn": "Kèn trombone",
     "emoji": "🎺",
     "phonetic": "",
     "color": "#FFD54F",
@@ -10515,7 +10515,7 @@
   },
   "tub": {
     "nameEn": "Tub",
-    "nameVn": "Tub",
+    "nameVn": "Bồn tắm",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -10527,7 +10527,7 @@
   },
   "turnstile": {
     "nameEn": "Turnstile",
-    "nameVn": "Turnstile",
+    "nameVn": "Cửa quay",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -10539,7 +10539,7 @@
   },
   "typewriter_keyboard": {
     "nameEn": "Typewriter Keyboard",
-    "nameVn": "Typewriter Keyboard",
+    "nameVn": "Rắn Typewriter Keyboard",
     "emoji": "🐍",
     "phonetic": "",
     "color": "#388E3C",
@@ -10551,7 +10551,7 @@
   },
   "umbrella": {
     "nameEn": "Umbrella",
-    "nameVn": "Ô dù",
+    "nameVn": "Ô",
     "emoji": "☂️",
     "phonetic": "/ʌmˈbrelə/",
     "color": "#7E57C2",
@@ -10564,7 +10564,7 @@
   },
   "unicycle": {
     "nameEn": "Unicycle",
-    "nameVn": "Unicycle",
+    "nameVn": "Xe đạp một bánh",
     "emoji": "🚲",
     "phonetic": "",
     "color": "#26A69A",
@@ -10576,7 +10576,7 @@
   },
   "upright": {
     "nameEn": "Upright",
-    "nameVn": "Upright",
+    "nameVn": "Thẳng đứng",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -10588,7 +10588,7 @@
   },
   "vacuum": {
     "nameEn": "Vacuum",
-    "nameVn": "Vacuum",
+    "nameVn": "Chân không",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -10600,7 +10600,7 @@
   },
   "vase": {
     "nameEn": "Vase",
-    "nameVn": "Vase",
+    "nameVn": "Bình hoa",
     "emoji": "🏺",
     "phonetic": "",
     "color": "#FF8F00",
@@ -10612,7 +10612,7 @@
   },
   "vault": {
     "nameEn": "Vault",
-    "nameVn": "Vault",
+    "nameVn": "Kho tiền",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -10624,7 +10624,7 @@
   },
   "velvet": {
     "nameEn": "Velvet",
-    "nameVn": "Velvet",
+    "nameVn": "Nhung",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -10636,7 +10636,7 @@
   },
   "vending_machine": {
     "nameEn": "Vending Machine",
-    "nameVn": "Vending Machine",
+    "nameVn": "Máy bán hàng tự động",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -10648,7 +10648,7 @@
   },
   "vestment": {
     "nameEn": "Vestment",
-    "nameVn": "Vestment",
+    "nameVn": "Lễ phục",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -10660,7 +10660,7 @@
   },
   "viaduct": {
     "nameEn": "Viaduct",
-    "nameVn": "Viaduct",
+    "nameVn": "Cầu cạn",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -10672,7 +10672,7 @@
   },
   "violin": {
     "nameEn": "Violin",
-    "nameVn": "Violin",
+    "nameVn": "Đàn violin",
     "emoji": "🎻",
     "phonetic": "",
     "color": "#FF8F00",
@@ -10684,7 +10684,7 @@
   },
   "volleyball": {
     "nameEn": "Volleyball",
-    "nameVn": "Volleyball",
+    "nameVn": "Bóng chuyền",
     "emoji": "⚽",
     "phonetic": "",
     "color": "#66BB6A",
@@ -10696,7 +10696,7 @@
   },
   "waffle_iron": {
     "nameEn": "Waffle Iron",
-    "nameVn": "Waffle Iron",
+    "nameVn": "Bánh quế sắt",
     "emoji": "🧇",
     "phonetic": "",
     "color": "#FFD54F",
@@ -10708,7 +10708,7 @@
   },
   "wall_clock": {
     "nameEn": "Wall Clock",
-    "nameVn": "Wall Clock",
+    "nameVn": "Đồng hồ treo tường",
     "emoji": "🕐",
     "phonetic": "",
     "color": "#FFA726",
@@ -10720,7 +10720,7 @@
   },
   "wallet": {
     "nameEn": "Wallet",
-    "nameVn": "Wallet",
+    "nameVn": "Cái ví",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -10732,7 +10732,7 @@
   },
   "wardrobe": {
     "nameEn": "Wardrobe",
-    "nameVn": "Wardrobe",
+    "nameVn": "Tủ quần áo",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -10744,7 +10744,7 @@
   },
   "warplane": {
     "nameEn": "Warplane",
-    "nameVn": "Warplane",
+    "nameVn": "Máy bay quân sự",
     "emoji": "✈️",
     "phonetic": "",
     "color": "#5C6BC0",
@@ -10756,7 +10756,7 @@
   },
   "washbasin": {
     "nameEn": "Washbasin",
-    "nameVn": "Washbasin",
+    "nameVn": "Chậu rửa mặt",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -10768,7 +10768,7 @@
   },
   "washer": {
     "nameEn": "Washer",
-    "nameVn": "Washer",
+    "nameVn": "Máy giặt",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -10780,7 +10780,7 @@
   },
   "water_bottle": {
     "nameEn": "Water Bottle",
-    "nameVn": "Water Bottle",
+    "nameVn": "Chai nước",
     "emoji": "🍶",
     "phonetic": "",
     "color": "#80CBC4",
@@ -10792,7 +10792,7 @@
   },
   "water_jug": {
     "nameEn": "Water Jug",
-    "nameVn": "Water Jug",
+    "nameVn": "Bình nước",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -10804,7 +10804,7 @@
   },
   "water_tower": {
     "nameEn": "Water Tower",
-    "nameVn": "Water Tower",
+    "nameVn": "Tháp nước",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -10816,7 +10816,7 @@
   },
   "whiskey_jug": {
     "nameEn": "Whiskey Jug",
-    "nameVn": "Whiskey Jug",
+    "nameVn": "Bình đựng rượu whisky",
     "emoji": "🔑",
     "phonetic": "",
     "color": "#FFD54F",
@@ -10828,7 +10828,7 @@
   },
   "whistle": {
     "nameEn": "Whistle",
-    "nameVn": "Whistle",
+    "nameVn": "Còi",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -10840,7 +10840,7 @@
   },
   "wig": {
     "nameEn": "Wig",
-    "nameVn": "Wig",
+    "nameVn": "Tóc giả",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -10852,7 +10852,7 @@
   },
   "window_screen": {
     "nameEn": "Window Screen",
-    "nameVn": "Window Screen",
+    "nameVn": "Màn cửa sổ",
     "emoji": "📺",
     "phonetic": "",
     "color": "#37474F",
@@ -10864,7 +10864,7 @@
   },
   "window_shade": {
     "nameEn": "Window Shade",
-    "nameVn": "Window Shade",
+    "nameVn": "Bóng râm cửa sổ",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -10876,7 +10876,7 @@
   },
   "windsor_tie": {
     "nameEn": "Windsor Tie",
-    "nameVn": "Windsor Tie",
+    "nameVn": "Cà vạt Windsor",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -10888,7 +10888,7 @@
   },
   "wine_bottle": {
     "nameEn": "Wine Bottle",
-    "nameVn": "Wine Bottle",
+    "nameVn": "Chai rượu",
     "emoji": "🍶",
     "phonetic": "",
     "color": "#80CBC4",
@@ -10900,7 +10900,7 @@
   },
   "wing": {
     "nameEn": "Wing",
-    "nameVn": "Wing",
+    "nameVn": "Cánh",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -10912,7 +10912,7 @@
   },
   "wok": {
     "nameEn": "Wok",
-    "nameVn": "Wok",
+    "nameVn": "Chảo",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -10924,7 +10924,7 @@
   },
   "wooden_spoon": {
     "nameEn": "Wooden Spoon",
-    "nameVn": "Wooden Spoon",
+    "nameVn": "Thìa gỗ",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -10936,7 +10936,7 @@
   },
   "wool": {
     "nameEn": "Wool",
-    "nameVn": "Wool",
+    "nameVn": "Len",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -10948,7 +10948,7 @@
   },
   "worm_fence": {
     "nameEn": "Worm Fence",
-    "nameVn": "Worm Fence",
+    "nameVn": "Hàng rào giun",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -10960,7 +10960,7 @@
   },
   "wreck": {
     "nameEn": "Wreck",
-    "nameVn": "Wreck",
+    "nameVn": "Xác tàu",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -10972,7 +10972,7 @@
   },
   "yawl": {
     "nameEn": "Yawl",
-    "nameVn": "Yawl",
+    "nameVn": "Ngáp",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -10984,7 +10984,7 @@
   },
   "yurt": {
     "nameEn": "Yurt",
-    "nameVn": "Yurt",
+    "nameVn": "Lều yurt",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -10996,7 +10996,7 @@
   },
   "web_site": {
     "nameEn": "Web Site",
-    "nameVn": "Web Site",
+    "nameVn": "Trang web",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -11008,7 +11008,7 @@
   },
   "comic_book": {
     "nameEn": "Comic Book",
-    "nameVn": "Comic Book",
+    "nameVn": "Truyện tranh",
     "emoji": "📚",
     "phonetic": "",
     "color": "#8D6E63",
@@ -11020,7 +11020,7 @@
   },
   "crossword_puzzle": {
     "nameEn": "Crossword Puzzle",
-    "nameVn": "Crossword Puzzle",
+    "nameVn": "Câu đố ô chữ",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -11032,7 +11032,7 @@
   },
   "street_sign": {
     "nameEn": "Street Sign",
-    "nameVn": "Street Sign",
+    "nameVn": "Biển báo đường phố",
     "emoji": "🌳",
     "phonetic": "",
     "color": "#388E3C",
@@ -11044,7 +11044,7 @@
   },
   "traffic_light": {
     "nameEn": "Traffic Light",
-    "nameVn": "Traffic Light",
+    "nameVn": "Đèn giao thông",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -11056,7 +11056,7 @@
   },
   "book_jacket": {
     "nameEn": "Book Jacket",
-    "nameVn": "Book Jacket",
+    "nameVn": "Bìa sách",
     "emoji": "📚",
     "phonetic": "",
     "color": "#8D6E63",
@@ -11068,7 +11068,7 @@
   },
   "menu": {
     "nameEn": "Menu",
-    "nameVn": "Menu",
+    "nameVn": "Thực đơn",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -11080,7 +11080,7 @@
   },
   "plate": {
     "nameEn": "Plate",
-    "nameVn": "Plate",
+    "nameVn": "Đĩa",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -11092,7 +11092,7 @@
   },
   "guacamole": {
     "nameEn": "Guacamole",
-    "nameVn": "Guacamole",
+    "nameVn": "Quả bơ",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -11104,7 +11104,7 @@
   },
   "consomme": {
     "nameEn": "Consomme",
-    "nameVn": "Consomme",
+    "nameVn": "Nước dùng",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -11116,7 +11116,7 @@
   },
   "hot_pot": {
     "nameEn": "Hot Pot",
-    "nameVn": "Hot Pot",
+    "nameVn": "Lẩu",
     "emoji": "🏺",
     "phonetic": "",
     "color": "#FF8F00",
@@ -11128,7 +11128,7 @@
   },
   "trifle": {
     "nameEn": "Trifle",
-    "nameVn": "Trifle",
+    "nameVn": "Chuyện vặt",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -11140,7 +11140,7 @@
   },
   "ice_cream": {
     "nameEn": "Ice Cream",
-    "nameVn": "Ice Cream",
+    "nameVn": "Kem",
     "emoji": "🍦",
     "phonetic": "",
     "color": "#F8BBD0",
@@ -11152,7 +11152,7 @@
   },
   "ice_lolly": {
     "nameEn": "Ice Lolly",
-    "nameVn": "Ice Lolly",
+    "nameVn": "Kem que",
     "emoji": "🍦",
     "phonetic": "",
     "color": "#F8BBD0",
@@ -11164,7 +11164,7 @@
   },
   "french_loaf": {
     "nameEn": "French Loaf",
-    "nameVn": "French Loaf",
+    "nameVn": "Bánh mì Pháp",
     "emoji": "🍞",
     "phonetic": "",
     "color": "#FFCC80",
@@ -11176,7 +11176,7 @@
   },
   "bagel": {
     "nameEn": "Bagel",
-    "nameVn": "Bagel",
+    "nameVn": "Bánh mì vòng",
     "emoji": "🍞",
     "phonetic": "",
     "color": "#FFCC80",
@@ -11188,7 +11188,7 @@
   },
   "pretzel": {
     "nameEn": "Pretzel",
-    "nameVn": "Pretzel",
+    "nameVn": "Bánh pretzel",
     "emoji": "🍪",
     "phonetic": "",
     "color": "#FFAB40",
@@ -11200,7 +11200,7 @@
   },
   "cheeseburger": {
     "nameEn": "Cheeseburger",
-    "nameVn": "Cheeseburger",
+    "nameVn": "Bánh hamburger phô mai",
     "emoji": "🍔",
     "phonetic": "",
     "color": "#FF8F00",
@@ -11212,7 +11212,7 @@
   },
   "hotdog": {
     "nameEn": "Hot Dog",
-    "nameVn": "Xúc xích",
+    "nameVn": "Bánh mì xúc xích",
     "emoji": "🌭",
     "phonetic": "/hɒt dɒɡ/",
     "color": "#F4511E",
@@ -11226,7 +11226,7 @@
   },
   "mashed_potato": {
     "nameEn": "Mashed Potato",
-    "nameVn": "Mashed Potato",
+    "nameVn": "Khoai tây nghiền",
     "emoji": "🏺",
     "phonetic": "",
     "color": "#FF8F00",
@@ -11238,7 +11238,7 @@
   },
   "head_cabbage": {
     "nameEn": "Head Cabbage",
-    "nameVn": "Head Cabbage",
+    "nameVn": "Đầu bắp cải",
     "emoji": "🚗",
     "phonetic": "",
     "color": "#42A5F5",
@@ -11250,7 +11250,7 @@
   },
   "broccoli": {
     "nameEn": "Broccoli",
-    "nameVn": "Broccoli",
+    "nameVn": "Bông cải xanh",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -11262,7 +11262,7 @@
   },
   "cauliflower": {
     "nameEn": "Cauliflower",
-    "nameVn": "Cauliflower",
+    "nameVn": "Súp lơ",
     "emoji": "🌸",
     "phonetic": "",
     "color": "#EC407A",
@@ -11274,7 +11274,7 @@
   },
   "zucchini": {
     "nameEn": "Zucchini",
-    "nameVn": "Zucchini",
+    "nameVn": "Bí xanh",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -11286,7 +11286,7 @@
   },
   "spaghetti_squash": {
     "nameEn": "Spaghetti Squash",
-    "nameVn": "Spaghetti Squash",
+    "nameVn": "Mì spaghetti bí",
     "emoji": "🍝",
     "phonetic": "",
     "color": "#FF7043",
@@ -11298,7 +11298,7 @@
   },
   "acorn_squash": {
     "nameEn": "Acorn Squash",
-    "nameVn": "Acorn Squash",
+    "nameVn": "Quả sồi",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -11310,7 +11310,7 @@
   },
   "butternut_squash": {
     "nameEn": "Butternut Squash",
-    "nameVn": "Butternut Squash",
+    "nameVn": "Bí đao",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -11322,7 +11322,7 @@
   },
   "cucumber": {
     "nameEn": "Cucumber",
-    "nameVn": "Cucumber",
+    "nameVn": "Quả dưa chuột",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -11334,7 +11334,7 @@
   },
   "artichoke": {
     "nameEn": "Artichoke",
-    "nameVn": "Artichoke",
+    "nameVn": "Atisô",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -11346,7 +11346,7 @@
   },
   "bell_pepper": {
     "nameEn": "Bell Pepper",
-    "nameVn": "Bell Pepper",
+    "nameVn": "Ớt chuông",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -11358,7 +11358,7 @@
   },
   "cardoon": {
     "nameEn": "Cardoon",
-    "nameVn": "Cardoon",
+    "nameVn": "Áo len",
     "emoji": "🚗",
     "phonetic": "",
     "color": "#42A5F5",
@@ -11385,7 +11385,7 @@
   },
   "granny_smith": {
     "nameEn": "Granny Smith",
-    "nameVn": "Granny Smith",
+    "nameVn": "Bà Smith",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -11409,7 +11409,7 @@
   },
   "orange": {
     "nameEn": "Orange",
-    "nameVn": "Orange",
+    "nameVn": "Cam",
     "emoji": "🍊",
     "phonetic": "",
     "color": "#FF7043",
@@ -11434,7 +11434,7 @@
   },
   "fig": {
     "nameEn": "Fig",
-    "nameVn": "Fig",
+    "nameVn": "Quả sung",
     "emoji": "🍑",
     "phonetic": "",
     "color": "#FF7043",
@@ -11458,7 +11458,7 @@
   },
   "banana": {
     "nameEn": "Banana",
-    "nameVn": "Banana",
+    "nameVn": "Chuối",
     "emoji": "🍌",
     "phonetic": "",
     "color": "#FFD54F",
@@ -11470,7 +11470,7 @@
   },
   "jackfruit": {
     "nameEn": "Jackfruit",
-    "nameVn": "Jackfruit",
+    "nameVn": "Mít",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -11482,7 +11482,7 @@
   },
   "custard_apple": {
     "nameEn": "Custard Apple",
-    "nameVn": "Custard Apple",
+    "nameVn": "Mãng cầu",
     "emoji": "🍎",
     "phonetic": "",
     "color": "#FF5252",
@@ -11494,7 +11494,7 @@
   },
   "pomegranate": {
     "nameEn": "Pomegranate",
-    "nameVn": "Pomegranate",
+    "nameVn": "Lựu",
     "emoji": "🍈",
     "phonetic": "",
     "color": "#E91E63",
@@ -11506,7 +11506,7 @@
   },
   "hay": {
     "nameEn": "Hay",
-    "nameVn": "Hay",
+    "nameVn": "Cỏ khô",
     "emoji": "🌾",
     "phonetic": "",
     "color": "#FFD54F",
@@ -11518,7 +11518,7 @@
   },
   "carbonara": {
     "nameEn": "Carbonara",
-    "nameVn": "Carbonara",
+    "nameVn": "Cacbonara",
     "emoji": "🍝",
     "phonetic": "",
     "color": "#FF7043",
@@ -11530,7 +11530,7 @@
   },
   "chocolate_sauce": {
     "nameEn": "Chocolate Sauce",
-    "nameVn": "Chocolate Sauce",
+    "nameVn": "Sốt sô cô la",
     "emoji": "🍫",
     "phonetic": "",
     "color": "#5D4037",
@@ -11542,7 +11542,7 @@
   },
   "dough": {
     "nameEn": "Dough",
-    "nameVn": "Dough",
+    "nameVn": "Bột",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -11554,7 +11554,7 @@
   },
   "meat_loaf": {
     "nameEn": "Meat Loaf",
-    "nameVn": "Meat Loaf",
+    "nameVn": "Bánh mì thịt",
     "emoji": "🍞",
     "phonetic": "",
     "color": "#FFCC80",
@@ -11566,7 +11566,7 @@
   },
   "pizza": {
     "nameEn": "Pizza",
-    "nameVn": "Pizza",
+    "nameVn": "Bánh pizza",
     "emoji": "🍕",
     "phonetic": "/ˈpiːtsə/",
     "color": "#FF7043",
@@ -11578,7 +11578,7 @@
   },
   "potpie": {
     "nameEn": "Potpie",
-    "nameVn": "Potpie",
+    "nameVn": "Bánh bô",
     "emoji": "🏺",
     "phonetic": "",
     "color": "#FF8F00",
@@ -11590,7 +11590,7 @@
   },
   "burrito": {
     "nameEn": "Burrito",
-    "nameVn": "Burrito",
+    "nameVn": "Bánh burrito",
     "emoji": "🌮",
     "phonetic": "",
     "color": "#FF8F00",
@@ -11602,7 +11602,7 @@
   },
   "red_wine": {
     "nameEn": "Red Wine",
-    "nameVn": "Red Wine",
+    "nameVn": "Rượu vang đỏ",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -11614,7 +11614,7 @@
   },
   "espresso": {
     "nameEn": "Espresso",
-    "nameVn": "Espresso",
+    "nameVn": "Cà phê",
     "emoji": "☕",
     "phonetic": "",
     "color": "#5D4037",
@@ -11640,7 +11640,7 @@
   },
   "eggnog": {
     "nameEn": "Eggnog",
-    "nameVn": "Eggnog",
+    "nameVn": "Rượu trứng",
     "emoji": "🥚",
     "phonetic": "",
     "color": "#FFF9C4",
@@ -11652,7 +11652,7 @@
   },
   "alp": {
     "nameEn": "Alp",
-    "nameVn": "Alp",
+    "nameVn": "Dãy Alp",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -11664,7 +11664,7 @@
   },
   "bubble": {
     "nameEn": "Bubble",
-    "nameVn": "Bubble",
+    "nameVn": "Bong bóng",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -11676,7 +11676,7 @@
   },
   "cliff": {
     "nameEn": "Cliff",
-    "nameVn": "Cliff",
+    "nameVn": "Vách đá",
     "emoji": "🏔️",
     "phonetic": "",
     "color": "#78909C",
@@ -11688,7 +11688,7 @@
   },
   "coral_reef": {
     "nameEn": "Coral Reef",
-    "nameVn": "Coral Reef",
+    "nameVn": "Sinh vật biển Coral Reef",
     "emoji": "🪸",
     "phonetic": "",
     "color": "#FF7043",
@@ -11700,7 +11700,7 @@
   },
   "geyser": {
     "nameEn": "Geyser",
-    "nameVn": "Geyser",
+    "nameVn": "Mạch nước phun",
     "emoji": "⛲",
     "phonetic": "",
     "color": "#29B6F6",
@@ -11712,7 +11712,7 @@
   },
   "lakeside": {
     "nameEn": "Lakeside",
-    "nameVn": "Lakeside",
+    "nameVn": "Ven hồ",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -11724,7 +11724,7 @@
   },
   "promontory": {
     "nameEn": "Promontory",
-    "nameVn": "Promontory",
+    "nameVn": "Mũi đất",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -11736,7 +11736,7 @@
   },
   "sandbar": {
     "nameEn": "Sandbar",
-    "nameVn": "Sandbar",
+    "nameVn": "Bãi cát",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -11748,7 +11748,7 @@
   },
   "seashore": {
     "nameEn": "Seashore",
-    "nameVn": "Seashore",
+    "nameVn": "Bờ biển",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -11760,7 +11760,7 @@
   },
   "valley": {
     "nameEn": "Valley",
-    "nameVn": "Valley",
+    "nameVn": "Thung lũng",
     "emoji": "🏔️",
     "phonetic": "",
     "color": "#78909C",
@@ -11772,7 +11772,7 @@
   },
   "volcano": {
     "nameEn": "Volcano",
-    "nameVn": "Volcano",
+    "nameVn": "Núi lửa",
     "emoji": "🌋",
     "phonetic": "",
     "color": "#EF5350",
@@ -11784,7 +11784,7 @@
   },
   "ballplayer": {
     "nameEn": "Ballplayer",
-    "nameVn": "Ballplayer",
+    "nameVn": "Người chơi bóng",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -11796,7 +11796,7 @@
   },
   "groom": {
     "nameEn": "Groom",
-    "nameVn": "Groom",
+    "nameVn": "Chú rể",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -11808,7 +11808,7 @@
   },
   "scuba_diver": {
     "nameEn": "Scuba Diver",
-    "nameVn": "Scuba Diver",
+    "nameVn": "Thợ lặn",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -11820,7 +11820,7 @@
   },
   "rapeseed": {
     "nameEn": "Rapeseed",
-    "nameVn": "Rapeseed",
+    "nameVn": "Hạt cải dầu",
     "emoji": "🐒",
     "phonetic": "",
     "color": "#A1887F",
@@ -11832,7 +11832,7 @@
   },
   "daisy": {
     "nameEn": "Daisy",
-    "nameVn": "Daisy",
+    "nameVn": "Hoa cúc",
     "emoji": "🌸",
     "phonetic": "",
     "color": "#EC407A",
@@ -11844,7 +11844,7 @@
   },
   "yellow_lady's_slipper": {
     "nameEn": "Yellow Lady's Slipper",
-    "nameVn": "Yellow Lady's Slipper",
+    "nameVn": "Dép của cô gái màu vàng",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -11856,7 +11856,7 @@
   },
   "corn": {
     "nameEn": "Corn",
-    "nameVn": "Corn",
+    "nameVn": "Ngô",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -11868,7 +11868,7 @@
   },
   "acorn": {
     "nameEn": "Acorn",
-    "nameVn": "Acorn",
+    "nameVn": "Quả sồi",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -11880,7 +11880,7 @@
   },
   "hip": {
     "nameEn": "Hip",
-    "nameVn": "Hip",
+    "nameVn": "Hông",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -11892,7 +11892,7 @@
   },
   "buckeye": {
     "nameEn": "Buckeye",
-    "nameVn": "Buckeye",
+    "nameVn": "Hạt dẻ ngựa buckeye",
     "emoji": "🔑",
     "phonetic": "",
     "color": "#FFD54F",
@@ -11904,7 +11904,7 @@
   },
   "coral_fungus": {
     "nameEn": "Coral Fungus",
-    "nameVn": "Coral Fungus",
+    "nameVn": "Sinh vật biển Coral Fungus",
     "emoji": "🪸",
     "phonetic": "",
     "color": "#FF7043",
@@ -11916,7 +11916,7 @@
   },
   "agaric": {
     "nameEn": "Agaric",
-    "nameVn": "Agaric",
+    "nameVn": "Cá Agaric",
     "emoji": "🐟",
     "phonetic": "",
     "color": "#26C6DA",
@@ -11928,7 +11928,7 @@
   },
   "gyromitra": {
     "nameEn": "Gyromitra",
-    "nameVn": "Gyromitra",
+    "nameVn": "Nấm Gyromitra",
     "emoji": "🍄",
     "phonetic": "",
     "color": "#A1887F",
@@ -11940,7 +11940,7 @@
   },
   "stinkhorn": {
     "nameEn": "Stinkhorn",
-    "nameVn": "Stinkhorn",
+    "nameVn": "Sừng hôi",
     "emoji": "🍄",
     "phonetic": "",
     "color": "#A1887F",
@@ -11952,7 +11952,7 @@
   },
   "earthstar": {
     "nameEn": "Earthstar",
-    "nameVn": "Earthstar",
+    "nameVn": "Sao đất",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -11964,7 +11964,7 @@
   },
   "hen-of-the-woods": {
     "nameEn": "Hen-of--woods",
-    "nameVn": "Hen-of--woods",
+    "nameVn": "Chim Hen-of--woods",
     "emoji": "🐔",
     "phonetic": "",
     "color": "#FFF176",
@@ -11976,7 +11976,7 @@
   },
   "bolete": {
     "nameEn": "Bolete",
-    "nameVn": "Bolete",
+    "nameVn": "Nấm bolete",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -11988,7 +11988,7 @@
   },
   "ear": {
     "nameEn": "Ear",
-    "nameVn": "Ear",
+    "nameVn": "Tai",
     "emoji": "📦",
     "phonetic": "",
     "color": "#78909C",
@@ -12000,7 +12000,7 @@
   },
   "toilet_tissue": {
     "nameEn": "Toilet Tissue",
-    "nameVn": "Toilet Tissue",
+    "nameVn": "Khăn giấy vệ sinh",
     "emoji": "🚽",
     "phonetic": "",
     "color": "#E3F2FD",
@@ -12126,7 +12126,7 @@
   },
   "cow": {
     "nameEn": "Cow",
-    "nameVn": "Bò",
+    "nameVn": "Bò Cow",
     "emoji": "🐄",
     "phonetic": "/kaʊ/",
     "color": "#BCAAA4",
@@ -12142,7 +12142,7 @@
   },
   "pig": {
     "nameEn": "Pig",
-    "nameVn": "Heo",
+    "nameVn": "Lợn Pig",
     "emoji": "🐷",
     "phonetic": "/pɪɡ/",
     "color": "#F48FB1",
@@ -12159,7 +12159,7 @@
   },
   "chicken": {
     "nameEn": "Chicken",
-    "nameVn": "Gà",
+    "nameVn": "Gà Chicken",
     "emoji": "🐔",
     "phonetic": "/ˈtʃɪkɪn/",
     "color": "#FFF176",
@@ -12176,7 +12176,7 @@
   },
   "duck": {
     "nameEn": "Duck",
-    "nameVn": "Vịt",
+    "nameVn": "Vịt Duck",
     "emoji": "🦆",
     "phonetic": "/dʌk/",
     "color": "#80DEEA",
@@ -12219,7 +12219,7 @@
   },
   "monkey": {
     "nameEn": "Monkey",
-    "nameVn": "Khỉ",
+    "nameVn": "Khỉ Monkey",
     "emoji": "🐒",
     "phonetic": "/ˈmʌŋki/",
     "color": "#A1887F",
@@ -12249,7 +12249,7 @@
   },
   "parrot": {
     "nameEn": "Parrot",
-    "nameVn": "Vẹt",
+    "nameVn": "Vẹt Parrot",
     "emoji": "🦜",
     "phonetic": "/ˈpærət/",
     "color": "#66BB6A",
@@ -12355,7 +12355,7 @@
   },
   "hamburger": {
     "nameEn": "Hamburger",
-    "nameVn": "Bánh mì kẹp",
+    "nameVn": "Bánh hamburger",
     "emoji": "🍔",
     "phonetic": "/ˈhæmbɜːrɡər/",
     "color": "#FF8F00",
@@ -12384,7 +12384,7 @@
   },
   "cake": {
     "nameEn": "Cake",
-    "nameVn": "Bánh kem",
+    "nameVn": "Bánh ngọt",
     "emoji": "🎂",
     "phonetic": "/keɪk/",
     "color": "#F48FB1",
@@ -12497,7 +12497,7 @@
   },
   "peach": {
     "nameEn": "Peach",
-    "nameVn": "Đào",
+    "nameVn": "Quả đào",
     "emoji": "🍑",
     "phonetic": "/piːtʃ/",
     "color": "#FFAB91",
@@ -12721,7 +12721,7 @@
   },
   "ball": {
     "nameEn": "Ball",
-    "nameVn": "Bóng",
+    "nameVn": "Bóng đá",
     "emoji": "⚽",
     "phonetic": "/bɔːl/",
     "color": "#66BB6A",
@@ -12837,7 +12837,7 @@
   },
   "guitar": {
     "nameEn": "Guitar",
-    "nameVn": "Đàn ghi-ta",
+    "nameVn": "Đàn guitar",
     "emoji": "🎸",
     "phonetic": "/ɡɪˈtɑːr/",
     "color": "#FF8F00",

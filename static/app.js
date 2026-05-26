@@ -6,6 +6,7 @@ let cameraStream = null;
 let lastResult   = null;
 let currentDetailId = null;
 let facingMode   = 'environment';
+let scanMode     = 'imagenet';
 
 const CATEGORY_LABEL = {
   fruit:   { label: '🍎 Trái cây',     color: '#4CAF82' },
@@ -129,6 +130,19 @@ function showScreen(id) {
   if (id === 'dict')          filterDict();
   if (id === 'pronunciation') initPron();
   if (id !== 'scan')          stopCamera();
+}
+
+function setScanMode(mode) {
+  scanMode = mode === 'fruit' ? 'fruit' : 'imagenet';
+  document.querySelectorAll('.mode-btn').forEach(btn => {
+    btn.classList.toggle('active', btn.dataset.mode === scanMode);
+  });
+  const hint = $('scan-hint');
+  if (hint) {
+    hint.textContent = scanMode === 'fruit'
+      ? 'Che do trai cay: apple, banana, grape, orange, pomegranate'
+      : 'Che do vat dung: nhan dien do vat hang ngay bang ImageNet';
+  }
 }
 
 // ── AUDIO ─────────────────────────────────────────────────────────────────────
@@ -379,8 +393,11 @@ async function sendToPredict(blob) {
   hideResult();
   $('scan-loading').classList.remove('hidden');
   try {
-    const fd = new FormData(); fd.append('file', blob, 'photo.jpg');
+    const fd = new FormData();
+    fd.append('file', blob, 'photo.jpg');
+    fd.append('mode', scanMode);
     const data = await fetch('/api/predict',{method:'POST',body:fd}).then(r=>r.json());
+    if (data.detail) throw new Error(data.detail);
     if (!data.results?.length) throw new Error();
     showScanResult(data);
   } catch {
@@ -425,6 +442,7 @@ function renderPredictionMeta(data, cat) {
   };
   const issues = (quality.issues || []).map(i => issueMap[i] || i);
   const uncertain = !data.demo_mode && confidence < 0.35;
+  const modeLabel = data.source === 'fruit' ? 'Fruit model' : 'ImageNet';
 
   const predictionRows = (data.results || []).slice(0, 3).map((r, idx) => {
     const item = getObj(r.label);
@@ -439,6 +457,7 @@ function renderPredictionMeta(data, cat) {
   return `
     <div class="result-meta-line">
       <span class="cat-badge" style="background:${cat.color}18;color:${cat.color}">${cat.label}</span>
+      <span class="mode-pill">${modeLabel}</span>
       <span>${data.demo_mode ? '⚠️ Demo' : `✨ ${(confidence * 100).toFixed(1)}%`}</span>
     </div>
     ${uncertain ? '<div class="scan-warning">Độ tin cậy thấp, nên quét lại gần hơn hoặc đổi góc chụp.</div>' : ''}
